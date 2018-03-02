@@ -1,6 +1,6 @@
 # Esto es otra prueba!
 
-Puedo escribir en _cursiva_, **Negrita**, ~~tachar texto~~ o `código`.
+Puedo escribir en _cursiva_, **Negrita** o `código`.
 
 Hago párrafos con **doble enter**
 
@@ -29,19 +29,12 @@ public static void main(String[] args){
   - hola hola hola
 * hola
 
-- [ ] puedes hacer listas de tareas
-- [x] y marcarlas!
-
 También puedes | Hacer tablas
 ------------ | -------------
 No tienen que quedar lindas acá | Lo de arriba es un header, por eso los guiones
 Hola! | lalala
 
 # Fotos!
-
-Ah y soporta emoji  :sparkles: :camel: :boom: (como los nombres de telegram)
-
-[Acá salen los emoji](http://www.emoji-cheat-sheet.com/)
 
 ![Las imagenes van en la carpeta _\_static_](_static/s12.png)
 
@@ -50,4 +43,4 @@ Ah y soporta emoji  :sparkles: :camel: :boom: (como los nombres de telegram)
 > Que el movimiento no sea de tu cuello sino que cuerpo o torso completo.
 > _Steve Jobs_
 
-[Más info de todo esto acá](https://guides.github.com/features/mastering-markdown/)
+[Más info de todo esto acá](https://guides.github.com/features/mastering-markdown/) (Sirve todo menos los emoji, el tachado de texto y las listas :c )
