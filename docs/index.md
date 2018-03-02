@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Bienvenid@ al DCC!
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Acá van varias cosas
 
 ## Commands
 
