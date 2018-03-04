@@ -94,4 +94,4 @@ Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porq
 
 ###Contacto
 
-Puedes mandarnos tus dudas al mail faq@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
+Puedes mandarnos tus dudas al mail faqme@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
