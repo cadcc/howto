@@ -8,4 +8,4 @@ Entre los lugares importantes que pensamos agregar están:
 * Oficina CaDCC
 * Laboratorio Ramón Picarte
 * Auditorio Lorenzo
-* Otras salas (Grace, Ada, Falo-jet, Colossus (magister), Anakena (doctora2) )
+* Otras salas (Grace, Ada, Flajolet, Colossus (magister), Anakena (doctora2) )
