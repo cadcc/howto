@@ -1,6 +1,6 @@
 # Esto es otra prueba!
 
-Puedo escribir en _cursiva_, **Negrita**, <s>tachar</s> o `código`.
+Puedo escribir en _cursiva_, **Negrita**, <s>texto tachado</s> o `código`.
 
 Hago párrafos con **doble enter**
 
