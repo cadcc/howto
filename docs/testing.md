@@ -2,6 +2,8 @@
 
 Puedo escribir en _cursiva_, **Negrita**, <s>texto tachado</s> o `código`.
 
+~~No se tacha así~~
+
 Hago párrafos con **doble enter**
 
 En tu cara, **LaTeX**! 
