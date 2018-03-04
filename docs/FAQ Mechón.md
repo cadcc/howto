@@ -52,53 +52,49 @@ Y el Eniac, una sala silenciosa enfocada al trabajo individual solo con computad
 Además de las anteriores, existe un pequeño lugar de estudio al lado del toqui con computadores, mesitas y una pizarra. Por lo general aquí se hacen reclamos así que no siempre estará 100% libre.
 
 
-# ¿Por qué el DIM roba el agua del DCC?
+## ¿Por qué el DIM roba el agua del DCC?
 
 ¡PORQUE ES MUY RICA!
 
 
-# ¿Cómo puedo usar los casilleros de afuera de la Salita?
+## ¿Cómo puedo usar los casilleros de afuera de la Salita?
 
-A principio de año se abre un formulario de google para inscribirse. Por lo general un casillero cuesta 10.000 CLP <s>(Chilean Points)<&s> así que se recomienda pedirlos en parejas.
+A principio de año se abre un formulario de google para inscribirse. Por lo general un casillero cuesta 10.000 CLP <s>(Chilean Points)</s> así que se recomienda pedirlos en parejas.
 
 
-# ¿Cómo puedo enterarme de las noticias del DCC?
+## ¿Cómo puedo enterarme de las noticias del DCC?
 
 El cadcc tiene un blog en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de telegram](https://t.me/CaDCCInforma), al [grupo de facebook](https://www.facebook.com/groups/CaDCCUchile/) o seguir al cadcc en [twitter](https://twitter.com/cadcc).
 
 
-# ¿Qué es el CaDCC?
+## ¿Qué es el CaDCC?
 
 <s>Pensé que jamás lo preguntarías</s> Es el Centro de alumnos del Departamento de Ciencias de la Computación. Hay elecciones todos los años.
 
 
-# ¿Cómo funcionan las prácticas en el DCC?
+## ¿Cómo funcionan las prácticas en el DCC?
 
 Te invito a ver el FAQ de prácticas (sorry si todavía dice coming soon, es culpa de Tomimi).
 
 
-# ¿Cómo imprimo a través de la terminal como hacker en el DCC?
+## ¿Cómo imprimo a través de la terminal como hacker en el DCC?
 
 Desde un computador del Toqui puedes escribir esto en la terminal
 
-```pdf2ps filename.pdf out.ps
-```
+`pdf2ps filename.pdf out.ps`
 
 Y luego esto:
 
-```duplex -l out.ps|lpr -P hp-335
-```
+`duplex -l out.ps|lpr -P hp-335`
 
 y magia.
 
 Si estás desde tu computador tienes que primero copiar el archivo al servidor de anakena con scp:
 
-```scp archivo.pdf usuario@anakena.dcc.uchile.cl:~/
-```
+`scp archivo.pdf usuario@anakena.dcc.uchile.cl:~/`
 
 Y luego meterte a anakena con tu cuenta por ssh:
 
-```ssh usuario@anakena.dcc.uchile.cl
-```
+`ssh usuario@anakena.dcc.uchile.cl`
 
 Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porque en teoría lo estas).
