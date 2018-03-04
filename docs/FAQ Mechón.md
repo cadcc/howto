@@ -91,3 +91,7 @@ Si estás desde tu computador tienes que primero copiar el archivo al servidor d
 Y luego meterte a anakena con tu cuenta por ssh:
 `ssh usuario@anakena.dcc.uchile.cl`
 Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porque en teoría lo estas).
+
+###Contacto
+
+Puedes mandarnos tus dudas al mail faq@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
