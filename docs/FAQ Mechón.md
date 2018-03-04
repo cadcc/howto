@@ -89,6 +89,7 @@ Y luego esto:
 
 y magia.
 
+
 Si estás desde tu computador tienes que primero copiar el archivo al servidor de anakena con scp:
 
 `scp archivo.pdf usuario@anakena.dcc.uchile.cl:~/`
