@@ -2,7 +2,7 @@
 
 # Tercer Piso Edificio Norte
 
-<div>
+<div id="mapa_old_dcc">
 
 <style>
 
@@ -83,7 +83,7 @@ var width = 1000
 var height = 430
 
 
-var svg = d3.select("div")
+var svg = d3.select("#mapa_old_dcc")
 			.append("svg")
 			.attr("width", width)
 			.attr("height", height);
