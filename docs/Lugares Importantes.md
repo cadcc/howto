@@ -2,6 +2,8 @@
 
 # Tercer Piso Edificio Norte
 
+<div>
+
 <style>
 
 .piso {
@@ -81,7 +83,7 @@ var width = 1000
 var height = 430
 
 
-var svg = d3.select(this)
+var svg = d3.select("div")
 			.append("svg")
 			.attr("width", width)
 			.attr("height", height);
@@ -433,6 +435,8 @@ for(i = 2; i < 18; i++){
 
 
 </script>
+
+</div>
 
 Agradecimientos al Grupo de Agilidad de Madrid por la estructura de este mapa.
 
