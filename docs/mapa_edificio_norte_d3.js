@@ -1,8 +1,8 @@
-﻿var width = 1000
+﻿var width = 706
 var height = 430
 
 
-var svg = d3.select("body")
+var svg = d3.select("#mapa_old_dcc")
 			.append("svg")
 			.attr("width", width)
 			.attr("height", height);
@@ -351,3 +351,4 @@ for(i = 2; i < 18; i++){
 				.attr("d", line)
 				.attr("class", "oficina");
 }
+
