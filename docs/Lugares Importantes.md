@@ -1,5 +1,5 @@
 <link href="css/map_style.css" rel="stylesheet">
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
 
 # Tercer Piso Edificio Norte
 
