@@ -1,0 +1,353 @@
+﻿var width = 1000
+var height = 430
+
+
+var svg = d3.select("body")
+			.append("svg")
+			.attr("width", width)
+			.attr("height", height);
+
+var group = svg.append('g')
+				.attr("transform", "translate("+ width*1/20 + "," + height/43*5 + ") rotate(" + 0 + ")");
+
+var line = d3.svg.line()
+					.x(function(d) {return d.x})
+					.y(function(d) {return d.y});
+
+					
+//Fondo del mapa
+var datos_fondo = [
+			{x: 0, y: 0},
+			{x: width/10*9, y: 0},
+			{x: width/10*9, y: height/43*33},
+			{x: 0, y: height/43*33},
+			{x: 0, y: 0}
+			]
+					
+group.append("g").selectAll("path")
+					.data([datos_fondo])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "piso");
+
+					
+//Laboratorio Lorenzo
+var datos_lorenzo = [
+			{x: 0, y: 0},
+			{x: width/5, y: 0},
+			{x: width/5, y: height*8/43},
+			{x: 0, y: height*8/43},
+			{x: 0, y: 0}
+			];
+					
+var lorenzo = group.append("g")
+				.attr("transform", "translate(" + 0 + "," + (height/430*165 - height*12/86)  + ")")
+				.attr("class", "objeto_sala");
+		
+lorenzo.selectAll("path")
+			.data([datos_lorenzo])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "sala_de_estudio");
+			
+lorenzo.append("text")
+		.attr("transform", "translate(" + width/10 + "," + height*4/43  + ")")
+		.text("Laboratorio Lorenzo");
+
+		
+//Sala Misteriosa de al lado de laboratorio lorenzo
+var datos_sala_al_lado_lorenzo = [
+			{x: 0, y: 0},
+			{x: width/5, y: 0},
+			{x: width/5, y: height*4/43},
+			{x: 0, y: height*4/43},
+			{x: 0, y: 0}
+			];
+					
+var sala_al_lado_lorenzo = group.append("g")
+								.attr("transform", "translate(" + 0 + "," + (height/430*245 - height*12/86)  + ")")
+								.attr("class", "objeto_sala");
+								
+sala_al_lado_lorenzo.selectAll("path")
+						.data([datos_sala_al_lado_lorenzo])
+						.enter()
+						.append("path")
+						.attr("d", line)
+						.attr("class", "otros");
+
+sala_al_lado_lorenzo.append("text")
+		.attr("transform", "translate(" + width/10 + "," + height*2/43  + ")")
+		.text("???");
+
+		
+//Sala Fundadores
+var datos_sala_fundadores = [
+			{x: 0, y: 0},
+			{x: width*125/1000, y: 0},
+			{x: width*125/1000, y: height*6/43},
+			{x: -width/80, y: height*6/43},
+			{x: 0, y: 0}
+			];
+					
+var sala_fundadores = group.append("g")
+						.attr("transform", "translate(" + width*275/1000 + "," + (height/430*165 - height*12/86)  + ")")
+						.attr("class", "objeto_sala");
+		
+sala_fundadores.selectAll("path")
+			.data([datos_sala_fundadores])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+sala_fundadores.append("text")
+		.attr("transform", "translate(" + width*135/2000 + "," + height*2/43  + ")")
+		.text("Sala");
+		
+sala_fundadores.append("text")
+		.attr("transform", "translate(" + width*135/2000 + "," + height*4/43  + ")")
+		.text("Fundadores");
+
+
+//Sala misteriosa al lado de la fundadores
+var datos_sala_al_lado_fundadores = [
+			{x: -width/80, y: height*6/43},
+			{x: width*125/1000, y: height*6/43},
+			{x: width*125/1000, y: height*12/43},
+			{x: width/80, y: height*12/43},
+			{x: -width/80, y: height*6/43}
+			];
+
+var sala_al_lado_fundadores = group.append("g")
+						.attr("transform", "translate(" + width*275/1000 + "," + (height/430*165 - height*12/86)  + ")")
+						.attr("class", "objeto_sala");
+		
+sala_al_lado_fundadores.selectAll("path")
+			.data([datos_sala_al_lado_fundadores])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+sala_al_lado_fundadores.append("text")
+		.attr("transform", "translate(" + width*135/2000 + "," + height*9/43  + ")")
+		.text("???");			
+		
+		
+//Banho 1		
+var datos_banho_1 = [
+			{x: 0, y: 0},
+			{x: width/20, y: 0},
+			{x: width/20, y: height*12/43},
+			{x: 0, y: height*12/43},
+			{x: 0, y: 0}
+			];
+					
+var banho_1 = group.append("g")
+		.attr("transform", "translate(" + width*8/20 + "," + (height/430*165 - height*12/86)  + ")")
+		.attr("class", "objeto_sala");
+		
+		
+banho_1.selectAll("path")
+		.data([datos_banho_1])
+		.enter()
+		.append("path")
+		.attr("d", line)
+		.attr("class", "otros");
+		
+banho_1.append("text")
+		.attr("transform", "translate(" + width/40 + "," + height*6/43  + ")")
+		.text("Baño");
+
+		
+//Entrada
+var datos_entrada = [
+			{x: 0, y: 0},
+			{x: width*3/20, y: 0},
+			{x: width*3/20, y: height*12/43},
+			{x: 0, y: height*12/43},
+			{x: 0, y: 0}
+			];
+					
+var entrada = group.append("g")
+		.attr("transform", "translate(" + width*9/20 + "," + (height/430*165 - height*12/86)  + ")")
+		.attr("class", "objeto_sala");
+		
+entrada.selectAll("path")
+			.data([datos_entrada])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+			
+entrada.append("text")
+		.attr("transform", "translate(" + width*3/40 + "," + height*6/43  + ")")
+		.text("Entrada");
+
+		
+//Resto de la estructura del medio
+var datos_resto = [
+			{x: 0, y: 0},
+			{x: width/10, y: 0},
+			{x: width*3/40, y: +height*12/43},
+			{x: 0, y: +height*12/43},
+			{x: 0, y: 0}
+			];
+					
+group.append("g")
+		.attr("transform", "translate(" + width*6/10 + "," + (height/430*165 - height*12/86)  + ")")
+		.selectAll("path")
+			.data([datos_resto])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+			
+//Cocina
+var datos_cocina = [
+			{x: 0, y: 0},
+			{x: width*1/20, y: 0},
+			{x: width*1/20, y: height*6/43},
+			{x: 0, y: height*6/43},
+			{x: 0, y: 0}
+			];
+					
+var cocina = group.append("g")
+		.attr("transform", "translate(" + width*625/1000 + "," + (height/430*165 - height*12/86)  + ")")
+		.attr("class", "objeto_sala");
+
+cocina.selectAll("path")
+			.data([datos_cocina])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+			
+cocina.append("text")
+		.attr("transform", "translate(" + width/40 + "," + height*3/43  + ")")
+		.text("Cocina");
+		
+		
+//Auditorio Ramon Picarte
+var datos_picarte = [
+			{x: width/40, y: 0},
+			{x: width*15/100, y: 0},
+			{x: width*15/100, y: height*12/43},
+			{x: 0, y: height*12/43},
+			{x: width/40, y: 0}
+			];
+					
+var picarte = group.append("g")
+		.attr("transform", "translate(" + width*15/20 + "," + (height/430*225 - height*12/43)  + ")")
+		.attr("class", "objeto_sala");
+
+picarte.selectAll("path")
+			.data([datos_picarte])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+picarte.append("text")
+		.attr("transform", "translate(" + width*17/200 + "," + height*5/43  + ")")
+		.text("Auditorio");
+			
+picarte.append("text")
+		.attr("transform", "translate(" + width*17/200 + "," + height*7/43  + ")")
+		.text("Ramón Picarte");
+
+
+//La Salita
+var datos_salita = [
+			{x: 0, y: 0},
+			{x: width/100*15, y: 0},
+			{x: width/100*15, y: height/430*75},
+			{x: 0, y: height/430*75},
+			{x: 0, y: 0}
+			];
+					
+var salita = group.append("g")
+		.attr("transform", "translate(" + 0 + "," + 0  + ")")
+		.attr("class", "objeto_sala");
+		
+salita.selectAll("path")
+			.data([datos_salita])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "convivencia");
+
+salita.append("text")
+		.attr("transform", "translate(" + width*15/200 + "," + height*75/860  + ")")
+		.text("La Salita");
+
+
+//La Ofisalita		
+var datos_ofisalita = [
+			{x: 0, y: 0},
+			{x: width/100*5, y: 0},
+			{x: width/100*5, y: height/430*75},
+			{x: 0, y: height/430*75},
+			{x: 0, y: 0}
+			];
+					
+var ofisalita = group.append("g")
+					.attr("transform", "translate(" + width*15/100 + "," + 0  + ")")
+					.attr("class", "objeto_sala");		
+		
+ofisalita.selectAll("path")
+			.data([datos_ofisalita])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "convivencia");
+
+ofisalita.append("text")
+		.attr("transform", "translate(" + width*5/200 + "," + height*75/860  + ") rotate(90)")
+		.text("Ofisalita");
+			
+
+//El resto de las salas
+for(i = 4; i < 18; i++){
+	var datos_misteriosos = [
+			{x: 0, y: 0},
+			{x: width/100*5, y: 0},
+			{x: width/100*5, y: height/430*75},
+			{x: 0, y: height/430*75},
+			{x: 0, y: 0}
+			];
+					
+	group.append("g")
+			.attr("transform", "translate(" + width*5/100*i + "," + 0  + ")")
+			.attr("class", "objeto_sala")
+			.selectAll("path")
+				.data([datos_ofisalita])
+				.enter()
+				.append("path")
+				.attr("d", line)
+				.attr("class", "oficina");
+}
+
+
+for(i = 2; i < 18; i++){
+	var datos_misteriosos = [
+			{x: 0, y: 0},
+			{x: width/100*5, y: 0},
+			{x: width/100*5, y: height/430*75},
+			{x: 0, y: height/430*75},
+			{x: 0, y: 0}
+			];
+					
+	group.append("g")
+			.attr("transform", "translate(" + width*5/100*i + "," + (height/430*255) + ")")
+			.attr("class", "objeto_sala")
+			.selectAll("path")
+				.data([datos_ofisalita])
+				.enter()
+				.append("path")
+				.attr("d", line)
+				.attr("class", "oficina");
+}
