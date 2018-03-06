@@ -79,7 +79,7 @@
 
 <script>
 
-var width = 1000
+var width = 706
 var height = 430
 
 
