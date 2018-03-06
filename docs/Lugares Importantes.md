@@ -438,16 +438,18 @@ for(i = 2; i < 18; i++){
 
 </div>
 
-Agradecimientos al Grupo de Agilidad de Madrid por la estructura de este mapa.
-
 # Coming soon
+
+Se agregarán 2 mapas más similares a los que están [aquí](https://salas-uchile.herokuapp.com/)
 
 Entre los lugares importantes que pensamos agregar están:
 
-* Salita
 * Eniac
 * Toqui
-* Oficina CaDCC
-* Laboratorio Ramón Picarte
-* Auditorio Lorenzo
-* Otras salas (Grace, Ada, Flajolet, Colossus (magister), Anakena (doctora2) )
+* Grace
+* Ada
+* Flajolet 
+* Colossus (magister)
+* Anakena (doctora2) 
+
+Agradecimientos al Grupo de Agilidad de Madrid por la estructura de los mapas.
