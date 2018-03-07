@@ -77,6 +77,28 @@ El cadcc tiene un blog en el cual se suben todas las noticias. Si quieres notifi
 Te invito a ver el FAQ de prácticas (sorry si todavía dice coming soon, es culpa de Tomimi).
 
 
+## ¿Como me meto a mi mail @dcc.uchile.cl desde un browser?
+
+Primero metete a [webmail.dcc.uchile.cl](webmail.dcc.uchile.cl) y debería aparecerte esto:
+
+![Primera pantallita del mail](_static/FAQ_Mechon/tutorial_mail_1.png)
+
+Luego elijes el servidor al cual conectarte: Si eres estudiante de pregrado debes meterte a anakena.dcc.uchile.cl; Si eres de postgrado debes meterte a dichato.dcc.uchile.cl.
+
+![CHOOSE YOUR SERVER](_static/FAQ_Mechon/tutorial_mail_2.png)
+
+Luego escribe tu usuario y clave que registraste en sistemas para tener cuenta en el dcc en primer lugar.
+
+![Basic usuario-clave stuff](_static/FAQ_Mechon/tutorial_mail_3.png)
+
+¡Y listo, ya estas dentro!
+
+Ojo, que si te metiste al servidor equivocado debería salirte una pantalla libre de spam así:
+
+![No spam fox only](_static/FAQ_Mechon/tutorial_mail_4.png)
+
+Si está libre de spam, sabes que te equivocaste porque el dcc manda spam mensual a estos mails.
+
 ## ¿Cómo imprimo a través de la terminal como hacker en el DCC?
 
 Desde un computador del Toqui puedes escribir esto en la terminal
