@@ -213,8 +213,12 @@ sala_al_lado_fundadores.selectAll("path")
 			.attr("class", "otros");
 
 sala_al_lado_fundadores.append("text")
-		.attr("transform", "translate(" + width*135/2000 + "," + height*9/43  + ")")
-		.text("Sala de Reuniones 2");			
+		.attr("transform", "translate(" + width*135/2000 + "," + height*8/43  + ")")
+		.text("Sala de");	
+
+sala_al_lado_fundadores.append("text")
+		.attr("transform", "translate(" + width*135/2000 + "," + height*10/43  + ")")
+		.text("Reuniones 2");			
 		
 		
 //Banho 1		
