@@ -139,7 +139,7 @@ lorenzo.append("text")
 
 		
 //Sala Misteriosa de al lado de laboratorio lorenzo
-var datos_sala_al_lado_lorenzo = [
+var datos_lab_dichato = [
 			{x: 0, y: 0},
 			{x: width/5, y: 0},
 			{x: width/5, y: height*4/43},
@@ -147,20 +147,20 @@ var datos_sala_al_lado_lorenzo = [
 			{x: 0, y: 0}
 			];
 					
-var sala_al_lado_lorenzo = group.append("g")
+var lab_dichato = group.append("g")
 								.attr("transform", "translate(" + 0 + "," + (height/430*245 - height*12/86)  + ")")
 								.attr("class", "objeto_sala");
 								
-sala_al_lado_lorenzo.selectAll("path")
-						.data([datos_sala_al_lado_lorenzo])
+lab_dichato.selectAll("path")
+						.data([datos_lab_dichato])
 						.enter()
 						.append("path")
 						.attr("d", line)
 						.attr("class", "otros");
 
-sala_al_lado_lorenzo.append("text")
+lab_dichato.append("text")
 		.attr("transform", "translate(" + width/10 + "," + height*2/43  + ")")
-		.text("???");
+		.text("Laboratorio Dichato");
 
 		
 //Sala Fundadores
@@ -214,7 +214,7 @@ sala_al_lado_fundadores.selectAll("path")
 
 sala_al_lado_fundadores.append("text")
 		.attr("transform", "translate(" + width*135/2000 + "," + height*9/43  + ")")
-		.text("???");			
+		.text("Sala de Reuniones 2");			
 		
 		
 //Banho 1		
@@ -239,7 +239,7 @@ banho_1.selectAll("path")
 		.attr("class", "otros");
 		
 banho_1.append("text")
-		.attr("transform", "translate(" + width/40 + "," + height*6/43  + ")")
+		.attr("transform", "translate(" + width/40 + "," + height*6/43  + ") rotate(90)")
 		.text("Baño");
 
 		
