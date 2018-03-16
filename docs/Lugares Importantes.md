@@ -132,11 +132,12 @@ lorenzo.selectAll("path")
 			.append("path")
 			.attr("d", line)
 			.attr("class", "sala_de_estudio");
-			
-lorenzo.append("text")
+
+if (width >= 650){
+	lorenzo.append("text")
 		.attr("transform", "translate(" + width/10 + "," + height*4/43  + ")")
 		.text("Laboratorio Lorenzo");
-
+}
 		
 //Sala Misteriosa de al lado de laboratorio lorenzo
 var datos_lab_dichato = [
@@ -158,10 +159,11 @@ lab_dichato.selectAll("path")
 						.attr("d", line)
 						.attr("class", "otros");
 
-lab_dichato.append("text")
-		.attr("transform", "translate(" + width/10 + "," + height*2/43  + ")")
+if (width >= 650){
+	lab_dichato.append("text")
+			.attr("transform", "translate(" + width/10 + "," + height*2/43  + ")")
 		.text("Laboratorio Dichato");
-
+}
 		
 //Sala Fundadores
 var datos_sala_fundadores = [
@@ -183,14 +185,15 @@ sala_fundadores.selectAll("path")
 			.attr("d", line)
 			.attr("class", "otros");
 
-sala_fundadores.append("text")
-		.attr("transform", "translate(" + width*135/2000 + "," + height*2/43  + ")")
-		.text("Sala");
-		
-sala_fundadores.append("text")
-		.attr("transform", "translate(" + width*135/2000 + "," + height*4/43  + ")")
-		.text("Fundadores");
-
+if (width >= 650){
+	sala_fundadores.append("text")
+			.attr("transform", "translate(" + width*135/2000 + "," + height*2/43  + ")")
+			.text("Sala");
+				
+	sala_fundadores.append("text")
+			.attr("transform", "translate(" + width*135/2000 + "," + height*4/43  + ")")
+			.text("Fundadores");
+}
 
 //Sala misteriosa al lado de la fundadores
 var datos_sala_al_lado_fundadores = [
@@ -212,14 +215,15 @@ sala_al_lado_fundadores.selectAll("path")
 			.attr("d", line)
 			.attr("class", "otros");
 
-sala_al_lado_fundadores.append("text")
-		.attr("transform", "translate(" + width*135/2000 + "," + height*8/43  + ")")
-		.text("Sala de");	
+if (width >= 650){
+	sala_al_lado_fundadores.append("text")
+			.attr("transform", "translate(" + width*135/2000 + "," + height*8/43  + ")")
+			.text("Sala de");	
 
 sala_al_lado_fundadores.append("text")
 		.attr("transform", "translate(" + width*135/2000 + "," + height*10/43  + ")")
 		.text("Reuniones 2");			
-		
+}		
 		
 //Banho 1		
 var datos_banho_1 = [
@@ -241,11 +245,12 @@ banho_1.selectAll("path")
 		.append("path")
 		.attr("d", line)
 		.attr("class", "otros");
-		
-banho_1.append("text")
-		.attr("transform", "translate(" + width/40 + "," + height*6/43  + ") rotate(90)")
-		.text("Baño");
 
+if (width >= 650){		
+	banho_1.append("text")
+			.attr("transform", "translate(" + width/40 + "," + height*6/43  + ") rotate(90)")
+			.text("Baño");
+}
 		
 //Entrada
 var datos_entrada = [
@@ -266,11 +271,12 @@ entrada.selectAll("path")
 			.append("path")
 			.attr("d", line)
 			.attr("class", "otros");
-			
-entrada.append("text")
-		.attr("transform", "translate(" + width*3/40 + "," + height*6/43  + ")")
-		.text("Entrada");
 
+if (width >= 650){
+	entrada.append("text")
+			.attr("transform", "translate(" + width*3/40 + "," + height*6/43  + ")")
+			.text("Entrada");
+}
 		
 //Resto de la estructura del medio
 var datos_resto = [
@@ -310,11 +316,12 @@ cocina.selectAll("path")
 			.append("path")
 			.attr("d", line)
 			.attr("class", "otros");
-			
-cocina.append("text")
-		.attr("transform", "translate(" + width/40 + "," + height*3/43  + ")")
-		.text("Cocina");
-		
+
+if (width >= 650){			
+	cocina.append("text")
+			.attr("transform", "translate(" + width/40 + "," + height*3/43  + ") rotate(90)")
+			.text("Cocina");
+}		
 		
 //Auditorio Ramon Picarte
 var datos_picarte = [
@@ -336,14 +343,15 @@ picarte.selectAll("path")
 			.attr("d", line)
 			.attr("class", "otros");
 
-picarte.append("text")
-		.attr("transform", "translate(" + width*17/200 + "," + height*5/43  + ")")
-		.text("Auditorio");
-			
-picarte.append("text")
-		.attr("transform", "translate(" + width*17/200 + "," + height*7/43  + ")")
-		.text("Ramón Picarte");
-
+if (width >= 650){
+	picarte.append("text")
+			.attr("transform", "translate(" + width*17/200 + "," + height*5/43  + ")")
+			.text("Auditorio");
+				
+	picarte.append("text")
+			.attr("transform", "translate(" + width*17/200 + "," + height*7/43  + ")")
+			.text("Ramón Picarte");
+}
 
 //La Salita
 var datos_salita = [
@@ -365,10 +373,11 @@ salita.selectAll("path")
 			.attr("d", line)
 			.attr("class", "convivencia");
 
-salita.append("text")
-		.attr("transform", "translate(" + width*15/200 + "," + height*75/860  + ")")
-		.text("La Salita");
-
+if (width >= 650){
+	salita.append("text")
+			.attr("transform", "translate(" + width*15/200 + "," + height*75/860  + ")")
+			.text("La Salita");
+}
 
 //La Ofisalita		
 var datos_ofisalita = [
@@ -390,10 +399,11 @@ ofisalita.selectAll("path")
 			.attr("d", line)
 			.attr("class", "convivencia");
 
-ofisalita.append("text")
-		.attr("transform", "translate(" + width*5/200 + "," + height*75/860  + ") rotate(90)")
-		.text("Ofisalita");
-			
+if (width >= 650){
+	ofisalita.append("text")
+			.attr("transform", "translate(" + width*5/200 + "," + height*75/860  + ") rotate(90)")
+			.text("Ofisalita");
+}			
 
 //El resto de las salas
 for(i = 4; i < 18; i++){
