@@ -79,8 +79,8 @@
 
 <script>
 
-var width = 706
-var height = 430
+var width = document.getElementById("mapa_old_dcc").offsetWidth
+var height = width*430/706
 
 
 var svg = d3.select("#mapa_old_dcc")
