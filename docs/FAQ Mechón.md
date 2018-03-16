@@ -81,21 +81,29 @@ Te invito a ver el FAQ de prácticas (sorry si todavía dice coming soon, es cul
 
 Primero metete a [webmail.dcc.uchile.cl](webmail.dcc.uchile.cl) y debería aparecerte esto:
 
+<center>
 ![Primera pantallita del mail](_static/FAQ_Mechon/tutorial_mail_1.png)
+</center>
 
 Luego elijes el servidor al cual conectarte: Si eres estudiante de pregrado debes meterte a anakena.dcc.uchile.cl; Si eres de postgrado debes meterte a dichato.dcc.uchile.cl.
 
+<center>
 ![CHOOSE YOUR SERVER](_static/FAQ_Mechon/tutorial_mail_2.png)
+</center>
 
 Luego escribe tu usuario y clave que registraste en sistemas para tener cuenta en el dcc en primer lugar.
 
+<center>
 ![Basic usuario-clave stuff](_static/FAQ_Mechon/tutorial_mail_3.png)
+</center>
 
 ¡Y listo, ya estas dentro!
 
 Ojo, que si te metiste al servidor equivocado debería salirte una pantalla libre de spam así:
 
+<center>
 ![No spam fox only](_static/FAQ_Mechon/tutorial_mail_4.png)
+</center>
 
 Si está libre de spam, sabes que te equivocaste porque el dcc manda spam mensual a estos mails.
 
