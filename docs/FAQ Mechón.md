@@ -1,3 +1,9 @@
+# FAQ Mechón
+
+Recuerda también revisar la sección [Lugares Importantes](https://howto.cadcc.cl/es/latest/Lugares%20Importantes/) y [NPCs Importantes](https://howto.cadcc.cl/es/latest/NPCs%20Importantes/) para que te empieces a ubicar.
+
+---
+
 ## ¿Que es la Salita?
 
 Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 334 y 335). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas y parlantes para jugar y distraerse un rato.
