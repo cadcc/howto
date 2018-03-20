@@ -52,11 +52,13 @@ Por último, cualquier alumno puede proponer una actividad a su querida Directiv
 
 Existen dos <s>distritos</s> salas de estudio ultra populares en el DCC:
 
-El Toqui, una sala enfocada al estudio grupal con computadores, mesas, impresoras y escáneres. Puedes hacer ruido moderado en esta sala. Es útil para jugar juegos de mesa en grupo, pero recuerda evitar los gritos.
+El Lab. Toqui, una sala enfocada al estudio grupal con computadores, mesas, impresoras y escáneres. Puedes hacer ruido moderado en esta sala. Es útil para jugar juegos de mesa en grupo, pero recuerda evitar los gritos. 2do piso Edificio Poniente.
 
-Y el Eniac, una sala silenciosa enfocada al trabajo individual solo con computadores, existe un acuerdo entre todos los estudiantes del DCC de mantener esta sala <s>silenciosa AF</s> lo más silenciosa posible. Cuenta con pantallas y espacios libres para que uses tu propio PC.
+Y el Lab. Eniac, una sala silenciosa enfocada al trabajo individual solo con computadores, existe un acuerdo entre todos los estudiantes del DCC de mantener esta sala <s>silenciosa AF</s> lo más silenciosa posible. Cuenta con pantallas y espacios libres para que uses tu propio PC. 3er piso Edificio Poniente.
 
 Además de las anteriores, los espacios abiertos y mesas del Edificio Poniente son de uso libre y existe un pequeño lugar de estudio al sur del Toqui con computadores, mesitas y una pizarra. Por lo general aquí se hacen reclamos así que no siempre estará 100% libre.
+
+El Lab. Lorenzo, frente a la Salita, también es de uso libre para nosotros **siempre y cuando no haya clases**.
 
 Igualmente y si no necesitas mucha concentración, puedes estudiar en la Salita o en la Ofisalita, que es un poco más silenciosa.
 
@@ -73,7 +75,7 @@ A principio de año se abre un formulario para inscribirse. Por lo general un ca
 
 ## ¿Cómo puedo enterarme de las noticias del DCC?
 
-El CaDCC tiene un blog en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de Telegram](https://t.me/CaDCCInforma), al [grupo de Facebook](https://www.facebook.com/groups/CaDCCUchile/) o seguir al CaDCC en [Twitter](https://twitter.com/cadcc). El blog reenvía las noticias a todas esas redes, además de la [Comunidad de U-Cursos](https://www.u-cursos.cl/uchile/2008/0/COMCADCC/1/integrantes/postular).
+El CaDCC tiene un [blog](cadcc.cl) en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de Telegram](https://t.me/CaDCCInforma), al [grupo de Facebook](https://www.facebook.com/groups/CaDCCUchile/) o seguir al CaDCC en [Twitter](https://twitter.com/cadcc). El blog reenvía las noticias a todas esas redes, además de la [Comunidad de U-Cursos](https://www.u-cursos.cl/uchile/2008/0/COMCADCC/1/integrantes/postular).
 
 
 ## ¿Qué es el CaDCC? ¿Puedo ser parte de él?
