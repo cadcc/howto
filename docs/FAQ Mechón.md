@@ -1,33 +1,35 @@
 ## ¿Que es la Salita?
 
 Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 334 y 335). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas y parlantes para jugar y distraerse un rato.
+
 Debes saber que la Salita tiene sus reglas básicas de convivencia:
 - Manten un nivel de ruido moderado antes de las 18:00. En el edificio hay varios funcionarios trabajando.
 - Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
 - El refrigerador es público. Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después".
 
-## ¿Cómo activo mi TUI para entrar al DCC?
 
-Debes ir a hablar con Hernán a la oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851. Tienes que haber leído el [FAQ y las Normas de Uso](https://www.dcc.uchile.cl/node/252) y te harán preguntas al respecto.
+## ¿Debería cambiar de código al entrar al DCC? ¿Cómo lo hago?
+
+No es necesario cambiar de código para dar los ramos y estudiar en el DCC. Sin embargo, con el código tendrás acceso a las dependencias del Depto, a tu cuenta personal para el uso de computadores y servidores y 150 impresiones mensuales acumulables con un **máximo de 400**. Además no perderás tus impresiones del CEC. Cabe notar que al momento de titularte sí debes tener el código de la carrera.
+
+Para cambiar de código debes ir a U-Campus → Workflow → Cambio de Carrera. Si vienes de Plan Común y es tu primer cambio, el proceso será inmediato, de lo contrario deberás esperar la aprobación.
+
+
+## ¿Cómo activo mi TUI y cuenta para entrar al DCC?
+
+Debes ir a hablar con Hernán a la oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851. Tienes que haber cambiado de código y haber leído el [FAQ y las Normas de Uso](https://www.dcc.uchile.cl/node/252), ya que te harán preguntas antes de la activación.
 
 
 ## ¿Puedo pedir acceso al DCC sin tener el código?
 
-Si estás cursando ramos con código CC, puedes solicitar acceso temporal por la duración del semestre, aunque no estés formalmente en la carrera.
+Si estás cursando ramos con código CC, puedes solicitar acceso temporal por la duración del semestre, aunque no estés formalmente en la carrera. Para esto es necesario que el profesor del ramo autorice la activación antes de que puedas pedirla en Sistemas. Esto aplica también para los ramos de Taller de Proyecto realizados al interior del DCC (Lego/Alice).
 
 
 ## ¿Dónde se almuerza en el DCC? ¿Hay microondas?
 
-El único lugar disponible para almorzar dentro del edificio es la Salita, donde hay refri y microondas cerca, pero lamentablemente se llena rápido :(. 
+El lugar mas apropiado para almorzar dentro del edificio es la Salita, donde hay refri y microondas cerca, pero lamentablemente se llena rápido :(.
 
-Hay microondas en el pasillo fuera de la Salita y en las cocinas de todo el depto (Ver mapa), sin embargo, evita calentar almuerzos en el Edificio Poniente, pues el olor no se ventila bien y molesta a quienes trabajan ahí.
-
-
-## ¿Debería cambiar de código al entrar al DCC? ¿Cómo lo hago?
-
-No es necesario cambiar de código para dar los ramos, pero sí al momento de titularse. Con el código tendrás acceso a las dependencias del Depto, a tu cuenta personal para el uso de computadores y servidores y 150 impresiones mensuales acumulables con un **máximo de 400**. Además no perderás tus impresiones del CEC.  
-
-Para cambiar de código debes ir a U-Campus → Workflow → Cambio de Carrera. Si vienes de Plan Común y es tu primer cambio, el proceso será inmediato.
+Hay microondas en el pasillo fuera de la Salita y en las cocinas de todo el depto (Ver mapa), sin embargo, evita calentar almuerzos en el Edificio Poniente, pues el olor no se ventila bien y molesta a quienes trabajan ahí. También evita traer gente externa para aprovechar nuestros microondas, ya que muchas veces tienen alta demanda y sufren desgaste rápidamente. ¡Cuida tu depto!
 
 
 ## ¿Qué actividades recreativas se organizan en el DCC? ¿Juegan Minecraft?
@@ -41,6 +43,7 @@ Durante el año realizamos muuuchas actividades extracurriculares para fomentar 
 * Just Dance
 
 Además tenemos una Bienvenida Mechona cada semestre (usualmente una en el quincho CEI y otra en una parcela) y el connotado Paseo DCC en la playa.
+
 Por último, cualquier alumno puede proponer una actividad a su querida Directiva de turno y siempre estarán dispuestos a hacer realidad sus sueños.
 
 
@@ -48,11 +51,13 @@ Por último, cualquier alumno puede proponer una actividad a su querida Directiv
 
 Existen dos <s>distritos</s> salas de estudio ultra populares en el DCC:
 
-El Toquí, una sala enfocada al estudio grupal con computadores, mesas, impresoras y escáneres.
+El Toqui, una sala enfocada al estudio grupal con computadores, mesas, impresoras y escáneres. Puedes hacer ruido moderado en esta sala. Es útil para jugar juegos de mesa en grupo, pero recuerda evitar los gritos.
 
-Y el Eniac, una sala silenciosa enfocada al trabajo individual solo con computadores, existe un acuerdo entre todos los estudiantes del DCC de mantener esta sala <s>silenciosa AF</s> lo más silenciosa posible.
+Y el Eniac, una sala silenciosa enfocada al trabajo individual solo con computadores, existe un acuerdo entre todos los estudiantes del DCC de mantener esta sala <s>silenciosa AF</s> lo más silenciosa posible. Cuenta con pantallas y espacios libres para que uses tu propio PC.
 
-Además de las anteriores, existe un pequeño lugar de estudio al lado del toqui con computadores, mesitas y una pizarra. Por lo general aquí se hacen reclamos así que no siempre estará 100% libre.
+Además de las anteriores, los espacios abiertos y mesas del Edificio Poniente son de uso libre y existe un pequeño lugar de estudio al sur del Toqui con computadores, mesitas y una pizarra. Por lo general aquí se hacen reclamos así que no siempre estará 100% libre.
+
+Igualmente y si no necesitas mucha concentración, puedes estudiar en la Salita o en la Ofisalita, que es un poco más silenciosa.
 
 
 ## ¿Por qué el DIM roba el agua del DCC?
@@ -62,18 +67,24 @@ Además de las anteriores, existe un pequeño lugar de estudio al lado del toqui
 
 ## ¿Cómo puedo usar los casilleros de afuera de la Salita?
 
-A principio de año se abre un formulario de google para inscribirse. Por lo general un casillero cuesta 10.000 CLP <s>(Chilean Points)</s> así que se recomienda pedirlos en parejas.
+A principio de año se abre un formulario para inscribirse. Por lo general un casillero cuesta 10.000 CLP <s>(Chilean Points)</s> y dada la demanda se recomienda pedirlos en parejas. Estamos tramitando la compra de nuevos casilleros.
 
 
 ## ¿Cómo puedo enterarme de las noticias del DCC?
 
-El cadcc tiene un blog en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de telegram](https://t.me/CaDCCInforma), al [grupo de facebook](https://www.facebook.com/groups/CaDCCUchile/) o seguir al cadcc en [twitter](https://twitter.com/cadcc).
+El CaDCC tiene un blog en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de Telegram](https://t.me/CaDCCInforma), al [grupo de Facebook](https://www.facebook.com/groups/CaDCCUchile/) o seguir al CaDCC en [Twitter](https://twitter.com/cadcc). El blog reenvía las noticias a todas esas redes, además de la [Comunidad de U-Cursos](https://www.u-cursos.cl/uchile/2008/0/COMCADCC/1/integrantes/postular).
 
 
-## ¿Qué es el CaDCC?
+## ¿Qué es el CaDCC? ¿Puedo ser parte de él?
 
-<s>Pensé que jamás lo preguntarías</s> Es el Centro de alumnos del Departamento de Ciencias de la Computación. Hay elecciones todos los años.
+<s>Pensé que jamás lo preguntarías</s> Es el Centro de Alumnos del Departamento de Ciencias de la Computación. El CADCC (Estilizado históricamente como CaDCC) es la organización de estudiantes que representa el conglomerado de estudiantes del DCC, procurando su bienestar, convivencia y protocolo. Son quienes organizan los eventos recreativos, charlas y actividades, y conforman el conducto regular en temas de docencia, comunicaciones, presupuestos, etc. Se elige de forma anual entre todos los interesados con un plebiscito.
 
+Siendo formales, el CaDCC tiene tres principales compromisos con la comunidad:
+- **Representación y Vocería.** El CaDCC representa y aboga por cada uno de sus miembros a nivel individual y comunitario, pudiendo ser intermediario entre ellos y cualquier ente o institución en toda instancia que le competa y requiera.
+- **Integración y Participación**. Tiene el deber de velar porque cada alumno se sienta parte de la comunidad, manteniendo un ambiente grato y bajo el alero de la identidad institucional que nos caracteriza, donde todos sean escuchados y respetados.
+- **Comunicación e Información**. Debe mantener al tanto de cualquier información relevante a todos los estudiantes del departamento.
+
+Si quieres aportar al CaDCC, eres completamente bienvenido a comunicarte con cualquiera de sus miembros e incluirte en sus filas cuando quieras. ¡También puedes aportar con ideas o apoyo sin ser parte integral de la Directiva!
 
 ## ¿Cómo funcionan las prácticas en el DCC?
 
@@ -127,6 +138,6 @@ Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porq
 
 ---
 
-###Contacto
+### Contacto
 
 Puedes mandarnos tus dudas al mail faqme@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
