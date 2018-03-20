@@ -3,9 +3,10 @@
 Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 334 y 335). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas y parlantes para jugar y distraerse un rato.
 
 Debes saber que la Salita tiene sus reglas básicas de convivencia:
-- Manten un nivel de ruido moderado antes de las 18:00. En el edificio hay varios funcionarios trabajando.
-- Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
-- El refrigerador es público. Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después".
+
+* Manten un nivel de ruido moderado antes de las 18:00. En el edificio hay varios funcionarios trabajando.
+* Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
+* El refrigerador es público. Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después".
 
 
 ## ¿Debería cambiar de código al entrar al DCC? ¿Cómo lo hago?
@@ -80,9 +81,10 @@ El CaDCC tiene un blog en el cual se suben todas las noticias. Si quieres notifi
 <s>Pensé que jamás lo preguntarías</s> Es el Centro de Alumnos del Departamento de Ciencias de la Computación. El CADCC (Estilizado históricamente como CaDCC) es la organización de estudiantes que representa el conglomerado de estudiantes del DCC, procurando su bienestar, convivencia y protocolo. Son quienes organizan los eventos recreativos, charlas y actividades, y conforman el conducto regular en temas de docencia, comunicaciones, presupuestos, etc. Se elige de forma anual entre todos los interesados con un plebiscito.
 
 Siendo formales, el CaDCC tiene tres principales compromisos con la comunidad:
-- **Representación y Vocería.** El CaDCC representa y aboga por cada uno de sus miembros a nivel individual y comunitario, pudiendo ser intermediario entre ellos y cualquier ente o institución en toda instancia que le competa y requiera.
-- **Integración y Participación**. Tiene el deber de velar porque cada alumno se sienta parte de la comunidad, manteniendo un ambiente grato y bajo el alero de la identidad institucional que nos caracteriza, donde todos sean escuchados y respetados.
-- **Comunicación e Información**. Debe mantener al tanto de cualquier información relevante a todos los estudiantes del departamento.
+
+* **Representación y Vocería.** El CaDCC representa y aboga por cada uno de sus miembros a nivel individual y comunitario, pudiendo ser intermediario entre ellos y cualquier ente o institución en toda instancia que le competa y requiera.
+* **Integración y Participación**. Tiene el deber de velar porque cada alumno se sienta parte de la comunidad, manteniendo un ambiente grato y bajo el alero de la identidad institucional que nos caracteriza, donde todos sean escuchados y respetados.
+* **Comunicación e Información**. Debe mantener al tanto de cualquier información relevante a todos los estudiantes del departamento.
 
 Si quieres aportar al CaDCC, eres completamente bienvenido a comunicarte con cualquiera de sus miembros e incluirte en sus filas cuando quieras. ¡También puedes aportar con ideas o apoyo sin ser parte integral de la Directiva!
 
