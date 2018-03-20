@@ -90,6 +90,8 @@ Siendo formales, el CaDCC tiene tres principales compromisos con la comunidad:
 
 Si quieres aportar al CaDCC, eres completamente bienvenido a comunicarte con cualquiera de sus miembros e incluirte en sus filas cuando quieras. ¡También puedes aportar con ideas o apoyo sin ser parte integral de la Directiva!
 
+Puedes ver la actual directiva en [el blog](https://www.cadcc.cl/directiva/).
+
 ## ¿Cómo funcionan las prácticas en el DCC?
 
 Te invito a ver el FAQ de prácticas (sorry si todavía dice coming soon, es culpa de Tomimi).
