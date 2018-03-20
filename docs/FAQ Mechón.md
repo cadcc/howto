@@ -4,15 +4,33 @@ Recuerda también revisar la sección [Lugares Importantes](https://howto.cadcc.
 
 ---
 
-## ¿Que es la Salita?
+## ¿Qué es la Salita?
 
-Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 334 y 335). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas y parlantes para jugar y distraerse un rato.
+Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 334 y 335). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas, juegos de mesa y parlantes para jugar y distraerse un rato.
 
 Debes saber que la Salita tiene sus reglas básicas de convivencia:
 
-* Manten un nivel de ruido moderado antes de las 18:00. En el edificio hay varios funcionarios trabajando.
+* Manten un nivel de ruido moderado, al menos hasta las 18:00. En el edificio hay varios funcionarios trabajando.
 * Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
-* El refrigerador es público. Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después".
+* El refrigerador es público. Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después". Preocúpate de botar productos vencidos.
+
+---
+
+## ¿Qué es la Ofisalita?
+
+La Oficina CaDCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 333). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más relajada que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene mesas, algunas pantallas y un rincón con un puff para dormir semi-escondido (aka *Hiho's Corner*). Es hogar del Kioskito CaDCC.
+
+De vez en cuando el CaDCC requerirá la Ofisalita para reuniones esporádicas.
+
+---
+
+## ¿Qué es y dónde está el Kioskito?
+
+El Kioskito CaDCC es la fuente de abundancia calórica-nutricional para mantener nuestras mentes y cuerpos vivos y redondos. Se ubica en la Ofisalita.
+
+El Kioskito es completamente auto-servicio, existen tarros de monedas donde debes dejar tu pago *(de forma ordenada por favor D:)*. Recalcamos fervientemente que **NO SE FÍAN PRODUCTOS**, paga inmediatamente todo lo que retires. Con ese dinero financiamos las actividades para toda la comunidad y es un proyecto muy lindo basado en la confianza. ¡Cuidémoslo todos!
+
+Por favor sé paciente si falta stock. Hacer las compras no es fácil, recuerda que somos estudiantes igual que tú :). ¡Te invitamos a ayudar con las compras y carga de mercadería cuando sea necesario!
 
 ---
 
