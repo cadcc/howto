@@ -1,7 +1,10 @@
 ## ¿Que es la Salita?
 
-Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851. Hay un refri, mesitas, tacitas y servicios para tomar desayunito, almuercito y oncesita <s>Y TOMAR</s>; hay sillones para sentarse o dormir; y consolas para jugar y distraerse un rato.
-
+Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 334 y 335). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas y parlantes para jugar y distraerse un rato.
+Debes saber que la Salita tiene sus reglas básicas de convivencia:
+- Manten un nivel de ruido moderado antes de las 18:00. En el edificio hay varios funcionarios trabajando.
+- Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
+- El refrigerador es público. Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después".
 
 ## ¿Cómo activo mi TUI para entrar al DCC?
 
