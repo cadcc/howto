@@ -14,6 +14,7 @@ Debes saber que la Salita tiene sus reglas básicas de convivencia:
 * Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
 * El refrigerador es público. Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después".
 
+---
 
 ## ¿Debería cambiar de código al entrar al DCC? ¿Cómo lo hago?
 
@@ -21,16 +22,19 @@ No es necesario cambiar de código para dar los ramos y estudiar en el DCC. Sin 
 
 Para cambiar de código debes ir a U-Campus → Workflow → Cambio de Carrera. Si vienes de Plan Común y es tu primer cambio, el proceso será inmediato, de lo contrario deberás esperar la aprobación.
 
+---
 
 ## ¿Cómo activo mi TUI y cuenta para entrar al DCC?
 
 Debes ir a hablar con Hernán a la oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851. Tienes que haber cambiado de código y haber leído el [FAQ y las Normas de Uso](https://www.dcc.uchile.cl/node/252), ya que te harán preguntas antes de la activación.
 
+---
 
 ## ¿Puedo pedir acceso al DCC sin tener el código?
 
 Si estás cursando ramos con código CC, puedes solicitar acceso temporal por la duración del semestre, aunque no estés formalmente en la carrera. Para esto es necesario que el profesor del ramo autorice la activación antes de que puedas pedirla en Sistemas. Esto aplica también para los ramos de Taller de Proyecto realizados al interior del DCC (Lego/Alice).
 
+---
 
 ## ¿Dónde se almuerza en el DCC? ¿Hay microondas?
 
@@ -38,6 +42,7 @@ El lugar mas apropiado para almorzar dentro del edificio es la Salita, donde hay
 
 Hay microondas en el pasillo fuera de la Salita y en las cocinas de todo el depto (Ver mapa), sin embargo, evita calentar almuerzos en el Edificio Poniente, pues el olor no se ventila bien y molesta a quienes trabajan ahí. También evita traer gente externa para aprovechar nuestros microondas, ya que muchas veces tienen alta demanda y sufren desgaste rápidamente. ¡Cuida tu depto!
 
+---
 
 ## ¿Qué actividades recreativas se organizan en el DCC? ¿Juegan Minecraft?
 
@@ -53,6 +58,7 @@ Además tenemos una Bienvenida Mechona cada semestre (usualmente una en el quinc
 
 Por último, cualquier alumno puede proponer una actividad a su querida Directiva de turno y siempre estarán dispuestos a hacer realidad sus sueños.
 
+---
 
 ## ¿Dónde puedo estudiar en el DCC?
 
@@ -68,21 +74,25 @@ El Lab. Lorenzo, frente a la Salita, también es de uso libre para nosotros **si
 
 Igualmente y si no necesitas mucha concentración, puedes estudiar en la Salita o en la Ofisalita, que es un poco más silenciosa.
 
+---
 
 ## ¿Por qué el DIM roba el agua del DCC?
 
 ¡PORQUE ES MUY RICA!
 
+---
 
 ## ¿Cómo puedo usar los casilleros de afuera de la Salita?
 
 A principio de año se abre un formulario para inscribirse. Por lo general un casillero cuesta 10.000 CLP <s>(Chilean Points)</s> y dada la demanda se recomienda pedirlos en parejas. Estamos tramitando la compra de nuevos casilleros.
 
+---
 
 ## ¿Cómo puedo enterarme de las noticias del DCC?
 
 El CaDCC tiene un [blog](cadcc.cl) en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de Telegram](https://t.me/CaDCCInforma), al [grupo de Facebook](https://www.facebook.com/groups/CaDCCUchile/) o seguir al CaDCC en [Twitter](https://twitter.com/cadcc). El blog reenvía las noticias a todas esas redes, además de la [Comunidad de U-Cursos](https://www.u-cursos.cl/uchile/2008/0/COMCADCC/1/integrantes/postular).
 
+---
 
 ## ¿Qué es el CaDCC? ¿Puedo ser parte de él?
 
@@ -98,10 +108,13 @@ Si quieres aportar al CaDCC, eres completamente bienvenido a comunicarte con cua
 
 Puedes ver la actual directiva en [el blog](https://www.cadcc.cl/directiva/).
 
+---
+
 ## ¿Cómo funcionan las prácticas en el DCC?
 
 Te invito a ver el FAQ de prácticas (sorry si todavía dice coming soon, es culpa de Tomimi).
 
+---
 
 ## ¿Como me meto a mi mail @dcc.uchile.cl desde un browser?
 
@@ -132,6 +145,8 @@ Ojo, que si te metiste al servidor equivocado debería salirte una pantalla libr
 </center>
 
 Si está libre de spam, sabes que te equivocaste porque el dcc manda spam mensual a estos mails.
+
+---
 
 ## ¿Cómo imprimo a través de la terminal como hacker en el DCC?
 
