@@ -2,7 +2,7 @@
 
 Este es un FAQ es proceso con harta información sobre temas de interés para el dececiano promedio. 
 
-![Portada FAQs](_static/Home/MiniBannerFAQ.png)
+![Portada FAQs](_static/Home/MiniBannerFAQPoop.png)
 
 ---
 
