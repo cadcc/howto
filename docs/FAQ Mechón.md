@@ -189,6 +189,12 @@ Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porq
 
 ---
 
+## ¿Cómo me meto a DCCAIR?
+
+Te dejamos con el [Tutorial Oficial para meterse al Wifi del DCC™](https://www.dcc.uchile.cl/wifi).
+
+---
+
 ### Contacto
 
 Puedes mandarnos tus dudas al mail faqme@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
