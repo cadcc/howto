@@ -78,6 +78,12 @@ Por último, cualquier alumno puede proponer una actividad a su querida Directiv
 
 ---
 
+## Oye, en la pregunta anterior no respondiste si juegan o no Minecraft
+
+Toda la razón, eres muy observador@.
+
+---
+
 ## ¿Dónde puedo estudiar en el DCC?
 
 Existen dos <s>distritos</s> salas de estudio ultra populares en el DCC:
