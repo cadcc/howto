@@ -1,17 +1,7 @@
 # Bienvenid@ al DCC!
 
-Acá van varias cosas
+Este es un FAQ es proceso con harta información sobre temas de interes para el dececiano promedio. 
 
-## Commands
+# Contacto
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Si tienes alguna pregunta que no es respondida en ninguno de los FAQ's, por favor envianosla a faqme@cadcc.cl :D
