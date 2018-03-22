@@ -195,6 +195,12 @@ Te dejamos con el [Tutorial Oficial para meterse al Wifi del DCC™](https://www
 
 ---
 
+## ¿Es verdad que puedo tomar mates financieras (IN4301) en vez de evalua?
+
+No pero si. El problema es que existen ramos de malla que te piden evaluación de proyectos, pero los puedes tomar igual si es que tienes más de 264 STC. (Porque si tienes mas de 264 STC puedes tomar cualquier ramo independiente de los requisitos).
+
+---
+
 ### Contacto
 
 Puedes mandarnos tus dudas al mail faqme@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
