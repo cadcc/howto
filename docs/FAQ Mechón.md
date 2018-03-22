@@ -88,9 +88,9 @@ Toda la razón, eres muy observador@.
 
 Existen dos <s>distritos</s> salas de estudio ultra populares en el DCC:
 
-El Lab. Toqui, una sala enfocada al estudio grupal con computadores, mesas, impresoras y escáneres. Puedes hacer ruido moderado en esta sala. Es útil para jugar juegos de mesa en grupo, pero recuerda evitar los gritos. 2do piso Edificio Poniente.
+El Lab. Toqui, una sala ubicada en el 2do piso del Edificio Poniente enfocada al estudio grupal con computadores, mesas, impresoras y escáneres. Puedes hacer ruido moderado en esta sala. Es útil para jugar juegos de mesa en grupo, pero recuerda evitar los gritos.
 
-Y el Lab. Eniac, una sala silenciosa enfocada al trabajo individual solo con computadores, existe un acuerdo entre todos los estudiantes del DCC de mantener esta sala <s>silenciosa AF</s> lo más silenciosa posible. Cuenta con pantallas y espacios libres para que uses tu propio PC. 3er piso Edificio Poniente.
+Y el Lab. Eniac, una sala silenciosa ubicada en el 3er piso del Edificio Poniente enfocada al trabajo individual solo con computadores, existe un acuerdo entre todos los estudiantes del DCC de mantener esta sala <s>silenciosa AF</s> lo más silenciosa posible. Cuenta con pantallas y espacios libres para que uses tu propio PC.
 
 Además de las anteriores, los espacios abiertos y mesas del Edificio Poniente son de uso libre y existe un pequeño lugar de estudio al sur del Toqui con computadores, mesitas y una pizarra. Por lo general aquí se hacen reclamos así que no siempre estará 100% libre.
 
