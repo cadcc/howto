@@ -197,7 +197,7 @@ Te dejamos con el [Tutorial Oficial para meterse al Wifi del DCC™](https://www
 
 ## ¿Es verdad que puedo tomar mates financieras (IN4301) en vez de evalua?
 
-No pero si. El problema es que existen ramos de malla que te piden evaluación de proyectos, pero los puedes tomar igual si es que tienes más de 264 STC. (Porque si tienes mas de 264 STC puedes tomar cualquier ramo independiente de los requisitos). A pesar de lo anterior definitivamente no lo recomendamos.
+No pero si. El problema es que existen ramos de malla que te piden evaluación de proyectos, pero los puedes tomar igual si es que tienes más de 264 SCT. (Porque si tienes mas de 264 SCT puedes tomar cualquier ramo independiente de los requisitos). A pesar de lo anterior definitivamente no lo recomendamos.
 
 ---
 
