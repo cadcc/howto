@@ -6,7 +6,7 @@ Recuerda también revisar la sección [Lugares Importantes](https://howto.cadcc.
 
 ## ¿Qué es la Salita?
 
-Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 334 y 335). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas, juegos de mesa y parlantes para jugar y distraerse un rato.
+Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 333 y 334). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito, almuercito y oncesita; hay sillones para sentarse o dormir; y consolas, juegos de mesa y parlantes para jugar y distraerse un rato.
 
 Debes saber que la Salita tiene sus reglas básicas de convivencia:
 
@@ -18,7 +18,7 @@ Debes saber que la Salita tiene sus reglas básicas de convivencia:
 
 ## ¿Qué es la Ofisalita?
 
-La Oficina CaDCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 333). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más relajada que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene mesas, algunas pantallas y un rincón con un puff para dormir semi-escondido (aka *Hiho's Corner*). Es hogar del Kioskito CaDCC.
+La Oficina CaDCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 332). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más relajada que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene mesas, algunas pantallas y un rincón con un puff para dormir semi-escondido (aka *Hiho's Corner*). Es hogar del Kioskito CaDCC.
 
 De vez en cuando el CaDCC requerirá la Ofisalita para reuniones esporádicas.
 
@@ -148,7 +148,7 @@ Primero metete a [webmail.dcc.uchile.cl](webmail.dcc.uchile.cl) y debería apare
 ![Primera pantallita del mail](_static/FAQ_Mechon/tutorial_mail_1.png)
 </center>
 
-Luego elijes el servidor al cual conectarte: Si eres estudiante de pregrado debes meterte a anakena.dcc.uchile.cl; Si eres de postgrado debes meterte a dichato.dcc.uchile.cl.
+Luego eliges el servidor al cual conectarte: Si eres estudiante de pregrado debes meterte a anakena.dcc.uchile.cl; Si eres de postgrado debes meterte a dichato.dcc.uchile.cl.
 
 <center>
 ![CHOOSE YOUR SERVER](_static/FAQ_Mechon/tutorial_mail_2.png)
