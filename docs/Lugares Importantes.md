@@ -161,7 +161,7 @@ lab_dichato.selectAll("path")
 
 if (width >= 650){
 	lab_dichato.append("text")
-			.attr("transform", "translate(" + width/10 + "," + height*2/43  + ")")
+			.attr("transform", "translate(" + width/10 + "," + height*5/86  + ")")
 		.text("Laboratorio Dichato");
 }
 		
@@ -226,14 +226,34 @@ sala_al_lado_fundadores.append("text")
 }		
 		
 //Banho 1		
-var datos_banho_1 = [
+var datos_banho_1_fondo = [
 			{x: 0, y: 0},
 			{x: width/20, y: 0},
 			{x: width/20, y: height*12/43},
 			{x: 0, y: height*12/43},
 			{x: 0, y: 0}
 			];
-					
+
+var datos_banho_1 = [
+			{x: width/160, y: 0},
+			{x: width/20 - width/160, y: 0},
+			{x: width/20 - width/160, y: height*11/43},
+			{x: width/160, y: height*11/43},
+			{x: width/160, y: 0}
+			];
+			
+var banho_1_fondo = group.append("g")
+		.attr("transform", "translate(" + width*8/20 + "," + (height/430*165 - height*12/86)  + ")")
+		.attr("class", "objeto_sala");
+		
+		
+banho_1_fondo.selectAll("path")
+		.data([datos_banho_1_fondo])
+		.enter()
+		.append("path")
+		.attr("d", line)
+		.attr("class", "otros");
+
 var banho_1 = group.append("g")
 		.attr("transform", "translate(" + width*8/20 + "," + (height/430*165 - height*12/86)  + ")")
 		.attr("class", "objeto_sala");
@@ -249,7 +269,7 @@ banho_1.selectAll("path")
 if (width >= 650){		
 	banho_1.append("text")
 			.attr("transform", "translate(" + width/40 + "," + height*6/43  + ") rotate(90)")
-			.text("Baño");
+			.text("Baño M");
 }
 		
 //Entrada
@@ -321,8 +341,35 @@ if (width >= 650){
 	cocina.append("text")
 			.attr("transform", "translate(" + width/40 + "," + height*3/43  + ") rotate(90)")
 			.text("Cocina");
-}		
-		
+}
+
+//Banho_2		
+
+var datos_banho_2 = [
+			{x: width/160, y: 0},
+			{x: width*1/20, y: 0},
+			{x: width*1/20, y: height*22/172},
+			{x: width/160, y: height*22/172},
+			{x: width/160, y: 0}
+			];
+					
+var cocina = group.append("g")
+		.attr("transform", "translate(" + width*600/1000 + "," + (height/430*225 - height*12/86)  + ")")
+		.attr("class", "objeto_sala");
+
+cocina.selectAll("path")
+			.data([datos_banho_2])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+if (width >= 650){			
+	cocina.append("text")
+			.attr("transform", "translate(" + width/40 + "," + height*3/43  + ") rotate(90)")
+			.text("Baño F");
+}
+
 //Auditorio Ramon Picarte
 var datos_picarte = [
 			{x: width/40, y: 0},
