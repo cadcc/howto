@@ -203,4 +203,4 @@ No pero si. El problema es que existen ramos de malla que te piden evaluación d
 
 ### Contacto
 
-Puedes mandarnos tus dudas al mail faqme@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
+Si tienes dudas o quieres decirnos sobre una fallla de la página (esa última falla fue a proposito) al mail faqme@cadcc.cl y trataremos de responderlas lo mejor posible. Si es muy usual tu duda la incluiremos en los FAQ's :D
