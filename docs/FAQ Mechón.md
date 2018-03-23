@@ -176,8 +176,10 @@ Si está libre de spam, sabes que te equivocaste porque el dcc manda spam mensua
 
 Desde un computador del Toqui puedes escribir esto en la terminal
 `pdf2ps filename.pdf out.ps`
-Y luego esto:
-`duplex -l out.ps|lpr -P hp-335`
+Y luego esto para imprimir en el toqui:
+`duplex -l out.ps|lpr`
+o esto para imprimir en la impresora de la salita:
+`duplex -l out.ps|lpr -P hp335`
 y magia.
 
 
