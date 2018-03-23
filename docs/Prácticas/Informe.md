@@ -89,7 +89,7 @@ El semestre siguiente al que hiciste la práctica.
 
 ## ¿Qué pasa si la empresa en la que hice la práctica me hizo firmar un Acuerdo de Confidencialidad?
 
-El informe de práctica debe tener las partes anteriores y un profesor debe poder saber que es lo que hiciste de acuedo a este, por lo tanto si por el acuerdo no puedes poner cosas clave para que se entienda lo que hiciste, entonces pucha,... gg.
+El informe de práctica debe tener las partes anteriores y un profesor debe poder saber que es lo que hiciste de acuedo a este. Por lo tanto si por el acuerdo no puedes poner cosas clave para que se entienda lo que hiciste, entonces pucha,... gg.
 
 ---
 
@@ -98,6 +98,37 @@ El informe de práctica debe tener las partes anteriores y un profesor debe pode
 "Habla con la Secretaria Docente" - Bergel
 
 La secretaria docente es [Sandra](https://faq.cadcc.cl/es/latest/NPCs%20Importantes/) btw
+
+---
+
+## ¿Como revisan el informe de práctica?
+
+La nota del informe se calcula como el promedio de cinco notas entre 1 y 7, y evalúan los siguientes aspectos:
+
+1. Presentacion y Redacción
+2. Estructura y Contenido (es básicamente si seguiste la estructura descrita anteriormente y no pusiste nada fuera de lugar)
+3. Comprensión del Problema y objetivos (Es básicamente si entendiste el porque desarrollaste lo que hiciste en la práctica)
+4. Metodología y Solución
+5. Discusión y Conclusión
+
+---
+
+## ¿Quien evalúa el informe?
+
+Un profesor Part-Time del DCC.
+
+---
+
+## ¡Ayuda! ¡Me devolvieron el informe y me pidieron que lo corrigiera!
+
+Si tu informe es de mala calidad, el profesor que lo revisa te lo puede devolver UNA SOLA VEZ con algunas indicaciones para que lo corrijas. Luego de que lo mandas por segunda vez no deberían mandartelo de nuevo de modo que puedes entregarte a tu destino.
+
+---
+
+## ¿Si el profe que me revisa el informe pide una corrección el mismo profe corrige la versión corregida?
+
+Sip. 
+
 
 
 
