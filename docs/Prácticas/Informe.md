@@ -19,7 +19,7 @@ Debe contener la siguiente información:
 
 ## Resumen (1/2 página aprox)
 
-En esta parte se deben explicar brevemente los aspectos escensiales de la práctica, junto con mencionar las conclusiones y resultados.
+En esta parte se deben explicar brevemente los aspectos esenciales de la práctica, junto con mencionar las conclusiones y resultados.
 
 ## Introducción (1 página aprox)
 
