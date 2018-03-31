@@ -269,7 +269,7 @@ banho_1.selectAll("path")
 if (width >= 650){		
 	banho_1.append("text")
 			.attr("transform", "translate(" + width/40 + "," + height*6/43  + ") rotate(90)")
-			.text("Baño M");
+			.text("Baño ♂");
 }
 		
 //Entrada
@@ -367,7 +367,7 @@ cocina.selectAll("path")
 if (width >= 650){			
 	cocina.append("text")
 			.attr("transform", "translate(" + width/40 + "," + height*3/43  + ") rotate(90)")
-			.text("Baño F");
+			.text("Baño ♀");
 }
 
 //Auditorio Ramon Picarte
