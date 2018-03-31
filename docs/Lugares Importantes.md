@@ -452,8 +452,34 @@ if (width >= 650){
 			.text("Ofisalita");
 }			
 
+//Dirección
+var datos_direccion = [
+			{x: 0, y: 0},
+			{x: width/100*5*2.5, y: 0},
+			{x: width/100*5*2.5, y: height/430*104},
+			{x: 0, y: height/430*104},
+			{x: 0, y: 0}
+			];
+
+var direccion_departamento = group.append("g")
+					.attr("transform", "translate(" + width*5*15.5/100 + "," + 0  + ")")
+					.attr("class", "objeto_sala");
+
+direccion_departamento.selectAll("path")
+			.data([datos_direccion])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "oficina");
+
+if (width >= 650){
+	direccion_departamento.append("text")
+			.attr("transform", "translate(" + width*12.5/200 + "," + height*100/860  + ")")
+			.text("Dirección");
+}
+
 //El resto de las salas
-for(i = 4; i < 18; i++){
+for(i = 4; i < 9; i++){
 	var datos_misteriosos = [
 			{x: 0, y: 0},
 			{x: width/100*5, y: 0},
@@ -462,15 +488,107 @@ for(i = 4; i < 18; i++){
 			{x: 0, y: 0}
 			];
 					
-	group.append("g")
-			.attr("transform", "translate(" + width*5/100*i + "," + 0  + ")")
-			.attr("class", "objeto_sala")
-			.selectAll("path")
-				.data([datos_ofisalita])
+	var sala_misteriosa = group.append("g")
+							.attr("transform", "translate(" + width*5/100*i + "," + 0  + ")")
+							.attr("class", "objeto_sala");
+							
+	sala_misteriosa.selectAll("path")
+						.data([datos_misteriosos])
+						.enter()
+						.append("path")
+						.attr("d", line)
+						.attr("class", "oficina");
+				
+	if (width >= 650){
+		sala_misteriosa.append("text")
+			.attr("transform", "translate(" + width*5/200 + "," + height*75/860  + ") rotate(90)")
+			.text("Oficina " + (331 - (i - 4)) );
+}			
+}
+
+//Secretarias PEC
+var datos_sec_pec = [
+			{x: 0, y: 0},
+			{x: width/100*10, y: 0},
+			{x: width/100*10, y: height/430*75},
+			{x: 0, y: height/430*75},
+			{x: 0, y: 0}
+			];
+					
+	var sala_sec_pec = group.append("g")
+			.attr("transform", "translate(" + width*5/100*(9) + "," + 0  + ")")
+			.attr("class", "objeto_sala");
+	
+	sala_sec_pec.selectAll("path")
+				.data([datos_sec_pec])
 				.enter()
 				.append("path")
 				.attr("d", line)
 				.attr("class", "oficina");
+				
+	if (width >= 650){
+		sala_sec_pec.append("text")
+			.attr("transform", "translate(" + width*10/200 + "," + height*60/860  + ")")
+			.text("Oficina");
+			
+		sala_sec_pec.append("text")
+			.attr("transform", "translate(" + width*10/200 + "," + height*90/860  + ")")
+			.text(326);
+	}
+				
+				
+//Jefe PEC
+var datos_jefe_pec = [
+			{x: 0, y: 0},
+			{x: width/100*7.5, y: 0},
+			{x: width/100*7.5, y: height/430*75},
+			{x: 0, y: height/430*75},
+			{x: 0, y: 0}
+			];
+					
+	var sala_jefe_pec = group.append("g")
+			.attr("transform", "translate(" + width*5/100*(11) + "," + 0  + ")")
+			.attr("class", "objeto_sala");
+			
+	sala_jefe_pec.selectAll("path")
+				.data([datos_jefe_pec])
+				.enter()
+				.append("path")
+				.attr("d", line)
+				.attr("class", "oficina");
+				
+	if (width >= 650){
+		sala_jefe_pec.append("text")
+			.attr("transform", "translate(" + width*7.5/200 + "," + height*75/860  + ") rotate(90)")
+			.text("Oficina " + (325) );
+	}
+
+//El resto de las salas
+for(i = 11; i < 14; i++){
+	var datos_misteriosos = [
+			{x: 0, y: 0},
+			{x: width/100*5, y: 0},
+			{x: width/100*5, y: height/430*75},
+			{x: 0, y: height/430*75},
+			{x: 0, y: 0}
+			];
+					
+	var sala_misteriosa = group.append("g")
+							.attr("transform", "translate(" + width*5/100*(i + 1.5) + "," + 0  + ")")
+							.attr("class", "objeto_sala");
+							
+	sala_misteriosa.selectAll("path")
+						.data([datos_misteriosos])
+						.enter()
+						.append("path")
+						.attr("d", line)
+						.attr("class", "oficina");
+				
+	if (width >= 650){
+		sala_misteriosa.append("text")
+			.attr("transform", "translate(" + width*5/200 + "," + height*75/860  + ") rotate(90)")
+			.text("Oficina " + (331 - (i - 4)) );
+	}
 }
 
 
@@ -483,15 +601,23 @@ for(i = 2; i < 18; i++){
 			{x: 0, y: 0}
 			];
 					
-	group.append("g")
-			.attr("transform", "translate(" + width*5/100*i + "," + (height/430*255) + ")")
-			.attr("class", "objeto_sala")
-			.selectAll("path")
-				.data([datos_ofisalita])
-				.enter()
-				.append("path")
-				.attr("d", line)
-				.attr("class", "oficina");
+	var sala_misteriosa = group.append("g")
+							.attr("transform", "translate(" + width*5/100*i + "," + height/430*255  + ")")
+							.attr("class", "objeto_sala");
+							
+	sala_misteriosa.selectAll("path")
+						.data([datos_misteriosos])
+						.enter()
+						.append("path")
+						.attr("d", line)
+						.attr("class", "oficina");
+				
+	if (width >= 650){
+		sala_misteriosa.append("text")
+			.attr("transform", "translate(" + width*5/200 + "," + height*75/860  + ") rotate(90)")
+			.text("Oficina " + (301 + i) );
+	}
+}
 }
 
 
