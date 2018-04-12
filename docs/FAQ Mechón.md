@@ -191,6 +191,12 @@ Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porq
 
 ---
 
+## ¿Cómo se cuentas impresiones me quedan?
+
+En un computador de anakena (como los del toqui) abre la terminal y escribe `papel`. Eso es todo, de verdad que es así de fácil... yo sigo sorprendido hasta el día de hoy.
+
+---
+
 ## ¿Cómo me meto a DCCAIR?
 
 Te dejamos con el [Tutorial Oficial para meterse al Wifi del DCC™](https://www.dcc.uchile.cl/wifi).
