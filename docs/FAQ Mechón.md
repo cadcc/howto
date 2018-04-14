@@ -179,7 +179,7 @@ Desde un computador del Toqui puedes escribir esto en la terminal
 Y luego esto para imprimir en el toqui:
 `duplex -l out.ps|lpr`
 o esto para imprimir en la impresora de la salita:
-`duplex -l out.ps|lpr -P hp335`
+`duplex -l out.ps|lpr -P hp-335`
 y magia.
 
 
