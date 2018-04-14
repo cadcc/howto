@@ -35,11 +35,13 @@ Supongamos que ya encontraste una empresa cool, les enviaste tu perfecto curríc
 
 Durante el semestre hay dos instancias para preinscribir la práctica: A mitad y a finales de semestre. Puedes preinscribir la práctica metiendote al módulo de Prácticas Profesionales de ucampus, hacer click en preinscripción, rellenar la info de ahí y mandarla.
 
-Según el profe Alexandre Bergel, la preinscripción debe ser breve y debe tener la siguiente estructura:
+Según el profe Alexandre Bergel, la descripción debe ser breve y debe tener la siguiente estructura:
 
 1. Problema a solucionar
 2. Posible solución
 3. Aspectos técnicos considerados (si es que hay).
+
+Según yo y muchas otras personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizaste, además de la idea general de lo que hiciste.
 
 Nota: La práctica debe ser realizada antes del siguiente semestre.
 Nota2: La preinscripción va a ser evaluada por el coordinador de prácticas.
@@ -131,6 +133,11 @@ Si, en la práctica deberían ocupar los conociemientos adquiridos en el DCC.
 
 ## ¿Qué es computacionalmente básico?
 No tenemos una pauta, pero 500 lineas de código probablemente ya no lo sea.
+
+---
+
+## Mi pre-inscripción ha estado en "pendiente" por mucho tiempo ¿Qué hago?
+Mandale un mail al coordinador de prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
 
 
 
