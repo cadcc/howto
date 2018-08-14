@@ -639,6 +639,6 @@ Entre los lugares importantes que pensamos agregar están:
 * Colossus (magister)
 * Anakena (doctora2) 
 
-Disclaimer: Los mapas que estan aquí están hechos al ojímetro, hay salas que son de distinto tamaño en la vida real :O
+Disclaimer: Los mapas que están aquí están hechos al ojímetro, hay salas que son de distinto tamaño en la vida real :O
 
 Agradecimientos al Grupo de Agilidad de Madrid por la estructura de los mapas.
