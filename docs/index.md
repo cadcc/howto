@@ -1,6 +1,6 @@
 # Bienvenid@ al DCC!
 
-Este es un FAQ es proceso con harta información sobre temas de interés para el dececiano promedio. 
+Este es un FAQ en proceso con harta información sobre temas de interés para el dececiano promedio. 
 
 ![Portada FAQs](_static/Home/MiniBannerFAQPoop.png)
 
