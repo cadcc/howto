@@ -84,6 +84,7 @@ En este caso, te recomendamos contactar al CaDCC a través del correo docencia[a
 ## Ayuda creo que me echaré el ramo
 
 Históricamente es difícil echarse el ramo de Proyecto de Software. Deberían de cumplirse todas estas condiciones:
+
 * Mala relación con el empleador
 * Mala relación con los compañeros de grupo
 * Impuntualidad y poca responsabilidad con el trabajo encomendado
