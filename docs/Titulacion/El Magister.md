@@ -1,5 +1,7 @@
 # Magister en Cs. Mención Computación
 
+Este instructivo fue rescatado de [titulación.cadcc.cl](https://titulacion.cadcc.cl) y fue elaborado por Nicolás Lehmann y Francisco Cifuentes el año 2014. Posteriormente, fue actualizado por Eduardo Riveros el 2017 y copiado a esta página.
+
 ## ¿Cómo me meto al magister?
 
 Independiente de si haces doble titulación (Explicaremos más adelante qué clase de brujería es esta) o primero terminas la ingeniería, hay varias cosas que son iguales en ambos casos. Por ejemplo, si te metes al magíster viniendo desde el DCC te convalidan todos los ramos. Bueno, casi, lo único extra que hay que tomar es CC71T - Investigación en Cs.de la Computación.(Métodos, Técnicas, Perspectivas) _(Nunca nadie ha sabido el nombre completo de este ramo porque es tan largo que no cabe ni en U-Cursos ni en Ucampus. Sin duda el nombre es muy sospechoso)_. Aunque también muchos toman este ramo como electivo en pregrado y por lo tanto cuando entran al magíster no tienen que tomar ningún ramo adicional.
