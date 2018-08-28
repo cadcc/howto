@@ -93,8 +93,9 @@ Cuando hayas tomado el ramo de práctica que te corresponda, tendrás que cumpli
 
 * Asistir a 1 charla que orientará lo que queda de tu proceso de práctica. La charla será anunciada por U-Cursos y se realizará durante la semana 1 del semestre en cuestión. **En caso de no poder asistir a esta reunión, te recomendamos hablar con anticipación con el coordinador de práctica.**
 * Asistir a 2 sesiones de un taller especial que te ayudará a redactar bien tu informe de práctica. Las sesiones serán en horarios en que los estudiantes en el ramo de práctica no tengan clases y se realizarán durante las semanas 2 y 3. **En caso de no poder asistir a una o dos sesiones, te recomendamos hablar con anticipación con el director de práctica.**
+* Entregar un informe de práctica **a más tardar el viernes de la semana del primer elimina** (semana 5).
 
-Para entender mejor la estructura del informe de práctica, te recomendamos leer [esta sección del tutorial](https://faq.cadcc.cl/es/latest/Pr%C3%A1cticas/Informe/). Por cierto, **la fecha de entrega del informe es el viernes de la semana del primer elimina** (semana 5).
+Para entender mejor la estructura del informe de práctica, te recomendamos leer [esta sección del tutorial](https://faq.cadcc.cl/es/latest/Pr%C3%A1cticas/Informe/).
 
 ## La evaluación de la práctica
 
