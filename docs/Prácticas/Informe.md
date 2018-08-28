@@ -2,6 +2,8 @@ En esta parte se explica un poco el formato del informe para prácticas del seme
 
 # Estructura del Informe
 
+**Importante: Esta información (estructura del informe) está en conversación actualmente, por lo que puede cambiar en cualquier momento. Te recomendamos revisar constantemente esta página y preguntar al coordinador de práctica para más información**.
+
 El informe de la práctica consta de 9 partes que mencionaremos a continuacion
 
 ## Carátula (1 página)
@@ -15,7 +17,6 @@ Debe contener la siguiente información:
 * Nombre del Alumno, Carrera y Especialidad
 * Rut del Alumno
 * Mail y teléfono del Alumno
-* Poner "Estructura Antigua" si corresponde (solo para prácticas previas al semestre de primavera 2018, en caso de ponerlo seguir la estructura que aparece [aquí](https://www.dcc.uchile.cl/practicas))
 
 ## Resumen (1/2 página aprox)
 
@@ -67,41 +68,35 @@ El nombre es un poco ambiguo, pero en esta parte va:
 
 ---
 
-#FAQ
+# FAQ
 
 ## ¿Puedo entregar el informe en Word?
 
-Sip, pero pasalo a PDF.
+Si, pero **pasalo a PDF**.
 
 ---
 
 ## ¿Es necesario poner código fuente en el informe?
 
-No, pero hace más facil hacerse una opinión respecto a lo que hiciste.
+No, pero puede hacer más facil hacerse una opinión respecto a lo que hiciste.
 
 ---
 
 ## ¿Cuando se entrega el informe de práctica?
 
-El semestre siguiente al que hiciste la práctica.
+El semestre siguiente o subsiguiente al que hiciste la práctica.
 
 ---
 
 ## ¿Qué pasa si la empresa en la que hice la práctica me hizo firmar un Acuerdo de Confidencialidad?
 
-El informe de práctica debe tener las partes anteriores y un profesor debe poder saber que es lo que hiciste de acuedo a este. Por lo tanto si por el acuerdo no puedes poner cosas clave para que se entienda lo que hiciste, entonces pucha,... gg.
-
----
-
-## En la forma antigua ¿Tengo que escanear la hoja para incluirla en mi informe?
-
-"Habla con la Secretaria Docente" - Bergel
-
-La secretaria docente es [Sandra](https://faq.cadcc.cl/es/latest/NPCs%20Importantes/) btw
+El informe de práctica debe tener las partes anteriores y un profesor debe poder saber que es lo que hiciste de acuedo a este. Por lo tanto si por el acuerdo no puedes poner cosas clave para que se entienda lo que hiciste, entonces pucha,... gg. Por lo tanto, es necesario **que discutas antes de partir la práctica con tu empleador qué cosas puedes presentar de ella a la Universidad**. Si bien debería ser obvio para un empleador que el objetivo del estudiante en una práctica es entregar algo a su universidad, no falta la organización que lo olvida, así que es mejor ser precavido.
 
 ---
 
 ## ¿Como revisan el informe de práctica?
+
+**Importante: Esta información está en desarrollo, por lo que puede cambiar en cualquier momento. Te recomendamos revisar constantemente esta página y preguntar al coordinador de práctica para más información**.
 
 La nota del informe se calcula como el promedio de cinco notas entre 1 y 7, y evalúan los siguientes aspectos:
 
@@ -115,13 +110,13 @@ La nota del informe se calcula como el promedio de cinco notas entre 1 y 7, y ev
 
 ## ¿Quien evalúa el informe?
 
-Un profesor Part-Time del DCC.
+Un profesor Full Time, Part Time o Experto Externo del DCC.
 
 ---
 
 ## ¡Ayuda! ¡Me devolvieron el informe y me pidieron que lo corrigiera!
 
-Si tu informe es de mala calidad, el profesor que lo revisa te lo puede devolver UNA SOLA VEZ con algunas indicaciones para que lo corrijas. Luego de que lo mandas por segunda vez no deberían mandartelo de nuevo de modo que puedes entregarte a tu destino.
+Si tu informe es de mala calidad, el profesor que lo revisa te lo puede devolver UNA SOLA VEZ con algunas indicaciones para que lo corrijas. Luego de que lo mandas por segunda vez no deberían mandartelo de nuevo de modo que puedes entregarte a tu destino. Además, tu nota máxima **será menor** que si no te hubiesen pedido recorregirlo.
 
 ---
 
