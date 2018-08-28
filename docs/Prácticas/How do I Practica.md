@@ -185,6 +185,17 @@ Si las tareas que realizas coinciden con las de la preinscripción que hiciste y
 ## Mi pre-inscripción ha estado en "pendiente" por mucho tiempo ¿Qué hago?
 Mandale un mail a la Secretaria Docente, Sandra (sandra[arroba]dcc.uchile.cl) para que le avise al Coordinador de Prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
 
+---
+
+## ¿Puedo preinscribir la práctica en Ucampus sin tener los ramos necesarios para tomar el ramo de práctica?
+
+Sí. pero es recomendable que al menos los estés tomando en ese instante.
+
+---
+
+## No he terminado todos los ramos que son requisito para tomar la práctica. ¿Puedo hacer el hack de realizar la práctica, tomar los requisitos que me faltan el próximo semestre, pasarlos y tomar el ramo de práctica el semestre subsiguiente?
+
+**No.** Se revisa que las prácticas sean desarrolladas **después de haber realizado los ramos requisito del ramo de práctica**. Siempre puedes arriesgarte y hacerlo y ver si pasa, pero **no digas que no te lo advertimos**. 
 
 
 
