@@ -51,13 +51,14 @@ Podrás preinscribir tu práctica durante todo el año universitario, es decir, 
 
 Según el profe Alexandre Bergel, la descripción debe ser breve y debe tener la siguiente estructura:
 
-1. Problema a solucionar
-2. Posible solución
-3. Aspectos técnicos considerados (si es que hay).
-4. Duración estimada de la práctica
-5. Datos de Supervisor (tiene que ser un profesional de un rubro afin a computación, el cual estará a cargo de guiarte en tu trabajo y de evaluarte al momento de finalizar tu práctica)
+1. Datos del lugar en el que trabajarás (Nombre, dirección, rubro empresa, etc)
+1. Duración estimada de la práctica (Fecha inicio y fecha fin)
+1. Horas a trabajar semanalmente (aprox).
+1. Datos de Supervisor (tiene que ser un profesional de un rubro afin a computación, el cual estará a cargo de guiarte en tu trabajo y de evaluarte al momento de finalizar tu práctica)
+1. Datos del lugar de práctica
+1. Descripción de la práctica (problema a solucionar, ideas para una posible solución, entre otros)
 
-Según yo y muchas otras personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizarás, además de la idea general de lo que harás.
+Según yo y muchas otras personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizarías, además de la idea general de lo que harás.
 
 Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Sandra), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Sandra es sandra[arroba]dcc.uchile.cl. 
 
