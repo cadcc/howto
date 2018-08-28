@@ -55,13 +55,20 @@ Según el profe Alexandre Bergel, la descripción debe ser breve y debe tener la
 2. Posible solución
 3. Aspectos técnicos considerados (si es que hay).
 4. Duración estimada de la práctica
-5. Una persona de contacto con la empresa (tiene que ser un profesional, el cual estará a cargo de guiarte en tu trabajo y de evaluarte al momento de finalizar tu práctica)
+5. Datos de Supervisor (tiene que ser un profesional de un rubro afin a computación, el cual estará a cargo de guiarte en tu trabajo y de evaluarte al momento de finalizar tu práctica)
 
 Según yo y muchas otras personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizarás, además de la idea general de lo que harás.
 
 Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Sandra), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Sandra es sandra[arroba]dcc.uchile.cl. 
 
 La respuesta a tu preinscripción será entregada en a lo más 5 días hábiles desde el momento en que la envías y das el aviso. Si luego de 5 días hábiles no sabes nada de tu práctica, te recomendamos hablar con Sandra (por correo o en su oficina) o con Alex.
+
+Para ahorrarte malas postulaciones, te mencionamos algunas prácticas que **NO** serán aceptadas jamás:
+
+* Tu propio emprendimiento (a no ser que **OpenBeauchef** lo supervise. Si necesitas más detalles, pregunta al Coordinador de Práctica).
+* Cualquier trabajo **en el DCC o sus centros de investigación**.
+* Cualquier práctica en la que tu supervisor **sea un pariente tuyo**. (Puedes trabajar en una empresa en la que un pariente tuyo esté, pero él no puede supervisarte).
+* Cualquier trabajo que no esté relacionado con la carrera (ejemplos (no tan) exagerados: servir café en una oficina, llenar planillas de Excel o meter maletas en un avión).
 
 ## La práctica
 
@@ -89,37 +96,39 @@ Cuando hayas tomado el ramo de práctica que te corresponda, tendrás que cumpli
 
 Para entender mejor la estructura del informe de práctica, te recomendamos leer [esta sección del tutorial](https://faq.cadcc.cl/es/latest/Pr%C3%A1cticas/Informe/). Por cierto, **la fecha de entrega del informe es el viernes de la semana del primer elimina** (semana 5).
 
+## La evaluación de la práctica
+
+Durante lo que queda de semestre, un profesor full time, part time o experto externo del departamento revisará tu informe de práctica y le colocará una nota según una rúbrica publicada por el departamento. Asimismo, como ya mencionamos, tu supervisor también enviará una nota con su apreciación de tu desempeño y comentarios justificando la evaluación a través de Ucampus. Ambas notas se considerarán para tu nota final de practica, en una proporción 60% informe, 40% supervisor. **Sin embargo, es necesario que ambas notas estén sobre 4 para aprobar**.
+
+Existe la posibilidad de que el profesor que revise tu informe te contacte para pedirte que le hagas correcciones, ya que para la impresión de él, el informe que entregaste no cumple las condiciones necesarias para aprobar. En ese caso, podrás entregar una nueva versión del informe, pero muy probablemente la nota máxima a la que podrás aspirar sea menor a 7. Te darán más detalles de esa situación si te llega a ocurrir.
+
+En caso que tuvieses dudas acerca de tu nota de informe de práctica que no estuviesen resueltas en los comentarios del evaluador, **puedes contactar a Sandra para solicitar una apelación de tu nota**. Ella hará las gestiones para que el Coordinador de Práctica vea tu caso y tome una decisión final sobre él.
+
+Ya con tu nota final obtenida sobre 4.0 y con el acta del curso publicada, podrás decir orgullosamente que terminaste una (o las 2 si estabas en práctica 2) de tus prácticas :)
+
 #FAQ
 
 ## ¿Se puede inscribir la práctica durante el semestre de verano?
 
-No
-
----
-
-## ¿Cuáles son los requisitos para que una empresa sea aceptable para hacer una práctica?
-
-* La empresa tiene que tener un equipo de trabajo
-* No ser el DCC (la U de Chile si)
-* Su supervsor tiene que ser un profesional (no alumno, compañero o pariente)
+Sí, y las reglas son las mismas que al inscribir la práctica en otros semestres. Eso sí, ten en cuenta que el semestre de verano **cobra diferenciado por cantidad de créditos inscritos** y que ahora las prácticas **valen 7 créditos**, por lo que te recomendamos averiguar con la escuela el costo total de realizar la práctica en verano.
 
 ---
 
 ## ¿Se puede inscribir el ramo en el mismo semestre que se realiza la práctica?
 
-No, la práctica se realiza antes de realizar el ramo.
+No, la práctica se realiza antes de tomar el ramo y el ramo puede ser tomado **hasta 2 semestres después de realizada la práctica**.
 
 ---
 
 ## ¿Puede un emprendimiento pasar por práctica?
 
-Si, pero tiene que ser manejado por openBeauchef para pasarlo como práctica.
+Si, pero tiene que ser manejado por **OpenBeauchef** para pasarlo como práctica. (Más detalles con el Coordinador de Práctica).
 
 ---
 
 ## Si tengo un proyecto personal computacional ¿Puede pasar como práctica?
 
-Debe pasar por OpenBeauchef.
+**Debe pasar por OpenBeauchef** (ver pregunta anterior).
 
 ---
 
@@ -127,10 +136,12 @@ Debe pasar por OpenBeauchef.
 
 Sip, posee las siguientes características:
 
-* Todo debe ser transparente para el dcc
-* Se puede descargar un certificado desde ucampus
+* Todo debe ser transparente para el DCC.
+* Se puede descargar un certificado desde Ucampus cuando tienes la práctica preinscrita y los requisitos para tomar el ramo de práctica.
 * El seguro cubre accidentes ocurridos en el lugar de la práctica
-* Cubre accidentes durante el traslado desde y hasta el lugar de trabajo siempre y cuando el traslado sea directo
+* Cubre accidentes durante el traslado desde y hasta el lugar de trabajo siempre y cuando el traslado sea directo.
+
+Si realizarás la práctica en febrero, debes hacer algunos trámites extra para que el seguro corra. Habla con el coordinador de práctica para más detalles.
 
 ---
 
@@ -142,41 +153,37 @@ Si hay un equipo de trabajo y un supervisor si. Pero la start-up debe estar bien
 
 ## ¿Mi práctica puede ser en la empresa de un familiar?
 
-No, en ningun caso.
+**No, en ningun caso,** ya que ese familiar tendría poder (de forma directa o indirecta) sobre tu supervisor.
 
 ---
 
 ## ¿Qué pasa si me quedo mas tiempo haciendo la práctica de lo que puse en la preinscripción?
 
-No importa.
+No afecta al ramo de práctica profesional.
 
 ---
 
 ## Si he ido a eventos como hackatones ¿Lo puedo poner en el curriculum?
 
-Si, y trata de incluir un link al proyecto que realizaste, es profesional.
+Si, y trata de incluir un link al proyecto que realizaste para más información.
 
 ---
 
 ## ¿Tendremos acceso a los comentarios y a la nota que nos dio el supervisor de la empresa en que trabajamos?
 
-No necesariamente.
+No necesariamente a los comentarios, pero como sí tendrás la nota del profesor y la nota final, podrás deducir tu nota de supervisor.
 
 ---
 
 ## ¿Hay algun problema si es que las tareas que me piden hacer en la práctica son muy básicas computacionalmente?
 
-Si, en la práctica deberían ocupar los conociemientos adquiridos en el DCC.
+Si las tareas que realizas coinciden con las de la preinscripción que hiciste y fue aprobada, no deberías tener problemas. Si te cambiaron las tareas en el camino, es recomendable que discutas con tu empleador la posibilidad de realizar tareas más parecidas a lo que te aprobaron. En general, hay problemas con que lo aprobado difiera un poco con lo que harás en la realidad (en la vida real siempre cambian los proyectos), pero deberías de poder conversar con tu empleador para que la variación no implique disminución de dificultad o mucha variación en el tipo de tarea.
 
----
-
-## ¿Qué es computacionalmente básico?
-No tenemos una pauta, pero 500 lineas de código probablemente ya no lo sea.
 
 ---
 
 ## Mi pre-inscripción ha estado en "pendiente" por mucho tiempo ¿Qué hago?
-Mandale un mail al coordinador de prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
+Mandale un mail a la Secretaria Docente, Sandra (sandra[arroba]dcc.uchile.cl) para que le avise al Coordinador de Prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
 
 
 
