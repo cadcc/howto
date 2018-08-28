@@ -196,7 +196,7 @@ Sí. pero es recomendable que al menos los estés tomando en ese instante.
 
 ## No he terminado todos los ramos que son requisito para tomar la práctica. ¿Puedo hacer el hack de realizar la práctica, tomar los requisitos que me faltan el próximo semestre, pasarlos y tomar el ramo de práctica el semestre subsiguiente?
 
-**No.** Se revisa que las prácticas sean desarrolladas **después de haber realizado los ramos requisito del ramo de práctica**. Siempre puedes arriesgarte y hacerlo y ver si pasa, pero **no digas que no te lo advertimos**. 
+**No.** Se revisa que las prácticas sean desarrolladas **después de haber realizado los ramos requisito del ramo de práctica**. Claro que siempre puedes ignorarnos, arriesgarte, hacerlo y ver si funciona, pero si no funciona, **no digas que no te lo advertimos**. 
 
 
 
