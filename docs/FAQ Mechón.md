@@ -180,6 +180,7 @@ Te dejamos con el [Tutorial Oficial para meterse al Wifi del DCC™](https://www
 ## ¿Es verdad que puedo tomar mates financieras (IN4301) en vez de evalua?
 
 Definitivamente no es recomendable, esto es un problema con la malla y puede ser arreglado en cualquier momento. Además, ramos futuros de la malla piden evaula y no mates financieras.
+
 ---
 
 ### Contacto
