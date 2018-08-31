@@ -13,7 +13,7 @@ Según el Coordinador de Prácticas Alexandre Bergel, un currículum debe inclu�
 * Premios o publicaciones.
 * Experiencia Académica y Profesional (Un ramo que aprobaste con distinción por ejemplo o si has sido auxiliar o ayudante de algun ramo)
 * Link a Github (Tener un lugar donde están tus proyectos es algo que mucha gente en el mundo de la computación valora)
-* Actividades extracurriculares (¡todas sirven!)
+* Actividades extracurriculares (¡Todas sirven!)
 
 Puede que pienses que actividades como estar en scout, ser presidente de curso o participar de grupos organizados no son logros que un empleador quisiera ver en un currículum para trabajar de practicante de computación. Sin embargo, son estas cosas (en realidad es la proactividad, motivación y liderazgo que muestras al haberlas hecho) las que terminan haciendo la diferencia, en especial cuando no has trabajado formalmente antes. Sin embargo, si bien es mejor que en un curriculum sobre información a que falte, intenta no exceder las 2 planas de contenido.
 
@@ -60,7 +60,7 @@ Según el profe Alexandre Bergel, la descripción debe ser breve y debe tener la
 
 Según yo y muchas otras personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizarías, además de la idea general de lo que harás.
 
-Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Sandra), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Sandra es sandra[arroba]dcc.uchile.cl. 
+Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Sandra), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Sandra es sandra@dcc.uchile.cl. 
 
 La respuesta a tu preinscripción será entregada en a lo más 5 días hábiles desde el momento en que la envías y das el aviso. Si luego de 5 días hábiles no sabes nada de tu práctica, te recomendamos hablar con Sandra (por correo o en su oficina) o con Alex.
 
@@ -84,7 +84,7 @@ Algunos consejos al momento de desarrollar tu práctica:
 
 * Te recomendamos mucho **llevar una bitácora de trabajo** en la que anotes tus objetivos y logros de todos los días. De esta forma, escribir tu informe de práctica será una tarea más llevadera.
 * Si bien una parte importante de la práctica son tus habilidades y conocimientos de la carrera, otra componente importante es tu capacidad de relacionarte con los empleados del lugar de trabajo, tanto de forma laboral como humana. Además, muy probablemente el encargado de práctica de la empresa tendrá en cuenta esos factores al momento de evaluarte.
-* Es probable que los primeros días en tu práctica sientas que no has hecho nada importante porque no has comenzado a programar. Sin embargo, la mayoría de los proyectos requieren una etapa inicial de planificación, la cual determina fuertemente el resultado final de ellos. Por lo mismo, te recomendamos que les tomes el mismo peso que le tomas a poner manos a la obra, y lo destaques de la misma forma en tu informe de práctica (hablaremos más de él en un rato).
+* Es probable que los primeros días en tu práctica sientas que no has hecho nada importante porque no has comenzado a programar. Sin embargo, la mayoría de los proyectos requieren una etapa inicial de planificación, la cual determina fuertemente el resultado final de ellos. Por lo mismo, te recomendamos que les tomes el mismo peso que le tomas a poner manos a la obra, y lo destaques de la misma forma en tu informe de práctica (hablaremos más del informe en un rato).
 
 ## El Ramo de la Práctica
 
@@ -92,8 +92,8 @@ Supongamos ahora que terminaste la práctica, ¿Ahora que? Bueno, debes tomar el
 
 Cuando hayas tomado el ramo de práctica que te corresponda, tendrás que cumplir con 3 requisitos académicos obligatorios: 
 
-* Asistir a 1 charla que orientará lo que queda de tu proceso de práctica. La charla será anunciada por U-Cursos y se realizará durante la semana 1 del semestre en cuestión. **En caso de no poder asistir a esta reunión, te recomendamos hablar con anticipación con el coordinador de práctica.**
-* Asistir a 2 sesiones de un taller especial que te ayudará a redactar bien tu informe de práctica. Las sesiones serán en horarios en que los estudiantes en el ramo de práctica no tengan clases y se realizarán durante las semanas 2 y 3. **En caso de no poder asistir a una o dos sesiones, te recomendamos hablar con anticipación con el director de práctica.**
+* Asistir a una charla que orientará lo que queda de tu proceso de práctica. La charla será anunciada por U-Cursos y se realizará durante la semana 1 del semestre en cuestión. **En caso de no poder asistir a esta charla, te recomendamos hablar con anticipación con el coordinador de práctica.**
+* Asistir a dos sesiones de un taller especial que te ayudará a redactar bien tu informe de práctica. Las sesiones serán en horarios en que los estudiantes en el ramo de práctica no tengan clases y se realizarán durante las semanas 2 y 3. **En caso de no poder asistir a una o dos sesiones, te recomendamos hablar con anticipación con el director de práctica.**
 * Entregar un informe de práctica **a más tardar el viernes de la semana del primer elimina** (semana 5).
 
 Para entender mejor la estructura del informe de práctica, te recomendamos leer [esta sección del tutorial](https://faq.cadcc.cl/es/latest/Pr%C3%A1cticas/Informe/).
@@ -159,7 +159,7 @@ Si hay un equipo de trabajo y un supervisor si. Pero la start-up debe estar bien
 
 ---
 
-## ¿Qué pasa si me quedo mas tiempo haciendo la práctica de lo que puse en la preinscripción?
+## ¿Qué pasa si me quedo más tiempo haciendo la práctica de lo que puse en la preinscripción?
 
 No afecta al ramo de práctica profesional.
 
@@ -185,7 +185,7 @@ Si las tareas que realizas coinciden con las de la preinscripción que hiciste y
 ---
 
 ## Mi pre-inscripción ha estado en "pendiente" por mucho tiempo ¿Qué hago?
-Mandale un mail a la Secretaria Docente, Sandra (sandra[arroba]dcc.uchile.cl) para que le avise al Coordinador de Prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
+Mandale un mail a la Secretaria Docente, Sandra (sandra@dcc.uchile.cl) para que le avise al Coordinador de Prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
 
 ---
 
