@@ -2,9 +2,9 @@
 
 ## ¿Qué es Proyecto de Software?
 
-Proyecto de Software es el ramo terminal de la línea académica "Ingeniería de Software". Según la malla, es un ramo que se toma en el 10mo semestre de la carrera, junto con el E, un ramo del Nucleo Gestión y electivos varios. Si bien pide como requisito todos los ramos obligatorios de la carrera, es posible tomarlo con una Inscripción Académica con Excepción (IAE), las cuales se habilitan al momento de tener 264 Créditos aprobados.
+Proyecto de Software es el ramo terminal de la línea académica "Ingeniería de Software". Según la malla, es un ramo que se toma en el décimo semestre de la carrera, junto con el E, un ramo del Nucleo Gestión y electivos varios. Si bien pide como requisito todos los ramos obligatorios de la carrera, es posible tomarlo con una Inscripción Académica con Excepción (IAE), las cuales se habilitan al momento de tener 264 Créditos aprobados.
 
-El objetivo de este ramo es, según su programa de estudios, `[...] es que el alumno enfrente una experiencia lo más cercana posible al mundo real del desarrollo de software, abordando los desafíos típicos como por ejemplo: llevar una buena relación con el cliente, planificar y adaptar el trabajo de acuerdo a las circunstancias, evaluar los riesgos asociados al proyecto y desarrollar una solución de software real. Todo esto con el apoyo metodológico de un equipo de ingenieros con experiencia comprobada en proyectos reales`. Lo anterior se refleja en la existencia de **tutores** para cada grupo de trabajo, los cuales debiesen de apoyar constantemente el proceso de trabajo y aprendizaje de los alumnos del ramo.
+El objetivo de este ramo es, según su programa de estudios, _"[...] es que el alumno enfrente una experiencia lo más cercana posible al mundo real del desarrollo de software, abordando los desafíos típicos como por ejemplo: llevar una buena relación con el cliente, planificar y adaptar el trabajo de acuerdo a las circunstancias, evaluar los riesgos asociados al proyecto y desarrollar una solución de software real. Todo esto con el apoyo metodológico de un equipo de ingenieros con experiencia comprobada en proyectos reales"_. Lo anterior se refleja en la existencia de **tutores** para cada grupo de trabajo, los cuales debiesen de apoyar constantemente el proceso de trabajo y aprendizaje de los alumnos del ramo.
 
 En este ramo, tendrán que trabajar en grupos durante **13 semanas**, por **16 horas a la semana**, presencialmente en una empresa que requiera servicios de desarrollo de software.
 
@@ -55,7 +55,7 @@ Por lo general, **el ramo continúa funcionando como si nada**, eso quiere decir
 
 ## ¿Se cuenta la semana olímpica, la semana de vacaciones de invierno y la semana de fiestas patrias?
 
-Las semanas mencionadas anteriormente **no debiesen ser trabajadas**. Sin embargo, han existido casos en los cauales el curso se pone de acuerdo para trabajarlas, con el objetivo de terminar el ramo antes.
+Las semanas mencionadas anteriormente **no debiesen ser trabajadas**. Sin embargo, han existido casos en los cuales el curso se pone de acuerdo para trabajarlas, con el objetivo de terminar el ramo antes.
 
 ## ¿Cuánto y cómo pagan?
 
@@ -77,7 +77,7 @@ Lo mejor es seguir el conducto regular: Primero que todo, hablar con el empleado
 
 ## ¿Qué pasa si a pesar de contarles nuestros problemas al equipo docente del ramo, no obtenemos respuestas satisfactorias?
 
-En este caso, te recomendamos contactar al CaDCC a través del correo docencia[arroba]cadcc.cl, para que podamos hacer llegar tus quejas y consultas a otras instancias del departamento.
+En este caso, te recomendamos contactar al CaDCC a través del correo ´docencia@cadcc.cl´, para que podamos hacer llegar tus quejas y consultas a otras instancias del departamento.
 
 ## Ayuda creo que me echaré el ramo
 
@@ -90,4 +90,4 @@ Históricamente es difícil echarse el ramo de Proyecto de Software. Deberían d
 
 Lo que suele pasar cuando algunas de las condiciones anteriores no se cumplen es que la nota baja debido a una evaluación deficiente. Sin embargo, el promedio y mediana del ramo suele fluctuar cerca del 6.0, estando la mínima alrededor del 5.0.
 
-Ojalá lo anterior te haya ayudado a entender mejor el ramo de proyecto. Recuerda que cualquier otra consulta, puedes mandarla a docencia[arroba]cadcc.cl.
+Ojalá lo anterior te haya ayudado a entender mejor el ramo de proyecto. Recuerda que cualquier otra consulta, puedes mandarla a docencia@cadcc.cl.
