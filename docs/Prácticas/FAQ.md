@@ -6,7 +6,7 @@ Para titularte tienes que dar 2 prácticas profesionales a lo largo de la carrer
 
 ## ¿Como puedo informarme más respecto a las prácticas?
 
-El profesor Alexandre Bregel (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es abergel[arroba]dcc.uchile.cl.
+El profesor Alexandre Bregel (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es abergel@dcc.uchile.cl.
 
 ---
 
