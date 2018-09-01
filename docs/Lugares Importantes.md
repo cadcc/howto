@@ -710,7 +710,14 @@ var svg = d3.select("#mapa_3ro_piso_poniente")
 
 var new_height = height/43*33
 var new_width = width/10*9
-				
+
+group.append("g").selectAll("path")
+					.data([datos_fondo])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "piso");
+
 //Fondo del mapa
 var datos_fondo = [
 			{x: 0, y: 0},
