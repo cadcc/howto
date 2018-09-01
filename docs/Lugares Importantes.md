@@ -671,7 +671,7 @@ var datos_lab_toqui = [
 			];
 					
 var lab_toqui = group.append("g")
-						.attr("transform", "translate(" + (width/20 + new_width/910*250) + "," + (height/43*5 + new_height/302*14)  + ")")
+						.attr("transform", "translate(" + (new_width/910*250) + "," + (new_height/302*14)  + ")")
 						.attr("class", "objeto_sala");
 		
 lab_toqui.selectAll("path")
