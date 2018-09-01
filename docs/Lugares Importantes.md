@@ -660,6 +660,36 @@ group.append("g").selectAll("path")
 					.append("path")
 					.attr("d", line)
 					.attr("class", "piso");
+
+//Lab Toqui
+var datos_lab_toqui = [
+			{x: 0, y: 0},
+			{x: new_width/910*200, y: new_height/302*11},
+			{x: new_width/910*200, y: new_height/302*113},
+			{x: 0, y: new_height/302*113},
+			{x: 0, y: 0}
+			];
+					
+var lab_toqui = group.append("g")
+						.attr("transform", "translate(" + (width/20 + new_width/910*250) + "," + (height/43*5 + new_height/302*14)  + ")")
+						.attr("class", "objeto_sala");
+		
+lab_toqui.selectAll("path")
+			.data([datos_lab_toqui])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+if (width >= 650){
+	lab_toqui.append("text")
+			.attr("transform", "translate(" + new_width/910*350 + "," + (new_height/302*56 - height/43)  + ")")
+			.text("Laboratorio");
+				
+	lab_toqui.append("text")
+			.attr("transform", "translate(" + new_width/910*350 + "," + (new_height/302*56 + height/43)  + ")")
+			.text("Toqui");
+}
 </script>
 
 # Tercer Piso Edificio Poniente (En Proceso)
