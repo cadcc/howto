@@ -683,11 +683,11 @@ lab_toqui.selectAll("path")
 
 if (width >= 650){
 	lab_toqui.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*100 + "," + (new_height/302*56 - height/43)  + ")")
 			.text("Laboratorio");
 				
 	lab_toqui.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*100 + "," + (new_height/302*56 + height/43)  + ")")
 			.text("Toqui");
 }
 </script>
