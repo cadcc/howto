@@ -627,7 +627,7 @@ for(i = 2; i < 18; i++){
 
 # Segundo Piso Edificio Poniente (En Proceso)
 
-<div id="mapa_2do_piso_poniente"/>
+<div id="mapa_2do_piso_poniente"></div>
 
 <script>
 var width = document.getElementById("mapa_2do_piso_poniente").offsetWidth
@@ -694,7 +694,7 @@ if (width >= 650){
 
 # Tercer Piso Edificio Poniente (En Proceso)
 
-<div id="mapa_3ro_piso_poniente"/>
+<div id="mapa_3ro_piso_poniente"></div>
 
 <script>
 var width = document.getElementById("mapa_3ro_piso_poniente").offsetWidth
