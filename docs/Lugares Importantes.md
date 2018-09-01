@@ -625,9 +625,58 @@ for(i = 2; i < 18; i++){
 
 </div>
 
+# Segundo Piso Edificio Poniente (En Proceso)
+
+<div id="mapa_2do_piso_poniente"/>
+
+<script>
+var width = document.getElementById("mapa_2do_piso_poniente").offsetWidth
+var height = width*430/706
+
+
+var svg = d3.select("#mapa_2do_piso_poniente")
+			.append("svg")
+			.attr("width", width)
+			.attr("height", height);
+
+var group = svg.append('g')
+				.attr("transform", "translate("+ width*1/20 + "," + height/43*5 + ") rotate(" + 0 + ")");
+
+//Fondo del mapa
+var datos_fondo = [
+			{x: 0, y: 0},
+			{x: width/10*9, y: height/43*3},
+			{x: width/10*9, y: height/43*33},
+			{x: 0, y: height/43*33},
+			{x: 0, y: 0}
+			]
+
+group.append("g").selectAll("path")
+					.data([datos_fondo])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "piso");
+</script>
+
+# Tercer Piso Edificio Poniente (En Proceso)
+
+<div id="mapa_3ro_piso_poniente"/>
+
+<script>
+var width = document.getElementById("mapa_3ro_piso_poniente").offsetWidth
+var height = width*430/706
+
+
+var svg = d3.select("#mapa_3ro_piso_poniente")
+			.append("svg")
+			.attr("width", width)
+			.attr("height", height);
+</script>
+
 # Coming soon
 
-Se agregarán 2 mapas más similares a los que están [aquí](https://salas-uchile.herokuapp.com/)
+Se están agregando 2 mapas más similares a los que están [aquí](https://salas-uchile.herokuapp.com/)
 
 Entre los lugares importantes que pensamos agregar están:
 
