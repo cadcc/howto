@@ -690,6 +690,33 @@ if (width >= 650){
 			.attr("transform", "translate(" + new_width/910*100 + "," + (new_height/302*56 + height/43)  + ")")
 			.text("Toqui");
 }
+
+for(i = 1; i < 15; i++){
+	var datos_misteriosos = [
+			{x: 0, y: 0},
+			{x: new_width/910*50, y: 0},
+			{x: new_width/910*50, y: new_height/302*100},
+			{x: 0, y: new_height/302*100},
+			{x: 0, y: 0}
+			];
+					
+	var sala_misteriosa = group.append("g")
+							.attr("transform", "translate(" + new_width/910*i*50 + "," + new_height/302*202  + ")")
+							.attr("class", "objeto_sala");
+							
+	sala_misteriosa.selectAll("path")
+						.data([datos_misteriosos])
+						.enter()
+						.append("path")
+						.attr("d", line)
+						.attr("class", "oficina");
+				
+	if (width >= 650){
+		sala_misteriosa.append("text")
+			.attr("transform", "translate(" + width*5/200 + "," + height*25/302  + ") rotate(90)")
+			.text("Oficina " + (223 - i) );
+	}
+}
 </script>
 
 </div>
