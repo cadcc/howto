@@ -713,7 +713,7 @@ for(i = 1; i < 15; i++){
 				
 	if (width >= 650){
 		sala_misteriosa.append("text")
-			.attr("transform", "translate(" + new_width*50/302 + "," + new_height*25/910  + ") rotate(90)")
+			.attr("transform", "translate(" + 0 + "," + 0  + ") rotate(90)")
 			.text("Oficina " + (223 - i) );
 	}
 }
