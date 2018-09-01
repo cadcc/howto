@@ -642,12 +642,15 @@ var svg = d3.select("#mapa_2do_piso_poniente")
 var group = svg.append('g')
 				.attr("transform", "translate("+ width*1/20 + "," + height/43*5 + ") rotate(" + 0 + ")");
 
+var new_height = height/43*33
+var new_width = width/10*9
+				
 //Fondo del mapa
 var datos_fondo = [
 			{x: 0, y: 0},
-			{x: width/10*9, y: height/43*3},
-			{x: width/10*9, y: height/43*33},
-			{x: 0, y: height/43*33},
+			{x: new_width, y: new_height*50/302},
+			{x: new_width, y: new_height},
+			{x: 0, y: new_height},
 			{x: 0, y: 0}
 			]
 
@@ -672,6 +675,25 @@ var svg = d3.select("#mapa_3ro_piso_poniente")
 			.append("svg")
 			.attr("width", width)
 			.attr("height", height);
+
+var new_height = height/43*33
+var new_width = width/10*9
+				
+//Fondo del mapa
+var datos_fondo = [
+			{x: 0, y: 0},
+			{x: new_width, y: new_height*50/302},
+			{x: new_width, y: new_height},
+			{x: 0, y: new_height},
+			{x: 0, y: 0}
+			]
+
+group.append("g").selectAll("path")
+					.data([datos_fondo])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "piso");
 </script>
 
 # Coming soon
