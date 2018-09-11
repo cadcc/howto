@@ -779,19 +779,19 @@ aud_flajolet.selectAll("path")
 
 if (width >= 650){
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - 3*height/86)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - 3*height/43)  + ")")
 			.text("Sala");
 				
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - height/86)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - height/43)  + ")")
 			.text("Phillipe");
 				
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + height/86)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + height/43)  + ")")
 			.text("\"Algorithmix\"");
 				
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + 3*height/86)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + 3*height/43)  + ")")
 			.text("Flajolet");
 }
 					
