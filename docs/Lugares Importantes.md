@@ -799,6 +799,36 @@ if (width >= 650){
 			.text("Flajolet");
 }
 					
+//Lab Anakena
+var datos_lab_anakena = [
+			{x: new_width/910*100, y: new_height/302*11/2},
+			{x: new_width/910*200, y: new_height/302*11},
+			{x: new_width/910*200, y: new_height/302*113},
+			{x: new_width/910*100, y: new_height/302*113},
+			{x: new_width/910*100, y: new_height/302*11/2}
+			];
+					
+var lab_anakena = group.append("g")
+						.attr("transform", "translate(" + (new_width/910*350) + "," + (new_height/302*14)  + ")")
+						.attr("class", "objeto_sala");
+		
+lab_anakena.selectAll("path")
+			.data([datos_lab_anakena])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+if (width >= 650){				
+	lab_anakena.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - height/43)  + ")")
+			.text("Laboratorio");
+				
+	lab_anakena.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + height/43)  + ")")
+			.text("Anakena");
+}
+					
 for(i = 1; i < 15; i++){
 	var datos_misteriosos = [
 			{x: 0, y: 0},
