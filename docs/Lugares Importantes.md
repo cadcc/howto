@@ -76,7 +76,7 @@
 }
 
 svg text {
-	font-size: 14px;
+	font-size: 12px;
 }
 
 </style>
