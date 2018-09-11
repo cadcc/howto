@@ -925,13 +925,8 @@ Se están agregando 2 mapas más similares a los que están [aquí](https://sala
 
 Entre los lugares importantes que pensamos agregar están:
 
-* Eniac
-* Toqui
 * Grace
 * Ada
-* Flajolet 
-* Colossus (magister)
-* Anakena (doctora2) 
 
 Disclaimer: Los mapas que están aquí están hechos al ojímetro, hay salas que son de distinto tamaño en la vida real :O
 
