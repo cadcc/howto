@@ -771,7 +771,7 @@ var datos_lab_eniac = [
 			];
 					
 var lab_eniac = group.append("g")
-						.attr("transform", "translate(" + (new_width/910*150) + "," + (new_height/604*6)  + ")")
+						.attr("transform", "translate(" + (new_width/910*50) + "," + (new_height/604*6)  + ")")
 						.attr("class", "objeto_sala");
 		
 lab_eniac.selectAll("path")
