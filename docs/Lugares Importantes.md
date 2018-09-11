@@ -756,6 +756,71 @@ group.append("g").selectAll("path")
 					.append("path")
 					.attr("d", line)
 					.attr("class", "piso");
+					
+//Auditorio Flajolet
+var datos_aud_flajolet = [
+			{x: 0, y: 0},
+			{x: new_width/910*100, y: new_height/302*11/2},
+			{x: new_width/910*100, y: new_height/302*113},
+			{x: 0, y: new_height/302*113},
+			{x: 0, y: 0}
+			];
+					
+var aud_flajolet = group.append("g")
+						.attr("transform", "translate(" + (new_width/910*250) + "," + (new_height/302*14)  + ")")
+						.attr("class", "objeto_sala");
+		
+aud_flajolet.selectAll("path")
+			.data([datos_aud_flajolet])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+if (width >= 650){
+	aud_flajolet.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - 2*height/43)  + ")")
+			.text("Sala");
+				
+	aud_flajolet.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - height/43)  + ")")
+			.text("Phillipe");
+				
+	aud_flajolet.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + height/43)  + ")")
+			.text("\"Algorithmix\"");
+				
+	aud_flajolet.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + 2*height/43)  + ")")
+			.text("Flajolet");
+}
+					
+for(i = 1; i < 15; i++){
+	var datos_misteriosos = [
+			{x: 0, y: 0},
+			{x: new_width/910*50, y: 0},
+			{x: new_width/910*50, y: new_height/302*100},
+			{x: 0, y: new_height/302*100},
+			{x: 0, y: 0}
+			];
+					
+	var sala_misteriosa = group.append("g")
+							.attr("transform", "translate(" + new_width/910*i*50 + "," + new_height/302*202  + ")")
+							.attr("class", "objeto_sala");
+							
+	sala_misteriosa.selectAll("path")
+						.data([datos_misteriosos])
+						.enter()
+						.append("path")
+						.attr("d", line)
+						.attr("class", "oficina");
+				
+	if (width >= 650){
+		sala_misteriosa.append("text")
+			.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*50 + ") rotate(90)")
+			.text("Oficina " + (324 - i) );
+	}
+}
 </script>
 
 </div>
