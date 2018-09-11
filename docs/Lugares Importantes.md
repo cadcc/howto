@@ -760,13 +760,43 @@ group.append("g").selectAll("path")
 					.append("path")
 					.attr("d", line)
 					.attr("class", "piso");
+
+//Lab Colossus
+var datos_lab_colossus = [
+			{x: 0, y: 0},
+			{x: new_width/910*100, y: new_height/302*11},
+			{x: new_width/910*100, y: new_height/302*119},
+			{x: 0, y: new_height/302*119},
+			{x: 0, y: 0}
+			];
 					
+var lab_colossus = group.append("g")
+						.attr("transform", "translate(" + (new_width/910*150) + "," + (new_height/604*17)  + ")")
+						.attr("class", "objeto_sala");
+		
+lab_colossus.selectAll("path")
+			.data([datos_lab_colossus])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+if (width >= 650){				
+	lab_colossus.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*59 - height/43)  + ")")
+			.text("Laboratorio");
+				
+	lab_colossus.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*59 + height/43)  + ")")
+			.text("Colossus");
+}					
+
 //Auditorio Flajolet
 var datos_aud_flajolet = [
 			{x: 0, y: 0},
 			{x: new_width/910*100, y: new_height/302*11/2},
-			{x: new_width/910*100, y: new_height/302*113},
-			{x: 0, y: new_height/302*113},
+			{x: new_width/910*100, y: new_height/302*148},
+			{x: 0, y: new_height/302*148},
 			{x: 0, y: 0}
 			];
 					
@@ -783,19 +813,19 @@ aud_flajolet.selectAll("path")
 
 if (width >= 650){
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - 3*height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*74 - 3*height/43)  + ")")
 			.text("Sala");
 				
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*74 - height/43)  + ")")
 			.text("Phillipe");
 				
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*74 + height/43)  + ")")
 			.text("\"Algorithmix\"");
 				
 	aud_flajolet.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + 3*height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*74 + 3*height/43)  + ")")
 			.text("Flajolet");
 }
 					
@@ -803,8 +833,8 @@ if (width >= 650){
 var datos_lab_anakena = [
 			{x: 0, y: new_height/302*11/2},
 			{x: new_width/910*100, y: new_height/302*11},
-			{x: new_width/910*100, y: new_height/302*113},
-			{x: 0, y: new_height/302*113},
+			{x: new_width/910*100, y: new_height/302*148},
+			{x: 0, y: new_height/302*148},
 			{x: 0, y: new_height/302*11/2}
 			];
 					
@@ -821,11 +851,11 @@ lab_anakena.selectAll("path")
 
 if (width >= 650){				
 	lab_anakena.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 - height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*74 - height/43)  + ")")
 			.text("Laboratorio");
 				
 	lab_anakena.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*56 + height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*74 + height/43)  + ")")
 			.text("Anakena");
 }
 					
