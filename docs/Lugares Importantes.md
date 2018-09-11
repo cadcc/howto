@@ -75,6 +75,10 @@
     fill: #408dbc;
 }
 
+svg text {
+	font-size: 14px;
+}
+
 </style>
 
 <script>
