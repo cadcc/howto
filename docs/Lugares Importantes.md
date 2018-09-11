@@ -809,7 +809,7 @@ var datos_lab_anakena = [
 			];
 					
 var lab_anakena = group.append("g")
-						.attr("transform", "translate(" + (new_width/910*350) + "," + (new_height/302*14)  + ")")
+						.attr("transform", "translate(" + (new_width/910*250) + "," + (new_height/302*14)  + ")")
 						.attr("class", "objeto_sala");
 		
 lab_anakena.selectAll("path")
