@@ -801,15 +801,15 @@ if (width >= 650){
 					
 //Lab Anakena
 var datos_lab_anakena = [
-			{x: new_width/910*100, y: new_height/302*11/2},
-			{x: new_width/910*200, y: new_height/302*11},
-			{x: new_width/910*200, y: new_height/302*113},
+			{x: 0, y: new_height/302*11/2},
+			{x: new_width/910*100, y: new_height/302*11},
 			{x: new_width/910*100, y: new_height/302*113},
-			{x: new_width/910*100, y: new_height/302*11/2}
+			{x: 0, y: new_height/302*113},
+			{x: 0, y: new_height/302*11/2}
 			];
 					
 var lab_anakena = group.append("g")
-						.attr("transform", "translate(" + (new_width/910*250) + "," + (new_height/302*14)  + ")")
+						.attr("transform", "translate(" + (new_width/910*350) + "," + (new_height/302*14)  + ")")
 						.attr("class", "objeto_sala");
 		
 lab_anakena.selectAll("path")
