@@ -761,10 +761,40 @@ group.append("g").selectAll("path")
 					.attr("d", line)
 					.attr("class", "piso");
 
+//Lab Eniac
+var datos_lab_eniac = [
+			{x: 0, y: 0},
+			{x: new_width/910*100, y: new_height/302*11/2},
+			{x: new_width/910*100, y: new_height/302*119},
+			{x: 0, y: new_height/302*119},
+			{x: 0, y: 0}
+			];
+					
+var lab_eniac = group.append("g")
+						.attr("transform", "translate(" + (new_width/910*150) + "," + (new_height/604*6)  + ")")
+						.attr("class", "objeto_sala");
+		
+lab_eniac.selectAll("path")
+			.data([datos_lab_eniac])
+			.enter()
+			.append("path")
+			.attr("d", line)
+			.attr("class", "otros");
+
+if (width >= 650){				
+	lab_eniac.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*59 - height/43)  + ")")
+			.text("Laboratorio");
+				
+	lab_eniac.append("text")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*59 + height/43)  + ")")
+			.text("Eniac");
+}					
+					
 //Lab Colossus
 var datos_lab_colossus = [
 			{x: 0, y: 0},
-			{x: new_width/910*100, y: new_height/302*11},
+			{x: new_width/910*100, y: new_height/302*11/2},
 			{x: new_width/910*100, y: new_height/302*119},
 			{x: 0, y: new_height/302*119},
 			{x: 0, y: 0}
