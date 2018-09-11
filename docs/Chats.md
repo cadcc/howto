@@ -4,6 +4,8 @@ Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay mu
 
 [Chat principal](https://t.me/joinchat/CdpWpEIqFvjwcKxDwqS06Q): En este chat está prácticamente toda la comunidad del departamento. Puedes hablar de cualquier tema acá, aunque probablemente hayan tantos mensajes que no alcances a leerlos.
 
+Si conoces un chat que no está acá, habla por telegram con [@ChechoL](http://t.me/ChechoL)
+
 ##Chats temporales y de eventos
 
 Estos chats son para ayudar a organizar algo en específico, o por un evento que _se vienen_ pronto.
