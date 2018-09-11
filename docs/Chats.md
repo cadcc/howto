@@ -32,6 +32,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Love Nikki](https://t.me/joinchat/BvInWhJrO_2U8LKatqXVvA)
 - [Fortnite DCC](https://t.me/joinchat/FI55jA79vdvLK23ZvNImWg)
 - [Hollow Knight](https://t.me/joinchat/AEMcAlJDM0b8TniLnbf3xg)
+- [Age of Empires](https://t.me/joinchat/Cxz7klHRFVPETzPCK9WAWQ)
 
 ###Chats de hobbies e intereses
 
@@ -52,7 +53,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 ¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? Tenemos chats para casi todos los ramos de malla (si falta alguno, puedes crearlo) 
 
 ###Quinto semestre
-- [Matemáticas Discretas](https://t.me/joinchat/F6wdN1Mp4FhsJEaixqud4A)
+- [Matemáticas Discretas](https://t.me/joinchat/ByeJjA_QLxvATOTgjOo6Zw)
 - [Computación Gráfica](https://t.me/joinchat/ByeJjAz4UgHOexV99Se4zQ): es de 2017-2
 - [Algoritmos y Estructuras de Datos](https://t.me/joinchat/F6wdN1C0ELKud5FiBCf_uw)
 
