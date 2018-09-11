@@ -765,8 +765,8 @@ group.append("g").selectAll("path")
 var datos_lab_eniac = [
 			{x: 0, y: 0},
 			{x: new_width/910*100, y: new_height/302*11/2},
-			{x: new_width/910*100, y: new_height/302*119},
-			{x: 0, y: new_height/302*119},
+			{x: new_width/910*100, y: new_height/302*125},
+			{x: 0, y: new_height/302*125},
 			{x: 0, y: 0}
 			];
 					
@@ -783,11 +783,11 @@ lab_eniac.selectAll("path")
 
 if (width >= 650){				
 	lab_eniac.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*59 - height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*65 - height/43)  + ")")
 			.text("Laboratorio");
 				
 	lab_eniac.append("text")
-			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*59 + height/43)  + ")")
+			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*65 + height/43)  + ")")
 			.text("Eniac");
 }					
 					
