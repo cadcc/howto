@@ -64,6 +64,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 
 ###Séptimo semestre
 - [Lenguajes de Programación](https://t.me/joinchat/FS7iR0gChfGo08fspSuxxg)
+- [Arquitectura de Computadores](https://t.me/joinchat/G0DbZBKCyrCAdAs7Uiaihw)
 
 ###Octavo semestre
 - [Sistemas Operativos](https://t.me/joinchat/Ck4OWkLNXAQPLZly3s3HQw)
