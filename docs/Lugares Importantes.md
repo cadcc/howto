@@ -1025,6 +1025,40 @@ if (width >= 650){
 		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 + height*2/43) + ")")
 		.text("Lovelace");
 }
+
+//Grace Hopper
+var datos_grace_hopper = [
+		{x: 0, y: 0},
+		{x: new_width/910*100, y: new_height/302*11/2},
+		{x: new_width/910*100, y: new_height/302*183/2},
+		{x: 0, y: new_height/302*183/2},
+		{x: 0, y: 0}
+		];
+				
+var grace_hopper = group.append("g")
+						.attr("transform", "translate(" + new_width/910*750 + "," + new_height/604*83  + ")")
+						.attr("class", "objeto_sala");
+						
+grace_hopper.selectAll("path")
+					.data([datos_grace_hopper])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	grace_hopper.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 - new_height/604*11 - height*2/43) + ")")
+		.text("Sala");
+		
+	ada_lovelace.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11) + ")")
+		.text("Grace");
+		
+	grace_hopper.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11 + height*2/43) + ")")
+		.text("Hopper");
+}
 	
 for(i = 1; i < 15; i++){
 	var datos_misteriosos = [
