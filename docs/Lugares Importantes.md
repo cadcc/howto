@@ -781,8 +781,8 @@ if (width >= 650){
 var datos_secretaria_docente = [
 		{x: 0, y: 0},
 		{x: new_width/910*100, y: new_height/302*11/2},
-		{x: new_width/910*100, y: new_height/302*86},
-		{x: 0, y: new_height/302*86},
+		{x: new_width/910*100, y: new_height/302*66},
+		{x: 0, y: new_height/302*66},
 		{x: 0, y: 0}
 		];
 				
