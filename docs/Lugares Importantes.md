@@ -705,7 +705,7 @@ var datos_cocina = [
 		];
 				
 var cocina = group.append("g")
-						.attr("transform", "translate(" + new_width/910*12*50 + "," + new_height/302*102  + ")")
+						.attr("transform", "translate(" + new_width/910*12*50 + "," + new_height/302*77  + ")")
 						.attr("class", "objeto_sala");
 						
 cocina.selectAll("path")
