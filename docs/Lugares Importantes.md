@@ -990,6 +990,7 @@ if (width >= 650){
 	impresora.append("text")
 		.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*25 + ")")
 		.text("Printer");
+}
 	
 for(i = 1; i < 15; i++){
 	var datos_misteriosos = [
