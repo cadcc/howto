@@ -721,8 +721,37 @@ if (width >= 650){
 		.text("Printer");
 }
 
+//Jefa de Estudios
+var datos_jefa_estudios = [
+		{x: 0, y: 0},
+		{x: new_width/910*50, y: new_height/302*11/4},
+		{x: new_width/910*50, y: new_height/302*183/2},
+		{x: 0, y: new_height/302*183/2},
+		{x: 0, y: 0}
+		];
+				
+var jefa_estudios = group.append("g")
+						.attr("transform", "translate(" + new_width/910*750 + "," + new_height/604*83  + ")")
+						.attr("class", "objeto_sala");
+						
+jefa_estudios.selectAll("path")
+					.data([datos_jefa_estudios])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	jefa_estudios.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 - new_height/604*11 - height/43) + ") rotate(90)")
+		.text("Jefa");
+		
+	jefa_estudios.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11 + height/43) + ") rotate(90)")
+		.text("Estudios");
+
 //Secretaría Docente
-var datos_grace_hopper = [
+var datos_secretaria_docente = [
 		{x: 0, y: 0},
 		{x: new_width/910*100, y: new_height/302*11/2},
 		{x: new_width/910*100, y: new_height/302*183/2 - new_height/604*11},
@@ -730,23 +759,23 @@ var datos_grace_hopper = [
 		{x: 0, y: 0}
 		];
 				
-var grace_hopper = group.append("g")
+var secretaria_docente = group.append("g")
 						.attr("transform", "translate(" + new_width/910*750 + "," + new_height/604*83  + ")")
 						.attr("class", "objeto_sala");
 						
-grace_hopper.selectAll("path")
-					.data([datos_grace_hopper])
+secretaria_docente.selectAll("path")
+					.data([datos_secretaria_docente])
 					.enter()
 					.append("path")
 					.attr("d", line)
 					.attr("class", "oficina");
 			
 if (width >= 650){
-	grace_hopper.append("text")
+	secretaria_docente.append("text")
 		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 - new_height/604*11 - height/43) + ")")
 		.text("Secretaría");
 		
-	grace_hopper.append("text")
+	secretaria_docente.append("text")
 		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11 + height/43) + ")")
 		.text("Docente");
 }
