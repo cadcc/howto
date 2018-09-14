@@ -746,6 +746,31 @@ if (width >= 650){
 		.attr("transform", "translate(" + new_width/910*50 + "," + new_height/302*50 + ") rotate(90)")
 		.text("Sala Reuniones");
 }
+
+var datos_cocina = [
+		{x: 0, y: 0},
+		{x: new_width/910*25, y: 0},
+		{x: new_width/910*25, y: new_height/302*100},
+		{x: 0, y: new_height/302*100},
+		{x: 0, y: 0}
+		];
+				
+var cocina = group.append("g")
+						.attr("transform", "translate(" + new_width/910*16/2*50 + "," + new_height/302*152  + ")")
+						.attr("class", "objeto_sala");
+						
+cocina.selectAll("path")
+					.data([datos_cocina])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	cocina.append("text")
+		.attr("transform", "translate(" + new_width/910*25/2 + "," + new_height/302*50 + ") rotate(90)")
+		.text("Cocina");
+}
 </script>
 
 </div>
