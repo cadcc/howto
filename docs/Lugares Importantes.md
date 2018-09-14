@@ -721,6 +721,36 @@ if (width >= 650){
 		.text("Printer");
 }
 
+//Secretaría Docente
+var datos_grace_hopper = [
+		{x: 0, y: 0},
+		{x: new_width/910*100, y: new_height/302*11/2},
+		{x: new_width/910*100, y: new_height/302*183/2 - new_height/604*11},
+		{x: 0, y: new_height/302*183/2 - new_height/604*11},
+		{x: 0, y: 0}
+		];
+				
+var grace_hopper = group.append("g")
+						.attr("transform", "translate(" + new_width/910*750 + "," + new_height/604*83  + ")")
+						.attr("class", "objeto_sala");
+						
+grace_hopper.selectAll("path")
+					.data([datos_grace_hopper])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	grace_hopper.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 - new_height/604*11 - height/43) + ")")
+		.text("Secretaría");
+		
+	grace_hopper.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11 + height/43) + ")")
+		.text("Docente");
+}
+
 for(i = 1; i < 15; i++){
 	var datos_misteriosos = [
 			{x: 0, y: 0},
