@@ -939,6 +939,7 @@ if (width >= 650){
 	sistemas.append("text")
 		.attr("transform", "translate(" + new_width/910*50 + "," + new_height/302*50 + ") rotate(90)")
 		.text("Sistemas");
+}
 </script>
 
 </div>
