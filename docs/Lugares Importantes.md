@@ -1030,8 +1030,8 @@ if (width >= 650){
 var datos_grace_hopper = [
 		{x: 0, y: 0},
 		{x: new_width/910*100, y: new_height/302*11/2},
-		{x: new_width/910*100, y: new_height/302*183/2},
-		{x: 0, y: new_height/302*183/2},
+		{x: new_width/910*100, y: new_height/302*183/2 - new_height/604*11},
+		{x: 0, y: new_height/302*183/2 - new_height/604*11},
 		{x: 0, y: 0}
 		];
 				
