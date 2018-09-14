@@ -731,7 +731,7 @@ var datos_jefa_estudios = [
 		];
 				
 var jefa_estudios = group.append("g")
-						.attr("transform", "translate(" + new_width/910*750 + "," + new_height/604*83  + ")")
+						.attr("transform", "translate(" + new_width/910*650 + "," + new_height/604*83  + ")")
 						.attr("class", "objeto_sala");
 						
 jefa_estudios.selectAll("path")
@@ -755,8 +755,8 @@ if (width >= 650){
 var datos_secretaria_docente = [
 		{x: 0, y: 0},
 		{x: new_width/910*100, y: new_height/302*11/2},
-		{x: new_width/910*100, y: new_height/302*183/2 - new_height/604*11},
-		{x: 0, y: new_height/302*183/2 - new_height/604*11},
+		{x: new_width/910*100, y: new_height/302*86},
+		{x: 0, y: new_height/302*86},
 		{x: 0, y: 0}
 		];
 				
