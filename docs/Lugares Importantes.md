@@ -991,6 +991,32 @@ if (width >= 650){
 		.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*25 + ")")
 		.text("Printer");
 }
+
+//Ada Lovelace
+var datos_ada_lovelace = [
+		{x: 0, y: 0},
+		{x: new_width/910*100, y: new_height/302*11},
+		{x: new_width/910*100, y: new_height/302*183/2},
+		{x: 0, y: new_height/302*183/2},
+		{x: 0, y: 0}
+		];
+				
+var ada_lovelace = group.append("g")
+						.attr("transform", "translate(" + new_width/910*650 + "," + new_height/604*72  + ")")
+						.attr("class", "objeto_sala");
+						
+ada_lovelace.selectAll("path")
+					.data([datos_ada_lovelace])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	ada_lovelace.append("text")
+		.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*25 + ")")
+		.text("Printer");
+}
 	
 for(i = 1; i < 15; i++){
 	var datos_misteriosos = [
