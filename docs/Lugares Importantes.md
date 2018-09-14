@@ -1014,8 +1014,16 @@ ada_lovelace.selectAll("path")
 			
 if (width >= 650){
 	ada_lovelace.append("text")
-		.attr("transform", "translate(" + new_width/910*50 + "," + new_height/302*65 + ")")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 - height*2/43) + ")")
 		.text("Sala");
+		
+	ada_lovelace.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + new_height/302*183/4 + ")")
+		.text("Ada");
+		
+	ada_lovelace.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 + height*2/43) + ")")
+		.text("Lovelace");
 }
 	
 for(i = 1; i < 15; i++){
