@@ -1051,7 +1051,7 @@ if (width >= 650){
 		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 - new_height/604*11 - height*2/43) + ")")
 		.text("Sala");
 		
-	ada_lovelace.append("text")
+	grace_hopper.append("text")
 		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11) + ")")
 		.text("Grace");
 		
