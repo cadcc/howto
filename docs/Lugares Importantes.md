@@ -749,6 +749,7 @@ if (width >= 650){
 	jefa_estudios.append("text")
 		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11 + height/43) + ") rotate(90)")
 		.text("Estudios");
+}
 
 //Secretaría Docente
 var datos_secretaria_docente = [
