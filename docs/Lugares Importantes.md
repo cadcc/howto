@@ -915,6 +915,30 @@ for(i = 1; i < 15; i++){
 			.text("Oficina " + (324 - i) );
 	}
 }
+
+var datos_sala_sistemas = [
+		{x: 0, y: 0},
+		{x: new_width/910*100, y: 0},
+		{x: new_width/910*100, y: new_height/302*100},
+		{x: 0, y: new_height/302*100},
+		{x: 0, y: 0}
+		];
+				
+var sistemas = group.append("g")
+						.attr("transform", "translate(" + new_width/910*15*50 + "," + new_height/302*202  + ")")
+						.attr("class", "objeto_sala");
+						
+sistemas.selectAll("path")
+					.data([datos_sala_sistemas])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	sistemas.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + new_height/302*50 + ") rotate(90)")
+		.text("Sistemas");
 </script>
 
 </div>
