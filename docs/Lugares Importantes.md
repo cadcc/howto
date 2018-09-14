@@ -731,7 +731,7 @@ var datos_jefa_estudios = [
 		];
 				
 var jefa_estudios = group.append("g")
-						.attr("transform", "translate(" + new_width/910*650 + "," + new_height/604*83  + ")")
+						.attr("transform", "translate(" + new_width/910*700 + "," + new_height/604*(72 + 11/2)  + ")")
 						.attr("class", "objeto_sala");
 						
 jefa_estudios.selectAll("path")
@@ -743,11 +743,11 @@ jefa_estudios.selectAll("path")
 			
 if (width >= 650){
 	jefa_estudios.append("text")
-		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4 - new_height/604*11 - height/43) + ") rotate(90)")
+		.attr("transform", "translate(" + (new_width/910*25 + new_width/910*10) + "," + (new_height/302*178/4) + ") rotate(90)")
 		.text("Jefa");
 		
 	jefa_estudios.append("text")
-		.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*183/4  - new_height/604*11 + height/43) + ") rotate(90)")
+		.attr("transform", "translate(" + (new_width/910*25 - new_width/910*10) + "," + (new_height/302*178/4) + ") rotate(90)")
 		.text("Estudios");
 }
 
