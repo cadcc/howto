@@ -696,7 +696,7 @@ if (width >= 650){
 }
 
 //Impresora
-var datos_cocina = [
+var datos_impresora = [
 		{x: 0, y: 0},
 		{x: new_width/910*50, y: 0},
 		{x: new_width/910*50, y: new_height/302*50},
@@ -704,19 +704,19 @@ var datos_cocina = [
 		{x: 0, y: 0}
 		];
 				
-var cocina = group.append("g")
+var impresora = group.append("g")
 						.attr("transform", "translate(" + new_width/910*12*50 + "," + new_height/302*77  + ")")
 						.attr("class", "objeto_sala");
 						
-cocina.selectAll("path")
-					.data([datos_cocina])
+impresora.selectAll("path")
+					.data([datos_impresora])
 					.enter()
 					.append("path")
 					.attr("d", line)
 					.attr("class", "oficina");
 			
 if (width >= 650){
-	cocina.append("text")
+	impresora.append("text")
 		.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*25 + ")")
 		.text("Printer");
 }
@@ -965,7 +965,32 @@ if (width >= 650){
 			.attr("transform", "translate(" + new_width/910*50 + "," + (new_height/302*74 + height/43)  + ")")
 			.text("Anakena");
 }
-					
+
+//Impresora
+var datos_impresora = [
+		{x: 0, y: 0},
+		{x: new_width/910*50, y: 0},
+		{x: new_width/910*50, y: new_height/302*50},
+		{x: 0, y: new_height/302*50},
+		{x: 0, y: 0}
+		];
+				
+var impresora = group.append("g")
+						.attr("transform", "translate(" + new_width/910*12*50 + "," + new_height/302*77  + ")")
+						.attr("class", "objeto_sala");
+						
+impresora.selectAll("path")
+					.data([datos_impresora])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	impresora.append("text")
+		.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*25 + ")")
+		.text("Printer");
+	
 for(i = 1; i < 15; i++){
 	var datos_misteriosos = [
 			{x: 0, y: 0},
