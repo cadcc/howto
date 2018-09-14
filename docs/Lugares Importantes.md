@@ -721,6 +721,31 @@ for(i = 1; i < 15; i++){
 			.text("Oficina " + (223 - i) );
 	}
 }
+
+var datos_sala_reuniones = [
+		{x: 0, y: 0},
+		{x: new_width/910*100, y: 0},
+		{x: new_width/910*100, y: new_height/302*100},
+		{x: 0, y: new_height/302*100},
+		{x: 0, y: 0}
+		];
+				
+var sala_reuniones = group.append("g")
+						.attr("transform", "translate(" + new_width/910*15*50 + "," + new_height/302*202  + ")")
+						.attr("class", "objeto_sala");
+						
+sala_reuniones.selectAll("path")
+					.data([datos_sala_reuniones])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	sala_reuniones.append("text")
+		.attr("transform", "translate(" + new_width/910*50 + "," + new_height/302*50 + ") rotate(90)")
+		.text("Sala Reuniones");
+}
 </script>
 
 </div>
