@@ -721,12 +721,38 @@ if (width >= 650){
 		.text("Printer");
 }
 
-//Jefa de Estudios
-var datos_jefa_estudios = [
+//Pieza Aseo
+var datos_pieza_aseo = [
 		{x: 0, y: 0},
 		{x: new_width/910*50, y: new_height/302*11/4},
 		{x: new_width/910*50, y: new_height/302*183/2},
 		{x: 0, y: new_height/302*183/2},
+		{x: 0, y: 0}
+		];
+				
+var pieza_aseo = group.append("g")
+						.attr("transform", "translate(" + new_width/910*650 + "," + new_height/604*72  + ")")
+						.attr("class", "objeto_sala");
+						
+pieza_aseo.selectAll("path")
+					.data([datos_pieza_aseo])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){		
+	pieza_aseo.append("text")
+		.attr("transform", "translate(" + (new_width/910*25) + "," + (new_height/302*178/4) + ") rotate(90)")
+		.text("Pieza Aseo");
+}
+
+//Jefa de Estudios
+var datos_jefa_estudios = [
+		{x: 0, y: 0},
+		{x: new_width/910*50, y: new_height/302*11/4},
+		{x: new_width/910*50, y: new_height/302*89},
+		{x: 0, y: new_height/302*89},
 		{x: 0, y: 0}
 		];
 				
