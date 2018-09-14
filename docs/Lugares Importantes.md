@@ -695,6 +695,32 @@ if (width >= 650){
 			.text("Toqui");
 }
 
+//Impresora
+var datos_cocina = [
+		{x: 0, y: 0},
+		{x: new_width/910*50, y: 0},
+		{x: new_width/910*50, y: new_height/302*50},
+		{x: 0, y: new_height/302*50},
+		{x: 0, y: 0}
+		];
+				
+var cocina = group.append("g")
+						.attr("transform", "translate(" + new_width/910*12*50 + "," + new_height/302*102  + ")")
+						.attr("class", "objeto_sala");
+						
+cocina.selectAll("path")
+					.data([datos_cocina])
+					.enter()
+					.append("path")
+					.attr("d", line)
+					.attr("class", "oficina");
+			
+if (width >= 650){
+	cocina.append("text")
+		.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*25 + ")")
+		.text("Printer");
+}
+
 for(i = 1; i < 15; i++){
 	var datos_misteriosos = [
 			{x: 0, y: 0},
@@ -747,6 +773,7 @@ if (width >= 650){
 		.text("Sala Reuniones");
 }
 
+//Cocina
 var datos_cocina = [
 		{x: 0, y: 0},
 		{x: new_width/910*25, y: 0},
@@ -991,6 +1018,7 @@ if (width >= 650){
 		.text("Sistemas");
 }
 
+//Datos Cocina
 var datos_cocina = [
 		{x: 0, y: 0},
 		{x: new_width/910*25, y: 0},
