@@ -629,7 +629,7 @@ for(i = 2; i < 18; i++){
 
 </div>
 
-# Segundo Piso Edificio Poniente (En Proceso)
+# Segundo Piso Edificio Poniente
 
 <div id="mapa_2do_piso_poniente">
 
@@ -888,7 +888,7 @@ if (width >= 650){
 
 </div>
 
-# Tercer Piso Edificio Poniente (En Proceso)
+# Tercer Piso Edificio Poniente
 
 <div id="mapa_3ro_piso_poniente">
 
@@ -1227,15 +1227,6 @@ if (width >= 650){
 
 </div>
 
-# Coming soon
-
-Se están agregando 2 mapas más similares a los que están [aquí](https://salas-uchile.herokuapp.com/)
-
-Entre los lugares importantes que pensamos agregar están:
-
-* Grace
-* Ada
-
 Disclaimer: Los mapas que están aquí están hechos al ojímetro, hay salas que son de distinto tamaño en la vida real :O
 
-Agradecimientos al Grupo de Agilidad de Madrid por la estructura de los mapas.
+Agradecimientos al Grupo de Agilidad de Madrid por la estructura de los [mapas](https://salas-uchile.herokuapp.com/).
