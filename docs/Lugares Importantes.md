@@ -995,7 +995,7 @@ if (width >= 650){
 //Ada Lovelace
 var datos_ada_lovelace = [
 		{x: 0, y: 0},
-		{x: new_width/910*100, y: new_height/302*11},
+		{x: new_width/910*100, y: new_height/302*11/2},
 		{x: new_width/910*100, y: new_height/302*183/2},
 		{x: 0, y: new_height/302*183/2},
 		{x: 0, y: 0}
@@ -1014,8 +1014,8 @@ ada_lovelace.selectAll("path")
 			
 if (width >= 650){
 	ada_lovelace.append("text")
-		.attr("transform", "translate(" + new_width/910*25 + "," + new_height/302*25 + ")")
-		.text("Printer");
+		.attr("transform", "translate(" + new_width/910*50 + "," + new_height/302*65 + ")")
+		.text("Sala");
 }
 	
 for(i = 1; i < 15; i++){
