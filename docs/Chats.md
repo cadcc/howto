@@ -47,6 +47,16 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Ofertas](https://t.me/joinchat/AEMcAlC5WkOJaYrvQVYGoQ)
 - [La Ruta del Café](https://t.me/joinchat/CT8s0EH-5Rt2cVtEnXT1oA)
 - [Seguridad Informática](https://t.me/joinchat/AEMcAkfCKtc1juLWks588A)
+- [DECTalk DCC](https://t.me/joinchat/AEMcAkz4GkJc3Yrn8NllfA)
+- [Nintendo Switch](https://t.me/joinchat/CCI8ekuY_WaSD8AVM7Q9sQ)
+
+###Canales varios
+
+- [Canal de Canales](https://t.me/joinchat/AAAAAEU7tCZeACfPY7Rfog)
+- [Canal de Chats](bit.ly/chatsDCC)
+- [DCCats](https://t.me/dccats)
+- [DogCC](https://t.me/dogcc)
+- [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
 
 ##Chats académicos
 
@@ -65,6 +75,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 ###Séptimo semestre
 - [Lenguajes de Programación](https://t.me/joinchat/FS7iR0gChfGo08fspSuxxg)
 - [Arquitectura de Computadores](https://t.me/joinchat/G0DbZBKCyrCAdAs7Uiaihw)
+- [Ingeniería de Software I](https://t.me/joinchat/G0DbZBFQtm5knWMbSpx6jg)
 
 ###Octavo semestre
 - [Sistemas Operativos](https://t.me/joinchat/Ck4OWkLNXAQPLZly3s3HQw)
