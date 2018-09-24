@@ -79,3 +79,4 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 
 ###Octavo semestre
 - [Sistemas Operativos](https://t.me/joinchat/Ck4OWkLNXAQPLZly3s3HQw)
+- [Logaritmos](https://t.me/joinchat/CdPhQlBDnknKsBuQP_hCVQ)
