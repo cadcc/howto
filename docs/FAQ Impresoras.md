@@ -37,3 +37,13 @@ Y luego meterte a anakena con tu cuenta por ssh:
 Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porque en teoría lo estas o:).
 
 ---
+
+## AYUDA MI COSA NO SE IMPRIME Y LA HE MANDADO A IMPRIMIR 10^82 VECES
+
+Ok calmate, puede ser que tengas que ir a la impresora a ver que es lo que está pasando. Lo que ha pasado mucho ultimamente es que como distintas bandejas de la impresora tienen distintos tipos de papel hay que apretar un par de veces el botón verde grande para confirmar usar el papel de la bandeja.
+
+![Como esta](boton_verde_impresora.jpg)
+
+## No era eso, me sigue sin imprimir mi cosa :c
+
+Si sigues teniendo problemas puedes preguntar en sistemas en el tercer piso del edificio poniente ([ver mapa](https://faq.cadcc.cl/es/latest/Lugares%20Importantes/#tercer-piso-edificio-poniente)).
