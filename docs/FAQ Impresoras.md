@@ -46,6 +46,8 @@ Lo que ha pasado mucho ultimamente es que como distintas bandejas de la impresor
 
 ![Como esta](_static/boton_verde_impresora.jpg)
 
+---
+
 ## No era eso, me sigue sin imprimir mi cosa :c
 
 Si sigues teniendo problemas puedes preguntar en sistemas en el tercer piso del edificio poniente ([ver mapa](https://faq.cadcc.cl/es/latest/Lugares%20Importantes/#tercer-piso-edificio-poniente)).
