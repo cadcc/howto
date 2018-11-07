@@ -2,7 +2,7 @@
 
 Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay muchos chats de [Telegram](https://telegram.org/) (académicos como no académicos), a los que puedes unirte y conversar.
 
-[Chat principal](https://t.me/joinchat/CdpWpEIqFvjwcKxDwqS06Q): En este chat está prácticamente toda la comunidad del departamento. Puedes hablar de cualquier tema acá, aunque probablemente hayan tantos mensajes que no alcances a leerlos.
+[Chat principal](https://t.me/joinchat/CCI8ekIqFvhpatb3lJ5kKw): En este chat está prácticamente toda la comunidad del departamento. Puedes hablar de cualquier tema acá, aunque probablemente hayan tantos mensajes que no alcances a leerlos.
 
 Si conoces un chat que no está acá, habla por telegram con [@ChechoL](http://t.me/ChechoL)
 
