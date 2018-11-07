@@ -11,7 +11,6 @@ Si conoces un chat que no está acá, habla por telegram con [@ChechoL](http://t
 Estos chats son para ayudar a organizar algo en específico, o por un evento que _se vienen_ pronto.
 
 - [Semana Computina 2018](https://t.me/joinchat/CT8s0A9mnkHJzNOwslTMVg)
-- [Matinal DCC](https://t.me/joinchat/AEMcAhEmif7p8MjRKRPAOA)
 
 ##Chats no académicos
 
@@ -40,7 +39,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Chat de Rol](https://t.me/joinchat/BvInWhAKj2m685ipYfECZQ)
 - [Juegos de Mesa](https://t.me/joinchat/CCI8eg9j2bqEL0GGTOWdGQ)
 - [Músicos computines](https://t.me/dccmusic)
-- [Wacom](https://t.me/joinchat/BpI_Qw8YoZWGX3S1e_ii0w)
+- [Wacom (Dibujo digital)](https://t.me/joinchat/BpI_Qw8YoZWGX3S1e_ii0w)
 - [DeporCC](https://t.me/joinchat/AO_luwgiaq_DzSdo3yH-AA)
 - [Eventos computines y hackathones](https://t.me/joinchat/AEMcAkJJsrTvT5TcqX4MOQ)
 - [DCCelus](https://t.me/joinchat/ByeJjBI7w-zWC_nPnz-isg)
