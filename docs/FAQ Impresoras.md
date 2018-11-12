@@ -28,7 +28,7 @@ o esto para imprimir en la impresora de la salita:
 `duplex -l out.ps|lpr -P hp-335`
 y magia.
 
-Disclaimer: El `-l` indica que el archivo se va a imprimir por el borde corto, si se omite se imprimirá por el borde largo.
+**Disclaimer:** El `-l` indica que el archivo se va a imprimir por el borde corto, si se omite se imprimirá por el borde largo.
 
 Si estás desde tu computador tienes que primero copiar el archivo al servidor de anakena con scp:
 `scp archivo.pdf usuario@anakena.dcc.uchile.cl:~/`
