@@ -1,5 +1,7 @@
-# FAQ CADCC
+# FAQ CaDCC
 Repositorio con información importante para los estudiantes del DCC de la Universidad de Chile, desde mechones hasta gente titulándose.
+
+Puedes ver el FAQ en https://faq.cadcc.cl
 
 Si quieres aportar con una página o artículo, o mejorar algun contenido, ¡Manda un pull request! Si no sabes que es eso, comunícate con el CaDCC de turno para conversar como añadirlo :)
 
