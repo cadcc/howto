@@ -36,9 +36,9 @@ La resolución puede tardar un poco, entre un par de semanas, hasta un mes, así
 
 ## ¿Como activo la doble titulación sin que me cobren la ingeniería?
  
-Si quieres hacer el 2x1 de Tesis de Magister, en lugar de Memoria; una vez que ya hayas pasado el curso CC71T y postulado al magister on-line o físicamente hablando con Angélica, deberás congelar la ingeniería durante el semestre que tomaras Tesis 1, para que no te cobren el arancel / matricula de ingeniería; y en lugar de eso solo pagar arancel / matricula de magíster. Para ello el momento idóneo de congelar o postergar el semestre es cuando salga la IA de pregrado y antes de del cierre de plazo de postergación de semestre (deberás ver calendario académico en u-cursos) que por lo general es el 31 de marzo (otoño) y _ (primavera).
+Si quieres hacer el 2x1 de Tesis de Magister, en lugar de Memoria; una vez que ya hayas postulado al magister on-line o físicamente hablando con Angélica, deberás congelar la ingeniería durante el semestre que tomaras Tesis 1, para que no te cobren el arancel / matricula de ingeniería; y en lugar de eso solo pagar arancel / matricula de magíster. Para ello el momento idóneo de congelar o postergar el semestre es cuando salga la IA de pregrado y antes de del cierre de plazo de postergación de semestre (deberás ver calendario académico en u-cursos) que por lo general es el 31 de marzo (otoño) y _ (primavera).
 
-En resumen, congelar durante marzo (otoño) y _ (primavera).
+En resumen, congelar el semestre inmediatamente posterior al que terminas todos los requisitos para el magíster (Otoño si terminas en primavera, y primavera si terminas en otoño).
 
 Recuerda dejar pasar la IA y matrícula de pregrado, y esperar a que abra el proceso de matricula y IA de posgrado para tomar Tesis 1.
 
