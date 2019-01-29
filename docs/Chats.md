@@ -10,7 +10,7 @@ Si conoces un chat que no está acá, habla por telegram con [@ChechoL](http://t
 
 Estos chats son para ayudar a organizar algo en específico, o por un evento que _se vienen_ pronto.
 
-- [Semana Computina 2018](https://t.me/joinchat/CT8s0A9mnkHJzNOwslTMVg)
+- 
 
 ##Chats no académicos
 
@@ -24,7 +24,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [DCC BakeOff](https://t.me/joinchat/B6QJcxKaGg5cucRHZ6luFg)
 
 ###Chats de juegos
-- [Chat de Hearthstone](https://t.me/joinchat/BrXxiwyf6xcSdqqyiS6kEA) 
+- [Hearthstone](https://t.me/joinchat/BrXxiwyf6xcSdqqyiS6kEA) 
 - [Terraria](https://t.me/DCCTerraria)
 - [Overwatch](https://telegram.me/joinchat/CB-bvgfex5SvInXKN1bL3w)
 - [Pokémon Go](https://telegram.me/joinchat/A0MT3gpHCiKPcXN0wGjv8g)
@@ -32,6 +32,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Fortnite DCC](https://t.me/joinchat/FI55jA79vdvLK23ZvNImWg)
 - [Hollow Knight](https://t.me/joinchat/AEMcAlJDM0b8TniLnbf3xg)
 - [Age of Empires](https://t.me/joinchat/Cxz7klHRFVPETzPCK9WAWQ)
+- [CS:GO](https://t.me/joinchat/D3DXiRTe15C-1OQfuq3sKw)
 
 ###Chats de hobbies e intereses
 
@@ -56,8 +57,9 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [DCCats](https://t.me/dccats)
 - [DogCC](https://t.me/dogcc)
 - [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
+- [Museo CaDCC](https://t.me/joinchat/AAAAAFVMb44Y4X-NS36gIQ)
 
-##Chats académicos
+##Chats académicos (Semestre 2018-2)
 
 ¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? Tenemos chats para casi todos los ramos de malla (si falta alguno, puedes crearlo) 
 
