@@ -99,15 +99,9 @@ Igualmente y si no necesitas mucha concentración, puedes estudiar en la Salita 
 
 ---
 
-## ¿Cómo puedo usar los casilleros de afuera de la Salita?
+## ¿Cómo puedo usar los casilleros de afuera de la Salita y del Toqui?
 
 A principio de año se abre un formulario para inscribirse. Por lo general un casillero cuesta 10.000 CLP <s>(Chilean Points)</s> y dada la demanda se recomienda pedirlos en parejas.
-
----
-
-## ¿Cómo puedo usar los casilleros de afuera del Toqui?
-
-Este semestre Primavera 2018 se abrió un [formulario](https://docs.google.com/forms/d/e/1FAIpQLScGV6bH6npZaVUekB_d3Gpe7cFtCz11ntF8-qvQKa4hyN06QA/viewform) para inscribirse, un casillero cuesta 5.000 CLP porque es solo por un semestre.
 
 ---
 
@@ -117,17 +111,17 @@ El CaDCC tiene un [blog](cadcc.cl) en el cual se suben todas las noticias. Si qu
 
 ---
 
-## ¿Qué es el CaDCC? ¿Puedo ser parte de él?
+## ¿Qué es el CADCC? ¿Puedo ser parte de él?
 
-<s>Pensé que jamás lo preguntarías</s> Es el Centro de Alumnos del Departamento de Ciencias de la Computación. El CADCC (Estilizado históricamente como CaDCC) es la organización de estudiantes que representa el conglomerado de estudiantes del DCC, procurando su bienestar, convivencia y protocolo. Son quienes organizan los eventos recreativos, charlas y actividades, y conforman el conducto regular en temas de docencia, comunicaciones, presupuestos, etc. Se elige de forma anual entre todos los interesados con un plebiscito.
+<s>Pensé que jamás lo preguntarías</s> Es el Centro de Alumnos del Departamento de Ciencias de la Computación. El CADCC es la organización de estudiantes que representa el conglomerado de alumnos del DCC, procurando su bienestar, convivencia y protocolo. Son quienes organizan los eventos recreativos, charlas y actividades, y conforman el conducto regular en temas de docencia, comunicaciones, presupuestos, etc. Se elige de forma anual entre todos los interesados con un plebiscito.
 
-Siendo formales, el CaDCC tiene tres principales compromisos con la comunidad:
+Siendo formales, el CADCC tiene tres principales compromisos con la comunidad:
 
-* **Representación y Vocería.** El CaDCC representa y aboga por cada uno de sus miembros a nivel individual y comunitario, pudiendo ser intermediario entre ellos y cualquier ente o institución en toda instancia que le competa y requiera.
+* **Representación y Vocería.** El CADCC representa y aboga por cada uno de sus miembros a nivel individual y comunitario, pudiendo ser intermediario entre ellos y cualquier ente o institución en toda instancia que le competa y requiera.
 * **Integración y Participación**. Tiene el deber de velar porque cada alumno se sienta parte de la comunidad, manteniendo un ambiente grato y bajo el alero de la identidad institucional que nos caracteriza, donde todos sean escuchados y respetados.
 * **Comunicación e Información**. Debe mantener al tanto de cualquier información relevante a todos los estudiantes del departamento.
 
-Si quieres aportar al CaDCC, eres completamente bienvenido a comunicarte con cualquiera de sus miembros e incluirte en sus filas cuando quieras. ¡También puedes aportar con ideas o apoyo sin ser parte integral de la Directiva!
+Si quieres aportar al CADCC, eres completamente bienvenido a comunicarte con cualquiera de sus miembros e incluirte en sus filas cuando quieras. ¡También puedes aportar con ideas o apoyo sin ser parte integral de la Directiva!
 
 Puedes ver la actual directiva en [el blog](https://www.cadcc.cl/directiva/).
 
