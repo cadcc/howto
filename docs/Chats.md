@@ -60,25 +60,8 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Museo CaDCC](https://t.me/joinchat/AAAAAFVMb44Y4X-NS36gIQ)
 - [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
 
-##Chats académicos (Semestre 2018-2)
+##Chats académicos (Semestre 2019-1)
 
 ¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? Tenemos chats para casi todos los ramos de malla (si falta alguno, puedes crearlo) 
 
-###Quinto semestre
-- [Matemáticas Discretas](https://t.me/joinchat/ByeJjA_QLxvATOTgjOo6Zw)
-- [Computación Gráfica](https://t.me/joinchat/ByeJjAz4UgHOexV99Se4zQ): es de 2017-2
-- [Algoritmos y Estructuras de Datos](https://t.me/joinchat/F6wdN1C0ELKud5FiBCf_uw)
-
-###Sexto semestre
-- [Programación de Software de Sistemas](https://t.me/joinchat/ByeJjEiv23KABlgt91cOSg)
-- [Teoría de la Computación](https://t.me/joinchat/F6wdN1DnmEI2hdCILAdlaQ)
-- [Metodologías de Diseño y Programación](https://t.me/joinchat/Ha2m31DEdI09DO0uDTx1JA)
-
-###Séptimo semestre
-- [Lenguajes de Programación](https://t.me/joinchat/FS7iR0gChfGo08fspSuxxg)
-- [Arquitectura de Computadores](https://t.me/joinchat/G0DbZBKCyrCAdAs7Uiaihw)
-- [Ingeniería de Software I](https://t.me/joinchat/G0DbZBFQtm5knWMbSpx6jg)
-
-###Octavo semestre
-- [Sistemas Operativos](https://t.me/joinchat/Ck4OWkLNXAQPLZly3s3HQw)
-- [Logaritmos](https://t.me/joinchat/CdPhQlBDnknKsBuQP_hCVQ)
+Aún no hay chats de ramos para 2019-1. Si sabes de alguno avisa por el chat general o por mail (cadcc@cadcc.cl).
