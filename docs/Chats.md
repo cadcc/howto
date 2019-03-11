@@ -34,7 +34,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Age of Empires](https://t.me/joinchat/Cxz7klHRFVPETzPCK9WAWQ)
 - [CS:GO](https://t.me/joinchat/D3DXiRTe15C-1OQfuq3sKw)
 
-###Chats de hobbies e intereses
+###Chats de hobbies/intereses/lifestyle
 
 - [Chat Veggie](https://t.me/joinchat/CSkUvgl634UeKGcPfeB8cA)
 - [Chat de Rol](https://t.me/joinchat/BvInWhAKj2m685ipYfECZQ)
@@ -49,6 +49,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Seguridad Informática](https://t.me/joinchat/AEMcAkfCKtc1juLWks588A)
 - [DECTalk DCC](https://t.me/joinchat/AEMcAkz4GkJc3Yrn8NllfA)
 - [Nintendo Switch](https://t.me/joinchat/CCI8ekuY_WaSD8AVM7Q9sQ)
+- [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
 
 ###Canales varios
 
@@ -58,7 +59,6 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [DogCC](https://t.me/dogcc)
 - [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
 - [Museo CaDCC](https://t.me/joinchat/AAAAAFVMb44Y4X-NS36gIQ)
-- [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
 
 ##Chats académicos (Semestre 2019-1)
 
