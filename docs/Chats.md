@@ -62,6 +62,8 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 
 ##Chats académicos (Semestre 2019-1)
 
-¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? Tenemos chats para casi todos los ramos de malla (si falta alguno, puedes crearlo) 
+¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? ¡Únete al chat del ramo! Si no existe, créalo y avisa por el chat general o a nosotros.
 
-Aún no hay chats de ramos para 2019-1. Si sabes de alguno avisa por el chat general o por mail (cadcc@cadcc.cl).
+###Tercer Semestre
+
+- [Arquitectura de Computadores](https://t.me/joinchat/G0DbZBKCyrCAdAs7Uiaihw)
