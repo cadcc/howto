@@ -58,6 +58,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [DogCC](https://t.me/dogcc)
 - [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
 - [Museo CaDCC](https://t.me/joinchat/AAAAAFVMb44Y4X-NS36gIQ)
+- [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
 
 ##Chats académicos (Semestre 2018-2)
 
