@@ -67,3 +67,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 ###Tercer Semestre
 
 - [Arquitectura de Computadores](https://t.me/joinchat/G0DbZBKCyrCAdAs7Uiaihw)
+
+###Electivos
+
+- [Procesamiento Masivo de Datos ('Patos')](https://t.me/joinchat/FltB4xRISBikVjYLS-kRhg)
