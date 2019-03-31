@@ -93,20 +93,32 @@ Supongamos ahora que terminaste la práctica, ¿Ahora que? Bueno, debes tomar el
 Cuando hayas tomado el ramo de práctica que te corresponda, tendrás que cumplir con 3 requisitos académicos obligatorios: 
 
 * Asistir a una charla que orientará lo que queda de tu proceso de práctica. La charla será anunciada por U-Cursos y se realizará durante la semana 1 del semestre en cuestión. **En caso de no poder asistir a esta charla, te recomendamos hablar con anticipación con el coordinador de práctica.**
-* Asistir a dos sesiones de un taller especial que te ayudará a redactar bien tu informe de práctica. Las sesiones serán en horarios en que los estudiantes en el ramo de práctica no tengan clases y se realizarán durante las semanas 2 y 3. **En caso de no poder asistir a una o dos sesiones, te recomendamos hablar con anticipación con el director de práctica.**
+* Asistir a dos sesiones de un taller especial que te ayudará a redactar bien tu informe de práctica. Las sesiones serán en horarios en que los estudiantes en el ramo de práctica no tengan clases y se realizarán durante las semanas 2 y 3. **En caso de no poder asistir a una o dos sesiones, te recomendamos hablar con anticipación con el coordinador de prácticas.**
 * Entregar un informe de práctica **a más tardar el viernes de la semana del primer elimina** (semana 5).
 
 Para entender mejor la estructura del informe de práctica, te recomendamos leer [esta sección del tutorial](https://faq.cadcc.cl/es/latest/Pr%C3%A1cticas/Informe/).
 
 ## La evaluación de la práctica
 
-Durante lo que queda de semestre, un profesor full time, part time o experto externo del departamento revisará tu informe de práctica y le colocará una nota según una rúbrica publicada por el departamento. Asimismo, como ya mencionamos, tu supervisor también enviará una nota con su apreciación de tu desempeño y comentarios justificando la evaluación a través de Ucampus. Ambas notas se considerarán para tu nota final de practica, en una proporción 60% informe, 40% supervisor. **Sin embargo, es necesario que ambas notas estén sobre 4 para aprobar**.
+Durante lo que queda de semestre, un profesor full time, part time o experto externo del departamento revisará tu informe de práctica y le colocará una nota según una rúbrica publicada por el departamento. Asimismo, como ya mencionamos, tu supervisor también enviará una nota con su apreciación de tu desempeño y comentarios justificando la evaluación a través de Ucampus. Ambas notas se considerarán para tu nota final de practica, en una proporción 50% informe, 50% supervisor. **Sin embargo, es necesario que ambas notas estén sobre 4 para aprobar**.
 
 Existe la posibilidad de que el profesor que revise tu informe te contacte para pedirte que le hagas correcciones, ya que para la impresión de él, el informe que entregaste no cumple las condiciones necesarias para aprobar. En ese caso, podrás entregar una nueva versión del informe, pero muy probablemente la nota máxima a la que podrás aspirar sea menor a 7. Te darán más detalles de esa situación si te llega a ocurrir.
 
 En caso que tuvieses dudas acerca de tu nota de informe de práctica que no estuviesen resueltas en los comentarios del evaluador, **puedes contactar a Sandra para solicitar una apelación de tu nota**. Ella hará las gestiones para que el Coordinador de Práctica vea tu caso y tome una decisión final sobre él.
 
 Ya con tu nota final obtenida sobre 4.0 y con el acta del curso publicada, podrás decir orgullosamente que terminaste una (o las 2 si estabas en práctica 2) de tus prácticas :)
+
+## Seguro de Estudiantes
+
+Posee las siguientes características:
+
+* Todo debe ser transparente para el DCC.
+* Se puede descargar un certificado desde Ucampus cuando tienes la práctica preinscrita y los requisitos para tomar el ramo de práctica.
+* El seguro cubre accidentes ocurridos en el lugar de la práctica y en el traslado directo desde y hacia el lugar de la práctica.
+* Se tiene 24 horas para denunciar un accidente.
+* Más información [escuela.ingenieria.uchile.cl/vida-estudiantil/126382/area-salud](escuela.ingenieria.uchile.cl/vida-estudiantil/126382/area-salud)
+
+Si realizarás la práctica en febrero, debes hacer algunos trámites extra para que el seguro corra. Habla con el coordinador de práctica para más detalles.
 
 #FAQ
 
@@ -124,26 +136,13 @@ No, la práctica se realiza antes de tomar el ramo y el ramo puede ser tomado **
 
 ## ¿Puede un emprendimiento pasar por práctica?
 
-Si, pero tiene que ser manejado por **OpenBeauchef** para pasarlo como práctica. (Más detalles con el Coordinador de Práctica).
+Si, pero tiene que ser manejado por **OpenBeauchef** para pasarlo como práctica y solo puede ser como práctica 2. (Más detalles con el Coordinador de Práctica).
 
 ---
 
 ## Si tengo un proyecto personal computacional ¿Puede pasar como práctica?
 
 **Debe pasar por OpenBeauchef** (ver pregunta anterior).
-
----
-
-## ¿Es verdad que tenemos seguro durante la práctica?
-
-Sip, posee las siguientes características:
-
-* Todo debe ser transparente para el DCC.
-* Se puede descargar un certificado desde Ucampus cuando tienes la práctica preinscrita y los requisitos para tomar el ramo de práctica.
-* El seguro cubre accidentes ocurridos en el lugar de la práctica
-* Cubre accidentes durante el traslado desde y hasta el lugar de trabajo siempre y cuando el traslado sea directo.
-
-Si realizarás la práctica en febrero, debes hacer algunos trámites extra para que el seguro corra. Habla con el coordinador de práctica para más detalles.
 
 ---
 
@@ -199,7 +198,20 @@ Sí. pero es recomendable que al menos los estés tomando en ese instante.
 
 **No.** Se revisa que las prácticas sean desarrolladas **después de haber realizado los ramos requisito del ramo de práctica**. Claro que siempre puedes ignorarnos, arriesgarte, hacerlo y ver si funciona, pero si no funciona, **no digas que no te lo advertimos**. 
 
+---
 
+## ¿Se puede hacer la práctica 2 en el mismo lugar de la practica 1?
 
+Sí.
 
+---
 
+## ¿Se puede hacer la práctica 1 y la practica 2 seguidas?
+
+Sip, se pueden hacer seguidas pero no se pueden preinscribir en el mismo semestre, no se puede reusar un informe y se deben hacer cosas distintas.
+
+---
+
+## ¿Si el supervisor tiene el título y esta haciendo un doctorado en la u se puede?
+
+Sí.
