@@ -14,7 +14,7 @@ _(Los nombres E y F vienen de los códigos antiguos de los ramos, CC69E y CC69F.
 
 ## El E: ¿Cómo elijo qué hacer en mi trabajo de título?
 
-El E es un curso de 5 UDs que tiene como objetivo decidir y preparar todas las cosas previas para poder realizar el trabajo de título. Lo primero que hay que hacer en el E es encontrar un profe guía. Si no sabes que proyecto realizar puedes hablar con todos los profes que te tinquen. Generalmente todos tienen algún proyecto que ofrecerte relacionado con lo que hacen. Si tienes algo en mente como un proyecto personal o algún trabajo en una empresa te conviene hablar con algún profe que haga investigación en algo similar a lo que tienes pensado pues ellos te podrán guiar mejor. Si no hay nadie que haga algo similar no te preocupes, he conocido gente que escogió un profe guía solo porque les caía bien.
+El E es un curso de 5 UDs (3 créditos) que tiene como objetivo decidir y preparar todas las cosas previas para poder realizar el trabajo de título. Lo primero que hay que hacer en el E es encontrar un profe guía. Si no sabes que proyecto realizar puedes hablar con todos los profes que te tinquen. Generalmente todos tienen algún proyecto que ofrecerte relacionado con lo que hacen. Si tienes algo en mente como un proyecto personal o algún trabajo en una empresa te conviene hablar con algún profe que haga investigación en algo similar a lo que tienes pensado pues ellos te podrán guiar mejor. Si no hay nadie que haga algo similar no te preocupes, he conocido gente que escogió un profe guía solo porque les caía bien.
 
 El E no tiene clases salvo algunas charlas obligatorias que <s>no sirven para nada</s> te explican algunas cosas sobre la titulación. Generalmente todo es bien libre y el trabajo depende de quién escojas como profe guía, pero hay dos instancias importantes que no debes dejar pasar. A mediados de semestre debes entregar una **Propuesta de Trabajo de Título**. Esta propuesta corresponde a un documento de unas 5 a 7 páginas donde explicas qué es lo que quieres hacer y por qué es interesante, además de una descripción breve de por qué es viable y cómo lo piensas hacer. Esta propuesta debe ser aprobada. Motivos para que te la rechacen pueden ser que tu informe era muy penca y no investigaste lo suficiente, el trabajo es muy poco interesante para un glorioso ingeniero de beauchef o que el trabajo es demasiado ambicioso y ni cagando lo terminas en el plazo. Al final del semestre debes entregar un **Informe Final** donde se describe de forma más detallada los objetivos del trabajo y la metodología. Para que se entienda la diferencia entre ambos informes, el primero es algo como “Mira quiero hacer esto, he investigado, pero no tanto y creo que se puede hacer porque….” y el segundo es algo como “He investigado todo lo pertinente y mi trabajo es viable por tal y tal razón [cita a un paper]. Además voy hacerlo con las siguientes tecnologías y metodologías”
 
@@ -24,7 +24,7 @@ Terminado el E el nombre de tu trabajo queda registrado en Ucampus y tiene un ca
 
 ## El F: Maldito trabajo que no se termina nunca
 
-El F es un curso de 35 UD. Supuestamente a esta altura ya tienes claro lo que vas a hacer y simplemente tienes que trabajar. Idealmente el proceso sería así:
+El F es un curso de 35 UD (21 créditos). Supuestamente a esta altura ya tienes claro lo que vas a hacer y simplemente tienes que trabajar. Idealmente el proceso sería así:
 
 1. Programar el software
 1. Hacer la experimentación/validación necesaria
@@ -47,9 +47,13 @@ Pero en la práctica ocurre algo así:
 1. Darte cuenta que si no empiezas a escribir el documento nunca terminarás y llorar un poco más
 1. Escribir el documento 
 
-Al final del F tienes que entregar tu **Memoria**, ese documento que suele empastarse y puedes mostrar con orgullo a tus padres. La **Memoria** es revisada por una comisión, que consiste en tu profe guía y generalmente otro profe del DCC más uno externo, pero realmente no hay restricciones para esto. Idealmente los otros profes deberían estar relacionados con el área, pero como son muy pocos siempre ponen a alguien que no tiene idea de lo que estás haciendo. Luego de que tu comisión revise el documento te dan correcciones y te ponen una nota que en la práctica sólo sirve para aprobar o rechazar tu memoria. Si apruebas esta instancia luego tienes algún tiempo para arreglar las correcciones y programar tu defensa.
+Al final del F tienes que entregar tu **Memoria**, ese documento que suele empastarse y puedes mostrar con orgullo a tus padres. La **Memoria** es revisada por una comisión, que consiste en tu profe guía y generalmente otro profe del DCC más uno externo, pero realmente no hay restricciones para esto. Idealmente los otros profes deberían estar relacionados con el área, pero como son muy pocos siempre ponen a alguien que no tiene idea de lo que estás haciendo. Luego de que tu comisión revise el documento te dan correcciones y te ponen una nota que en la práctica sólo sirve para aprobar o rechazar tu memoria. Si apruebas esta instancia luego **tienes 3 semanas después que te entregaron la nota** para arreglar las correcciones y programar tu defensa.
 
 La defensa es la última instancia. Debes hacer una presentación de 20 minutos a tu comisión hablando de todo lo que hiciste en tu Trabajo de Título y demostrando que sabes mucho, mucho. Luego de terminar la presentación los profes te hacen preguntas. Al final de todo el proceso te hacen salir de la sala y la comisión <s>habla de cómo están sus hijos o dónde irán después a almorzar</s> se da el tiempo de deliberar la nota que te pondrán. Esta nota después es promediada con tus notas de los dos últimos años para dar resultado a tu nota de titulación (Así es! **nada de lo que hiciste en la licenciatura tiene valor alguno**).
+
+## Algunas Consideraciónes Importantes
+
+* Si estás dando el F no puedes tomar más de 15 UD's (9 créditos) adicionales.
 
 ## ¡Ayuda, me eché el E o el F!
 
@@ -58,3 +62,5 @@ La defensa es la última instancia. Debes hacer una presentación de 20 minutos 
 **Si te echaste el F:** Esta situación en la práctica te reprobará retroactivamente el E, por lo que te recomiendo seguir leyendo.
 
 **Si te echaste el E:** Una ruta es darlo de nuevo el semestre siguiente con otro tema (lo que puede implicar cambio de profe guía), siguiendo los mismos pasos (pero ahora bien) que el semestre en que no pudiste pasarlo. La otra ruta es tomar la _Vía rápida_, que significa tomar el E y el F el mismo semestre. Para poder tomar ese camino tan ilegal y peligrosísimo debes hablar con Aidan Hogan, coordinador de titulación. (pero no le digas que nosotros te dijimos). 
+
+Porfa también toma en cuenta que "Los cursos que comprenden el trabajo de titulación no conducen a causal de eliminación por segunda reprobación" - [este link](http://escuela.ingenieria.uchile.cl/pregrado/informacion-para-estudiantes/trabajo-de-titulo) así que no te puedes echar el E o el F más de una vez D:
