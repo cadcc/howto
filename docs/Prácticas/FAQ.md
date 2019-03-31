@@ -63,3 +63,10 @@ No. Queda a criterio del estudiante. Pero la cantidad mínima de horas es 180.
 ## ¿Se puede hacer la práctica en el extranjero?
 
 Sip, si haces tu informe en francés puede que lo corrija Bergel :O
+
+---
+
+## ¿Qué hago si en la práctica me hacen firmar un contrato de alta confidencialidad?
+
+Si las restricciones del contrato no te permitirán describir adecuadamente lo que hiciste en la práctica es dificil hacer un informe para ello. Es mejor que busques práctica 
+en otro lado u hagas otro proyecto de practica en la misma empresa sin esas restricciónes.

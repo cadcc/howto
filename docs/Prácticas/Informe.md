@@ -1,8 +1,16 @@
 En esta parte se explica un poco el formato del informe para prácticas del semestre de otoño del 2018 en adelante y luego se responden algunas preguntas frecuentes respecto a eso.
 
-# Estructura del Informe
-
 **Importante: Esta información (estructura del informe) está en conversación actualmente, por lo que puede cambiar en cualquier momento. Te recomendamos revisar constantemente esta página y preguntar al coordinador de práctica para más información**.
+
+# Formato
+
+La fuente puede ser culaquiera que tenga [serif](http://www.fontreactor.com/faqs/differences-between-serif-and-sans-serif) tamaño 11 e interlineado 1,5.
+
+Ejemplos de Tipos de Letras Serif:
+* Times New Roman
+* La Tipografía default de Latex
+
+# Estructura
 
 El informe de la práctica consta de 9 partes que mencionaremos a continuacion
 
@@ -10,39 +18,42 @@ El informe de la práctica consta de 9 partes que mencionaremos a continuacion
 
 Debe contener la siguiente información:
 
-* Debe decir "Informe de Práctica Profesional X" donde X es 1 o 2 como corresponda
+* Debe decir "Informe de Práctica Profesional"
 * Título de la Práctica
 * Código de la Práctica (el del ramo, CC4901 para la práctica 1 y CC5901 para la práctica 2)
 * Nombre de la industria/empresa/institución
 * Nombre del Alumno, Carrera y Especialidad
-* Rut del Alumno
 * Mail y teléfono del Alumno
+* Periodo en que se realizó la práctica
+* Fecha de entrega del informe
 
 ## Resumen (1/2 página aprox)
 
-En esta parte se deben explicar brevemente los aspectos esenciales de la práctica, junto con mencionar las conclusiones y resultados.
+En esta parte se deben explicar brevemente los aspectos esenciales de la práctica, junto con mencionar las conclusiones y resultados. Se recomienda hacer esta parte después de haber terminado el resto del informe ya que no puede tener información que no esté en el resto del informe (porque es un resumen de este XD).
 
 ## Introducción (1 página aprox)
 
 Debe contener la siguiente información:
 
-* Descripción de la empresa (rubro, como se encontró la empresa, etc.)
+* Descripción de la empresa (nombre, rubro, como se encontró la empresa, etc.)
 * Motivación de la empresa para buscar un prácticante (la necesidad, el porqué de esta, la situación previa, etc.)
-* Descripción general del trabajo realizado (Una descripción un poco más profunda que lo que se puso en el resumen)
+* Descripción general del trabajo realizado (Una descripción a grandes rasgos de lo que se hizo)
 
 ## Problema (1/2 página aprox)
 
-Aquí va la descripción del problema a resolver..... no se que más poner acá.
+Aquí hay que definir el problema a resolver o la oportunidad a abordar por la empresa, y cuales son las consecuencias si el problema no se resuelve / cuales serían los beneficios de abordar la oportunidad. 
 
 ## Objetivos (1/2 - 1 página)
 
-Aquí van los objetivos de la práctica, es decir la solución al problema planteado y los desafíos a los que te enfrentaste.
+En esta sección van las metas de la práctica, los desafíos técnicos, desafíos organizacionales (desafios relacionados con utilizar herramientas para organizarse y el como organizarse para una tarea en sí), los usuarios de los resultados de la práctica y los beneficiados (estos últimos dos puntos no son excluyentes).
 
 ## Metodologías (1/2 - 1 página)
 
 En esta parte hay que mencionar los pasos necesarios para llegar a la solución y como se pretende evaluar el funcionamiento de la solución. Si te inspiraste en la solución de otras personas al resolver un problema similar ¡Está perfecto y también puedes ponerlo aquí!
 
-## Solución (2 - 3 páginas)
+También hay analizar como funcionó la metodología usada y como se puede testear los resultados de la práctica (unitests, medidas de eficiencia o de carga, o un análisis cualitativo de la calidad del resultado).
+
+## Solución (3 - 4 páginas)
 
 En esta parte va lo siguiente:
 
@@ -52,19 +63,31 @@ En esta parte va lo siguiente:
 * Librerías, Frameworks, Herramientas, etc.
 * Solución desde el punto de vista del usuario
 
-## Discusión y Reflexión (1 página aprox)
+## Discusión y Reflexión (1 - 3 páginas)
 
 El nombre es un poco ambiguo, pero en esta parte va:
 
 * Las eventualidades (Por ejemplo "El jefe se fue por tal emergencia y esto afecto de tal forma al proyecto")
 * Cambios a la solución y obstáculos en el camino
 * Responder a la pregunta: "Si tuviera que hacer esta práctica de nuevo ¿Qué cambiaría?" (se honest@)
+* Cursos útiles para la practica
+* Habilidades faltantes
+* Tema ético
 
 ## Conclusiones (1/2 página aprox)
 
 * ¿Se lograron los objetivos?
 * Resultados respecto al aprendizaje
 * Impresión personal de como fué
+
+## Anexo (Libre)
+
+Aquí puedes poner cualquier contenido adicional que estimes para escribir tu informe, como referencias a textos, screenshots, código fuente , etc. Solo ten en mente que una persona debe ser capaz de entender tu informe sin necesidad de leer esta sección.
+
+# Tips
+
+* Cada Figura del informe debe ser referenciada en el texto.
+
 
 ---
 
