@@ -24,7 +24,7 @@ Terminado el E el nombre de tu trabajo queda registrado en Ucampus y tiene un ca
 
 ## El F: Maldito trabajo que no se termina nunca
 
-El F es un curso de 35 UD (21 créditos). Supuestamente a esta altura ya tienes claro lo que vas a hacer y simplemente tienes que trabajar. Idealmente el proceso sería así:
+El F es un curso de 35 UD (21 créditos) y la U no te permite tomar más de 15 UD's (9 créditos) adicionales mientras lo estas dando. Supuestamente a esta altura ya tienes claro lo que vas a hacer y simplemente tienes que trabajar. Idealmente el proceso sería así:
 
 1. Programar el software
 1. Hacer la experimentación/validación necesaria
@@ -50,10 +50,6 @@ Pero en la práctica ocurre algo así:
 Al final del F tienes que entregar tu **Memoria**, ese documento que suele empastarse y puedes mostrar con orgullo a tus padres. La **Memoria** es revisada por una comisión, que consiste en tu profe guía y generalmente otro profe del DCC más uno externo, pero realmente no hay restricciones para esto. Idealmente los otros profes deberían estar relacionados con el área, pero como son muy pocos siempre ponen a alguien que no tiene idea de lo que estás haciendo. Luego de que tu comisión revise el documento te dan correcciones y te ponen una nota que en la práctica sólo sirve para aprobar o rechazar tu memoria. Si apruebas esta instancia luego **tienes 3 semanas después que te entregaron la nota** para arreglar las correcciones y programar tu defensa.
 
 La defensa es la última instancia. Debes hacer una presentación de 20 minutos a tu comisión hablando de todo lo que hiciste en tu Trabajo de Título y demostrando que sabes mucho, mucho. Luego de terminar la presentación los profes te hacen preguntas. Al final de todo el proceso te hacen salir de la sala y la comisión <s>habla de cómo están sus hijos o dónde irán después a almorzar</s> se da el tiempo de deliberar la nota que te pondrán. Esta nota después es promediada con tus notas de los dos últimos años para dar resultado a tu nota de titulación (Así es! **nada de lo que hiciste en la licenciatura tiene valor alguno**).
-
-## Algunas Consideraciónes Importantes
-
-* Si estás dando el F no puedes tomar más de 15 UD's (9 créditos) adicionales.
 
 ## ¡Ayuda, me eché el E o el F!
 
