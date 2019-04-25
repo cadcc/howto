@@ -14,8 +14,10 @@ Te va a pedir tu contraseña de tu cuenta del DCC. Una vez dentro escribe `papel
 
 ## ¿Cómo imprimo a través de la terminal como hacker en el DCC?
 
-Desde un computador del Toqui puedes escribir esto en la terminal
-`lpr filename.pdf`
+Antes de imprimir, es recomendable que transformen los archivos al formato .ps. Si el archivo es un PDF, primero deben asegurarse que esté en tamaño carta (lo más fácil es imprimirlo a un archivo PDF, y seleccionar el tamaño carta). Transformarlos evita que la impresora tenga que hacerlo, lo que es un proceso lento.
+
+Luego, esde un computador del Toqui puedes escribir esto en la terminal
+`lpr filename.ps`
 Sin embargo, el archivo se imprime con la configuración por defecto (una página por hoja).
 
 ### Oye, ¿entonces cómo imprimo a doble cara?
@@ -43,6 +45,8 @@ Y haces lo anterior como si estuvieras dentro de un computador en el Toqui (porq
 Ok calmate, puede ser que tengas que ir a la impresora a ver que es lo que está pasando.
 
 Lo que ha pasado mucho ultimamente es que como distintas bandejas de la impresora tienen distintos tipos de papel hay que apretar un par de veces el botón verde grande para confirmar usar el papel de la bandeja.
+
+Esto se puede evitar si desde el menú de impresión se selecciona explícitamente papel reciclado. Si no se hace esto, la impresora intenta buscar papel blanco y no lo encuentra.
 
 ![Como esta](_static/boton_verde_impresora.jpg)
 
