@@ -135,7 +135,7 @@ Te invito a ver el [FAQ de prácticas](https://faq.cadcc.cl/es/latest/Pr%C3%A1ct
 
 ## ¿Como me meto a mi mail @dcc.uchile.cl desde un browser?
 
-Primero metete a [webmail.dcc.uchile.cl](webmail.dcc.uchile.cl) y debería aparecerte esto:
+Primero métete a [webmail.dcc.uchile.cl](https://webmail.dcc.uchile.cl) y debería aparecerte esto:
 
 <center>
 ![Primera pantallita del mail](_static/FAQ_Mechon/tutorial_mail_1.png)
