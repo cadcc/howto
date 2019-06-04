@@ -744,7 +744,7 @@ pieza_aseo.selectAll("path")
 if (width >= 650){		
 	pieza_aseo.append("text")
 		.attr("transform", "translate(" + (new_width/910*25) + "," + (new_height/302*178/4) + ") rotate(90)")
-		.text("Pieza Aseo");
+		.text("Auxiliares Aseo");
 }
 
 //Jefa de Estudios
