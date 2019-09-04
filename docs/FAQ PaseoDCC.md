@@ -34,7 +34,7 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 
 Para inscribirte, debes ingresar al [Formulario de Inscripción](a.cadcc.cl/paseo2019) y leer y seguir y **LEER** las instrucciones que se te darán. Por favor, evita usar apodos y **LEE** y #respeta los formatos pedidos.
 
-Y listo, ya puedes ir al paseomentira obvio que no. Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea de Preventa o de Primera Cuota (Más detalles abajito). El solo rellenar el formulario sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
+Y listo, ya puedes ir al paseomentira obvio que no. Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea de Preventa o de Primera Cuota (Más detalles abajito). El solo rellenar el [Formulario de Inscripción](a.cadcc.cl/paseo2019) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
 
 Además, este año se pretende instaurar un compromiso escrito de buen comportamiento y #Respeto, que tod@s l@s asistentes deberán firmar físicamente en persona. Se darán más detalles al respecto durante los próximos días.
 
@@ -70,7 +70,7 @@ Igual porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no cor
 
 ## ¿Puedo ir si aún no tengo código de la carrera?
 
-Sí. Dada tu pregunta supongo que ni siquiera has abierto el [Formulario de Inscripción](a.cadcc.cl/paseo2019), pero no te preocupes, para eso estoy aquí. Al responder el formulario e indicar que no tienes código aún, avanza a la siguiente ventanilla donde te estará esperando un instructivo precioso indicándote cómo indicarnos la indicación de que efectivamente eres mechón/a. Basta con que envíes una de las opciones. Esto se revisará manualmente, por lo que si tienes alguna situación particular excepcional extraordinaria extrema, junto con las imágenes pedidas puedes explicarnos tu situación particular excepcional extraordinaria extrema.
+Sí. Dada tu pregunta supongo que ni siquiera has abierto el [Formulario de Inscripción](a.cadcc.cl/paseo2019), pero no te preocupes, para eso estoy aquí. Al responder el [Formulario de Inscripción](a.cadcc.cl/paseo2019) e indicar que no tienes código aún, avanza a la siguiente ventanilla donde te estará esperando un instructivo precioso indicándote cómo indicarnos la indicación de que efectivamente eres mechón/a. Basta con que envíes una de las opciones. Esto se revisará manualmente, por lo que si tienes alguna situación particular excepcional extraordinaria extrema, junto con las imágenes pedidas puedes explicarnos tu situación particular excepcional extraordinaria extrema.
 
 Si photoshopeas las pruebas serás car'e caca **durante todo el paseo**.
 
