@@ -140,19 +140,19 @@ Para la edición 2019 del PaseoDCC, el valor **total** por persona será de **$2
 
 Buena pregunta. Este año tendremos dos modalidades de pago, de las cuales **SOLO DEBES EFECTUAR UNA (1)**:
 
-1. Preventa:
+### Preventa:
 Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del PaseoDCC por persona en **un solo y único pago**, que hará efectiva tu inscripción de forma inmediata y no tendrás que preocuparte nunca más por nada en la vida.
 
-Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
+⋅⋅⋅Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
 
-Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
+⋅⋅⋅Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
 
-2. Cuotas:
+### Cuotas:
 El sistema clásico de dividir el valor total en dos cómodas cuotas para suavizarles los bolsillos, a cambio de vivir con el miedo a quedarte abajo y tener que usar tu disfraz para pedir dulces en tu edificio.
 
-⋅* Primera cuota: $10.000. Del **lunes 9 de septiembre** al **Domingo 29 de octubre**.
+* Primera cuota: $10.000. Del **lunes 9 de septiembre** al **Domingo 29 de octubre**.
 
-⋅* Segunda cuota: $15.000. Del **lunes 30 de septiembre** al **Domingo 20 de octubre**.
+* Segunda cuota: $15.000. Del **lunes 30 de septiembre** al **Domingo 20 de octubre**.
 
 ---
 
