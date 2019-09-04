@@ -115,7 +115,7 @@ Hmm... sip.
 
 ## ¿Qué pasa si soy estudiante normal, pero al mismo tiempo soy mechón/a porque me atrasé, tengo código pero del programa de estudios antiguo, organicé todo el Paseo, me titulo mañana y mi gato está enfermo? ¿En qué grupo quedo?
 
-<s>Mira conchetum</s>Por supuesto, los casos especiales podrán ser revisados a mano. Si tienes dudas puedes consultar con cualquier persona del CADCC, enviar un correo a paseo@cadcc.cl o tomar este sencillo test de BuzzFeed para determinar [qué DCCian@ eres](not).
+<s>Mira conchetum</s>Por supuesto, los casos especiales podrán ser revisados a mano. Si tienes dudas puedes consultar con cualquier persona del CADCC, enviar un correo a paseo@cadcc.cl o tomar este sencillo test de BuzzFeed para determinar [qué DCCian@ eres](obvioquenooo).
 
 ## ¿Cuándo sabré si quedé fuera o no?
 
