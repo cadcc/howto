@@ -79,6 +79,7 @@ Si photoshopeas las pruebas serás car'e caca **durante todo el paseo**.
 ## ¿Por qué debo corroborar que soy mechón/a si tengo código?
 
 Como se explica en la sección de Prioridad más abajo, este año hemos decidido mantener los puestos prioritarios para mechon@s, por lo que si quieres ser considerad@ dentro de ese conjunto, la mejor forma que tenemos de chequear tu mechonidad es con la información que pedimos. Podríamos intentar hackear U-Campus y ver si tienes código, pero podría ser engorroso.
+
 Ahora, si te vai en la bélica y no quieres o te da lata mandar tus datos, puedes marcarte como Estudiante regular no-mechón/a e inscribirte como la plebe, pero ten en cuenta que no contarás con la codiciada **Súper Prioridad Mechona** y podrías terminar despidiéndote de tus amigos en el bus desde la vereda.
 
 ---
@@ -141,19 +142,17 @@ Buena pregunta. Este año tendremos dos modalidades de pago, de las cuales **SOL
 
 1. Preventa:
 Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del PaseoDCC por persona en **un solo y único pago**, que hará efectiva tu inscripción de forma inmediata y no tendrás que preocuparte nunca más por nada en la vida.
+
 Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
+
 Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
 
 2. Cuotas:
 El sistema clásico de dividir el valor total en dos cómodas cuotas para suavizarles los bolsillos, a cambio de vivir con el miedo a quedarte abajo y tener que usar tu disfraz para pedir dulces en tu edificio.
 
-* Primera cuota: $10.000.
-* Empieza: Lunes 9 de septiembre.
-* Termina: Domingo 29 de septiembre.
+⋅* Primera cuota: $10.000. Del **lunes 9 de septiembre** al **Domingo 29 de octubre**.
 
-* Segunda cuota: $15.000.
-* Empieza: Lunes 30 de septiembre.
-* Termina: Domingo 20 de octubre.
+⋅* Segunda cuota: $15.000. Del **lunes 30 de septiembre** al **Domingo 20 de octubre**.
 
 ---
 
