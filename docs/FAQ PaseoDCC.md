@@ -6,8 +6,6 @@ Te recordamos que para la versión 2019, el link del formulario de inscripción 
 
 Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](a.cadcc.cl/telegramdcc) o enviar un correo a paseo@cadcc.cl
 
----
-
 **Opcional: Toma cada vez que diga [Formulario de Inscripción](a.cadcc.cl/paseo2019).**
 
 ---
@@ -66,7 +64,7 @@ Si quieres llevar a tu **gato** a parrandear es más complicado, pero si tiene c
 
 Por supuesto, si necesitas escapar un rato de tu ajetreada vida laboral u olvidarte por unos días de las Isapres que estás cotizando, eres más que bienvenid@ a recordar tu edad del pavo con los lolos. Basta con que te inscribas en el [Formulario de Inscripción](a.cadcc.cl/paseo2019) indicando tu... condición. Se priorizarán cupos para estudiantes actuales antes que para ex-estudiantes, como se explica en la sección de Prioridad.
 
-Ojo: cotiza bien la Isapre porque el seguro escolar ya no te sirve.
+Igual porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no corre...
 
 ---
 
@@ -74,7 +72,7 @@ Ojo: cotiza bien la Isapre porque el seguro escolar ya no te sirve.
 
 Sí. Dada tu pregunta supongo que ni siquiera has abierto el [Formulario de Inscripción](a.cadcc.cl/paseo2019), pero no te preocupes, para eso estoy aquí. Al responder el formulario e indicar que no tienes código aún, avanza a la siguiente ventanilla donde te estará esperando un instructivo precioso indicándote cómo indicarnos la indicación de que efectivamente eres mechón/a. Basta con que envíes una de las opciones. Esto se revisará manualmente, por lo que si tienes alguna situación particular excepcional extraordinaria extrema, junto con las imágenes pedidas puedes explicarnos tu situación particular excepcional extraordinaria extrema.
 
-Si photoshopeas las pruebas vas a ser car'e caca **durante todo el paseo**.
+Si photoshopeas las pruebas serás car'e caca **durante todo el paseo**.
 
 ---
 
@@ -142,12 +140,13 @@ Para la edición 2019 del PaseoDCC, el valor **total** por persona será de **$2
 Buena pregunta. Este año tendremos dos modalidades de pago, de las cuales **SOLO DEBES EFECTUAR UNA (1)**:
 
 1. Preventa:
-Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del Paseo por persona en **un solo y único pago**, que hará efectiva su inscripción de forma inmediata y no tendrá que preocuparse nunca más por nada en la vida.
+Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del PaseoDCC por persona en **un solo y único pago**, que hará efectiva tu inscripción de forma inmediata y no tendrás que preocuparte nunca más por nada en la vida.
 Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
 Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
 
 2. Cuotas:
-El sistema clásico de dividir el valor total en dos cómodas cuotas para suavizarles los bolsillos, a cambio de vivir por siempre con miedo a tener que irte en carreta al recinto y dormir en carpa en la playa.
+El sistema clásico de dividir el valor total en dos cómodas cuotas para suavizarles los bolsillos, a cambio de vivir con el miedo a quedarte abajo y tener que usar tu disfraz para pedir dulces en tu edificio.
+
 * Primera cuota: $10.000.
 * Empieza: Lunes 9 de septiembre.
 * Termina: Domingo 29 de septiembre.
@@ -177,9 +176,9 @@ Asíes hice copy-paste denúnciame.
 
 ## ¿Por qué querría pagar Preventa si sale lo mismo?
 
-La Preventa inmediatamente te hace **indestructible e indesterrable**, con prioridad máxima, absoluta y **milenaria**, algo bastante valioso en estos _tiempos mejores_ de sobrepoblación. Ya para el Parcelazo tuvimos que irnos sentados de a 3 en el bus y nunca antes se había llenado de esa manera, por lo que esperamos que este PaseoDCC sea **bastante** más concurrido que el anterior, así que tiemblan los cupos y los sofá-camas.
+La Preventa inmediatamente te hace **indestructible e indesterrable**, con prioridad máxima, absoluta y **milenaria**, algo bastante valioso en estos _tiempos mejores_ de sobrepoblación. Ya para el Parcelazo de agosto tuvimos que irnos sentados de a 3 en el bus y nunca antes se había llenado de esa manera, por lo que esperamos que este PaseoDCC sea **bastante** más concurrido que el anterior, así que tiemblan los cupos y los sofá-camas.
 
-En principio se consideró dar un beneficio de descuento monetario por pagar anticipadamente en Preventa, pero se reevaluó y se llegó a que sería injusto que quienes no tuvieran el dinero para pagar todo inmediatamente, tuvieran que terminar pagando más como "castigo". Además, se nos complicaría el balance de las finanzas al no tener certeza de cuánto dinero recibiríamos. Recuerda que este paseo es de nosotr@s y para nosotr@s y la gran mayoría se financia con esos pagos _(con una pérdida neta que te morí lo atró)_.
+En principio se consideró dar un beneficio de descuento monetario por pagar anticipadamente en Preventa, pero se reevaluó y se llegó a que sería injusto que quienes no tuvieran el dinero para pagar todo inmediatamente, tuvieran que terminar pagando más como "castigo". Además, se nos complicaría el balance de las finanzas al no tener certeza de cuánto dinero recibiríamos. Recuerda que este paseo es de nosotr@s y para nosotr@s, y la gran mayoría se financia con esos pagos _(con una pérdida neta que te morí lo atró)_.
 
 Y ya que estamos en esa, que ustedes paguen Preventa nos ayuda un montón para tener la plata anticipadamente y poder reservar todas las cosas a tiempo, si no la carreta y las carpas podrían ser más reales de lo esperado.
 
