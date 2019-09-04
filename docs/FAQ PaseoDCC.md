@@ -104,7 +104,7 @@ La prioridad de cupos para este año contempla los siguientes grupos en orden de
 * El gato.
 * El gato sin chip.
 
-Dentro de cada grupo, la prioridad se regirá por **orden de inscripción**, reiterando que la inscripción se completa al llenar el formulario y **realizar el primer pago**. El formulario por sí solo no cuenta como inscripción.
+Dentro de cada grupo, la prioridad se regirá por **orden de inscripción**, reiterando que la inscripción se completa al llenar el [Formulario de Inscripción](a.cadcc.cl/paseo2019) y **realizar el primer pago**. El [Formulario de Inscripción](a.cadcc.cl/paseo2019) por sí solo no cuenta como inscripción.
 
 ---
 
