@@ -143,9 +143,9 @@ Buena pregunta. Este año tendremos dos modalidades de pago, de las cuales **SOL
 ### Preventa:
 Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del PaseoDCC por persona en **un solo y único pago**, que hará efectiva tu inscripción de forma inmediata y no tendrás que preocuparte nunca más por nada en la vida.
 
-⋅⋅⋅Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
+Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
 
-⋅⋅⋅Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
+Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
 
 ### Cuotas:
 El sistema clásico de dividir el valor total en dos cómodas cuotas para suavizarles los bolsillos, a cambio de vivir con el miedo a quedarte abajo y tener que usar tu disfraz para pedir dulces en tu edificio.
