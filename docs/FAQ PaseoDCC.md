@@ -10,7 +10,7 @@ Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](a.c
 
 ---
 
-# Sección: Sobre el PaseoDCC
+# -- Sección: Sobre el PaseoDCC
 
 ---
 
@@ -28,7 +28,7 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 
 ---
 
-# Sección: Inscripciones y otras burocracias lateras
+# -- Sección: Inscripciones y otras burocracias lateras
 
 ## ¿Cómo me inscribo al PaseoDCC?
 
@@ -84,7 +84,7 @@ Ahora, si te vai en la bélica y no quieres o te da lata mandar tus datos, puede
 
 ---
 
-# Sección: Hablemos de Prioridad...
+# -- Sección: Hablemos de Prioridad...
 
 _Esta es la sección de Prioridad que mencioné mil veces, por fin_
 
@@ -126,7 +126,7 @@ De todas formas, estaremos avisando si vemos que los cupos proyectan un exceso c
 
 ---
 
-# Sección: Pagos y moneas
+# -- Sección: Pagos y moneas
 
 ---
 
