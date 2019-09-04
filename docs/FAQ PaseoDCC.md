@@ -119,7 +119,7 @@ Hmm... sip.
 
 ## ¿Cuándo sabré si quedé fuera o no?
 
-Durante los últimos días previos al PaseoDCC, se congelarán todos los procesos de inscripción y se hará un listado-final-final-definitivo-estesí.doc y se informará a tod@s sobre su situación personal. De todas formas, no es poco común que gente se baje a última hora _(pero así onda literalmente última hora)_, por lo que de abrirse un cupo te lo puedo decir en cualquier momento, debes estar muy atento, como la canción.
+Durante los últimos días previos al PaseoDCC, se congelarán todos los procesos de inscripción y se hará un listado-final-final-definitivo-estesí.doc y se informará a tod@s sobre su situación personal. Aún así, no es poco común que gente se baje a última hora _(pero así onda literalmente última hora)_, por lo que de abrirse un cupo te lo puedo decir en cualquier momento, debes estar muy atento, como la canción.
 
 De todas formas, estaremos avisando si vemos que los cupos proyectan un exceso considerable, e igualmente puedes preguntarnos cómo van si estás teniendo muchas pesadillas al respecto.
 
