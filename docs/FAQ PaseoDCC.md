@@ -64,7 +64,7 @@ Si quieres llevar a tu **gato** a parrandear es más complicado, pero si tiene c
 
 Por supuesto, si necesitas escapar un rato de tu ajetreada vida laboral u olvidarte por unos días de las Isapres que estás cotizando, eres más que bienvenid@ a recordar tu edad del pavo con los lolos. Basta con que te inscribas en el [Formulario de Inscripción](a.cadcc.cl/paseo2019) indicando tu... condición. Se priorizarán cupos para estudiantes actuales antes que para ex-estudiantes, como se explica en la sección de Prioridad.
 
-Igual porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no corre...
+Porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no corre...
 
 ---
 
