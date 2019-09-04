@@ -141,7 +141,7 @@ Para la edición 2019 del PaseoDCC, el valor **total** por persona será de **$2
 Buena pregunta. Este año tendremos dos modalidades de pago, de las cuales **SOLO DEBES EFECTUAR UNA (1)**:
 
 ### Preventa:
-Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del PaseoDCC por persona en **un solo y único pago**, que hará efectiva tu inscripción de forma inmediata y no tendrás que preocuparte nunca más por nada en la vida.
+Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del PaseoDCC por persona en **un solo y único pago**, que hará efectiva tu inscripción de forma inmediata y prioritaria, y no tendrás que preocuparte nunca más por nada en la vida.
 
 Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
 
@@ -171,7 +171,7 @@ Por favor asegúrate de ingresar el correo para enviar el comprobante. Si pagas 
 
 Asíes hice copy-paste denúnciame.
 
---
+---
 
 ## ¿Por qué querría pagar Preventa si sale lo mismo?
 
@@ -179,7 +179,7 @@ La Preventa inmediatamente te hace **indestructible e indesterrable**, con prior
 
 En principio se consideró dar un beneficio de descuento monetario por pagar anticipadamente en Preventa, pero se reevaluó y se llegó a que sería injusto que quienes no tuvieran el dinero para pagar todo inmediatamente, tuvieran que terminar pagando más como "castigo". Además, se nos complicaría el balance de las finanzas al no tener certeza de cuánto dinero recibiríamos. Recuerda que este paseo es de nosotr@s y para nosotr@s, y la gran mayoría se financia con esos pagos _(con una pérdida neta que te morí lo atró)_.
 
-Y ya que estamos en esa, que ustedes paguen Preventa nos ayuda un montón para tener la plata anticipadamente y poder reservar todas las cosas a tiempo, si no la carreta y las carpas podrían ser más reales de lo esperado.
+Y ya que estamos en esa, que ustedes paguen Preventa nos ayuda un montón para tener la plata anticipadamente y poder reservar todas las cosas a tiempo, si no vamos a ir en carreta a acampar en la playa no más.
 
 ---
 
