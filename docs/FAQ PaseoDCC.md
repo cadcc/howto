@@ -10,17 +10,17 @@ Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](a.c
 
 ---
 
-# -- Sección: Sobre el PaseoDCC
+# Sección: Sobre el PaseoDCC
 
 ---
 
-## ¿Qué es el PaseoDCC?
+## - ¿Qué es el PaseoDCC?
 
 Es un evento anual que se realiza desde el 2014, organizado íntegramente por la directiva del CADCC (y a veces otr@s estudiantes apañador@s). El evento consiste en un viaje a la playa, históricamente a El Tabo, durante algunos días, con objetivo de distender la rutina académica, acercar a la comunidad y pegarse unos vaciles.
 
 ---
 
-## ¿Cuándo y dónde es el PaseoDCC?
+## - ¿Cuándo y dónde es el PaseoDCC?
 
 Este año 2019, el PaseoDCC se llevará a cabo desde el jueves 31 de octubre al domingo 4 de noviembre. Esto implica que en comparación con años anteriores, tenemos un aumento de 1 (una) noche completa para añadirle al carrete, aprovechando los días feriados que con tanto amor nos han sido concedidos en esas fechas. La idea es partir el jueves a mediodía y volver el domingo a hora similar.
 
@@ -28,9 +28,9 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 
 ---
 
-# -- Sección: Inscripciones y otras burocracias lateras
+# Sección: Inscripciones y otras burocracias lateras
 
-## ¿Cómo me inscribo al PaseoDCC?
+## - ¿Cómo me inscribo al PaseoDCC?
 
 Para inscribirte, debes ingresar al [Formulario de Inscripción](a.cadcc.cl/paseo2019) y leer y seguir y **LEER** las instrucciones que se te darán. Por favor, evita usar apodos y **LEE** y #respeta los formatos pedidos.
 
@@ -40,7 +40,7 @@ Además, este año se pretende instaurar un compromiso escrito de buen comportam
 
 ---
 
-## ¿Quiénes pueden ir al PaseoDCC?
+## - ¿Quiénes pueden ir al PaseoDCC?
 
 El PaseoDCC 2019 es abierto a toda la comunidad de estudiantes del departamento, incluyendo pregrado y posgrado. También, como en años anteriores, permitiremos el ingreso de ex-estudiantes del departamento y personas externas invitadas por estudiantes, siempre priorizando los cupos para personas del DCC.
 
@@ -48,7 +48,7 @@ El PaseoDCC 2019 es abierto a toda la comunidad de estudiantes del departamento,
 
 ---
 
-## ¿Puedo llevar a mi amigui/pololi/andante/gato/etc?
+## - ¿Puedo llevar a mi amigui/pololi/andante/gato/etc?
 
 Sí, lo acabo de decir. Podrán ir personas **externas** al departamento, tanto beauchefian@s como alienígenas, **solo si son invitad@s explícitamente por un/a estudiante actual del departamento**. En ese caso, la persona invitada tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](a.cadcc.cl/paseo2019), indicando su calidad de persona externa. Se le preguntará el nombre de el/la estudiante que le invitó y esto será revisado posteriormente. **Cada DCCian@ será responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso firmado que aún no está escrito pero te juro que es brígido.
 
@@ -60,7 +60,7 @@ Si quieres llevar a tu **gato** a parrandear es más complicado, pero si tiene c
 
 ---
 
-## Me titulé pero les echo de menos uwu, ¿Puedo ir al PaseoDCC?
+## - Me titulé pero les echo de menos uwu, ¿Puedo ir al PaseoDCC?
 
 Por supuesto, si necesitas escapar un rato de tu ajetreada vida laboral u olvidarte por unos días de las Isapres que estás cotizando, eres más que bienvenid@ a recordar tu edad del pavo con los lolos. Basta con que te inscribas en el [Formulario de Inscripción](a.cadcc.cl/paseo2019) indicando tu... condición. Se priorizarán cupos para estudiantes actuales antes que para ex-estudiantes, como se explica en la sección de Prioridad.
 
@@ -68,7 +68,7 @@ Porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no corre...
 
 ---
 
-## ¿Puedo ir si aún no tengo código de la carrera?
+## - ¿Puedo ir si aún no tengo código de la carrera?
 
 Sí. Dada tu pregunta supongo que ni siquiera has abierto el [Formulario de Inscripción](a.cadcc.cl/paseo2019), pero no te preocupes, para eso estoy aquí. Al responder el [Formulario de Inscripción](a.cadcc.cl/paseo2019) e indicar que no tienes código aún, avanza a la siguiente ventanilla donde te estará esperando un instructivo precioso indicándote cómo indicarnos la indicación de que efectivamente eres mechón/a. Basta con que envíes una de las opciones. Esto se revisará manualmente, por lo que si tienes alguna situación particular excepcional extraordinaria extrema, junto con las imágenes pedidas puedes explicarnos tu situación particular excepcional extraordinaria extrema.
 
@@ -76,7 +76,7 @@ Si photoshopeas las pruebas serás car'e caca **durante todo el paseo**.
 
 ---
 
-## ¿Por qué debo corroborar que soy mechón/a si tengo código?
+## - ¿Por qué debo corroborar que soy mechón/a si tengo código?
 
 Como se explica en la sección de Prioridad más abajo, este año hemos decidido mantener los puestos prioritarios para mechon@s, por lo que si quieres ser considerad@ dentro de ese conjunto, la mejor forma que tenemos de chequear tu mechonidad es con la información que pedimos. Podríamos intentar hackear U-Campus y ver si tienes código, pero podría ser engorroso.
 
@@ -84,11 +84,11 @@ Ahora, si te vai en la bélica y no quieres o te da lata mandar tus datos, puede
 
 ---
 
-# -- Sección: Hablemos de Prioridad...
+# Sección: Hablemos de Prioridad...
 
 _Esta es la sección de Prioridad que mencioné mil veces, por fin_
 
-## ¿Qué pasa si se llenan los cupos?
+## - ¿Qué pasa si se llenan los cupos?
 
 Dado que nuestra comunidad está creciendo rápidamente, los últimos años nos hemos visto al borde del sobrecupo, por lo que se han establecido **protocolos de prioridad** para <s>echar</s> poder seleccionar de manera justa y pre-establecida quiénes tendrán la fortuna de participar en el evento y quiénes podrán seguirnos por streaming.
 
@@ -108,17 +108,17 @@ Dentro de cada grupo, la prioridad se regirá por **orden de inscripción**, rei
 
 ---
 
-## ¿Espera entonces podría ser que yo pueda ir pero mi amigui/pololi/andante/gato/etc se quede abajo por prioridad?
+## - ¿Espera entonces podría ser que yo pueda ir pero mi amigui/pololi/andante/gato/etc se quede abajo por prioridad?
 
 Hmm... sip.
 
 ---
 
-## ¿Qué pasa si soy estudiante normal, pero al mismo tiempo soy mechón/a porque me atrasé, tengo código pero del programa de estudios antiguo, organicé todo el Paseo, me titulo mañana y mi gato está enfermo? ¿En qué grupo quedo?
+## - ¿Qué pasa si soy estudiante normal, pero al mismo tiempo soy mechón/a porque me atrasé, tengo código pero del programa de estudios antiguo, organicé todo el Paseo, me titulo mañana y mi gato está enfermo? ¿En qué grupo quedo?
 
 <s>Mira conchetum</s>Por supuesto, los casos especiales podrán ser revisados a mano. Si tienes dudas puedes consultar con cualquier persona del CADCC, enviar un correo a paseo@cadcc.cl o tomar este sencillo test de BuzzFeed para determinar [qué DCCian@ eres](obvioquenooo).
 
-## ¿Cuándo sabré si quedé fuera o no?
+## - ¿Cuándo sabré si quedé fuera o no?
 
 Durante los últimos días previos al PaseoDCC, se congelarán todos los procesos de inscripción y se hará un listado-final-final-definitivo-estesí.doc y se informará a tod@s sobre su situación personal. Aún así, no es poco común que gente se baje a última hora _(pero así onda literalmente última hora)_, por lo que de abrirse un cupo te lo puedo decir en cualquier momento, debes estar muy atento, como la canción.
 
@@ -126,17 +126,17 @@ De todas formas, estaremos avisando si vemos que los cupos proyectan un exceso c
 
 ---
 
-# -- Sección: Pagos y moneas
+# Sección: Pagos y moneas
 
 ---
 
-## ¿Cuánto sale el PaseoDCC?
+## - ¿Cuánto sale el PaseoDCC?
 
 Para la edición 2019 del PaseoDCC, el valor **total** por persona será de **$25.000**, que pueden ser pagados de las siguientes formas que mejor te voy a contar después que me preguntes.
 
 ---
 
-## ¿Cómo se paga el PaseoDCC?
+## - ¿Cómo se paga el PaseoDCC?
 
 Buena pregunta. Este año tendremos dos modalidades de pago, de las cuales **SOLO DEBES EFECTUAR UNA (1)**:
 
@@ -147,6 +147,8 @@ Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
 
 Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
 
+La Preventa está habilitada **solo para estudiantes actuales del DCC, tanto mechones como no-mechones**.
+
 ### Cuotas:
 El sistema clásico de dividir el valor total en dos cómodas cuotas para suavizarles los bolsillos, a cambio de vivir con el miedo a quedarte abajo y tener que usar tu disfraz para pedir dulces en tu edificio.
 
@@ -156,7 +158,7 @@ El sistema clásico de dividir el valor total en dos cómodas cuotas para suaviz
 
 ---
 
-## ¿A quién tengo que pagarle?
+## - ¿A quién tengo que pagarle?
 
 Se puede pagar en efectivo a Francisco Lecaros (@lecaroos en Telegram) o Cristóbal Mesías (@KriizNoize), que suelen estar en la Salita o en el Toqui. También por transferencia bancaria a la cuenta:
 
@@ -173,7 +175,7 @@ Asíes hice copy-paste denúnciame.
 
 ---
 
-## ¿Por qué querría pagar Preventa si sale lo mismo?
+## - ¿Por qué querría pagar Preventa si sale lo mismo?
 
 La Preventa inmediatamente te hace **indestructible e indesterrable**, con prioridad máxima, absoluta y **milenaria**, algo bastante valioso en estos _tiempos mejores_ de sobrepoblación. Ya para el Parcelazo de agosto tuvimos que irnos sentados de a 3 en el bus y nunca antes se había llenado de esa manera, por lo que esperamos que este PaseoDCC sea **bastante** más concurrido que el anterior, así que tiemblan los cupos y los sofá-camas.
 
@@ -183,7 +185,7 @@ Y ya que estamos en esa, que ustedes paguen Preventa nos ayuda un montón para t
 
 ---
 
-## Ya bacán. Igual caro $50.000, no?
+## - Ya bacán. Igual caro $50.000, no?
 
 No pooo :rollingeyes:...
 
@@ -193,4 +195,26 @@ En cualquier caso, y con cualquier modalidad, **tod@s pagan $25.000 para ir al P
 
 ---
 
-(Más preguntas en proceso...)
+# Sección: <s>El trip</s> El viaje
+
+(Soon...)
+
+---
+
+# Sección: Las cabañas
+
+(Soon...)
+
+---
+
+# Sección: Durante el PaseoDCC. Reglas, actividades y consejos
+
+(Soon...)
+
+---
+
+# Sección: Inasistencia, bajas y devoluciones
+
+(Soon...)
+
+---
