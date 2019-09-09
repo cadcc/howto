@@ -2,7 +2,7 @@
 
 Todas tus dudas relacionadas a este gran evento que cada año esperamos con ansias podrás encontrarlas respondidas en esta página.
 
-Te recordamos que para la versión 2019, el link del formulario de inscripción con instrucciones se encuentra en este link: [https://a.cadcc.cl/paseo2019](https://a.cadcc.cl/paseo2019)
+Te recordamos que para la versión 2019, el link del formulario de inscripción con instrucciones se encuentra en este link: [a.cadcc.cl/paseo2019](https://a.cadcc.cl/paseo2019)
 
 Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](a.cadcc.cl/telegramdcc) o enviar un correo a paseo@cadcc.cl
 
