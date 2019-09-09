@@ -2,11 +2,11 @@
 
 Todas tus dudas relacionadas a este gran evento que cada año esperamos con ansias podrás encontrarlas respondidas en esta página.
 
-Te recordamos que para la versión 2019, el link del formulario de inscripción con instrucciones se encuentra en este link: [a.cadcc.cl/paseo2019](a.cadcc.cl/paseo2019)
+Te recordamos que para la versión 2019, el link del formulario de inscripción con instrucciones se encuentra en este link: [https://a.cadcc.cl/paseo2019](https://a.cadcc.cl/paseo2019)
 
 Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](a.cadcc.cl/telegramdcc) o enviar un correo a paseo@cadcc.cl
 
-**Opcional: Toma cada vez que diga [Formulario de Inscripción](a.cadcc.cl/paseo2019).**
+**Opcional: Toma cada vez que diga [Formulario de Inscripción](https://a.cadcc.cl/paseo2019).**
 
 ---
 
@@ -32,9 +32,9 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 
 ## - ¿Cómo me inscribo al PaseoDCC?
 
-Para inscribirte, debes ingresar al [Formulario de Inscripción](a.cadcc.cl/paseo2019) y leer y seguir y **LEER** las instrucciones que se te darán. Por favor, evita usar apodos y **LEE** y #respeta los formatos pedidos.
+Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) y leer y seguir y **LEER** las instrucciones que se te darán. Por favor, evita usar apodos y **LEE** y #respeta los formatos pedidos.
 
-Y listo, ya puedes ir al paseomentira obvio que no. Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea de Preventa o de Primera Cuota (Más detalles abajito). El solo rellenar el [Formulario de Inscripción](a.cadcc.cl/paseo2019) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
+Y listo, ya puedes ir al paseomentira obvio que no. Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea de Preventa o de Primera Cuota (Más detalles abajito). El solo rellenar el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
 
 Además, este año se pretende instaurar un compromiso escrito de buen comportamiento y #Respeto, que tod@s l@s asistentes deberán firmar físicamente en persona. Se darán más detalles al respecto durante los próximos días.
 
@@ -44,13 +44,13 @@ Además, este año se pretende instaurar un compromiso escrito de buen comportam
 
 El PaseoDCC 2019 es abierto a toda la comunidad de estudiantes del departamento, incluyendo pregrado y posgrado. También, como en años anteriores, permitiremos el ingreso de ex-estudiantes del departamento y personas externas invitadas por estudiantes, siempre priorizando los cupos para personas del DCC.
 
-**TOD@ asistente al evento deberá haberse registrado en el [Formulario de Inscripción](a.cadcc.cl/paseo2019), sin excepciones.**
+**TOD@ asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019), sin excepciones.**
 
 ---
 
 ## - ¿Puedo llevar a mi amigui/pololi/andante/gato/etc?
 
-Sí, lo acabo de decir. Podrán ir personas **externas** al departamento, tanto beauchefian@s como alienígenas, **solo si son invitad@s explícitamente por un/a estudiante actual del departamento**. En ese caso, la persona invitada tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](a.cadcc.cl/paseo2019), indicando su calidad de persona externa. Se le preguntará el nombre de el/la estudiante que le invitó y esto será revisado posteriormente. **Cada DCCian@ será responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso firmado que aún no está escrito pero te juro que es brígido.
+Sí, lo acabo de decir. Podrán ir personas **externas** al departamento, tanto beauchefian@s como alienígenas, **solo si son invitad@s explícitamente por un/a estudiante actual del departamento**. En ese caso, la persona invitada tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](https://a.cadcc.cl/paseo2019), indicando su calidad de persona externa. Se le preguntará el nombre de el/la estudiante que le invitó y esto será revisado posteriormente. **Cada DCCian@ será responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso firmado que aún no está escrito pero te juro que es brígido.
 
 Este proceso **dictatorial y desalmado** nace de que el espíritu de nuestro PaseoDCC es que la comunidad pueda compartir entre pares, para conocernos mejor, establecer lazos y hacer rondas **tomad@s de la manito**. Se busca evitar que se aproveche este evento como carrete personal con los panas o como viaje barato a la playa _(porque puta que es barato **GRANDE CADCC**)_.
 
@@ -62,7 +62,7 @@ Si quieres llevar a tu **gato** a parrandear es más complicado, pero si tiene c
 
 ## - Me titulé pero les echo de menos uwu, ¿Puedo ir al PaseoDCC?
 
-Por supuesto, si necesitas escapar un rato de tu ajetreada vida laboral u olvidarte por unos días de las Isapres que estás cotizando, eres más que bienvenid@ a recordar tu edad del pavo con los lolos. Basta con que te inscribas en el [Formulario de Inscripción](a.cadcc.cl/paseo2019) indicando tu... condición. Se priorizarán cupos para estudiantes actuales antes que para ex-estudiantes, como se explica en la sección de Prioridad.
+Por supuesto, si necesitas escapar un rato de tu ajetreada vida laboral u olvidarte por unos días de las Isapres que estás cotizando, eres más que bienvenid@ a recordar tu edad del pavo con los lolos. Basta con que te inscribas en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) indicando tu... condición. Se priorizarán cupos para estudiantes actuales antes que para ex-estudiantes, como se explica en la sección de Prioridad.
 
 Porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no corre...
 
@@ -70,7 +70,7 @@ Porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no corre...
 
 ## - ¿Puedo ir si aún no tengo código de la carrera?
 
-Sí. Dada tu pregunta supongo que ni siquiera has abierto el [Formulario de Inscripción](a.cadcc.cl/paseo2019), pero no te preocupes, para eso estoy aquí. Al responder el [Formulario de Inscripción](a.cadcc.cl/paseo2019) e indicar que no tienes código aún, avanza a la siguiente ventanilla donde te estará esperando un instructivo precioso indicándote cómo indicarnos la indicación de que efectivamente eres mechón/a. Basta con que envíes una de las opciones. Esto se revisará manualmente, por lo que si tienes alguna situación particular excepcional extraordinaria extrema, junto con las imágenes pedidas puedes explicarnos tu situación particular excepcional extraordinaria extrema.
+Sí. Dada tu pregunta supongo que ni siquiera has abierto el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019), pero no te preocupes, para eso estoy aquí. Al responder el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) e indicar que no tienes código aún, avanza a la siguiente ventanilla donde te estará esperando un instructivo precioso indicándote cómo indicarnos la indicación de que efectivamente eres mechón/a. Basta con que envíes una de las opciones. Esto se revisará manualmente, por lo que si tienes alguna situación particular excepcional extraordinaria extrema, junto con las imágenes pedidas puedes explicarnos tu situación particular excepcional extraordinaria extrema.
 
 Si photoshopeas las pruebas serás car'e caca **durante todo el paseo**.
 
@@ -104,7 +104,7 @@ La prioridad de cupos para este año contempla los siguientes grupos en orden de
 * El gato.
 * El gato sin chip.
 
-Dentro de cada grupo, la prioridad se regirá por **orden de inscripción**, reiterando que la inscripción se completa al llenar el [Formulario de Inscripción](a.cadcc.cl/paseo2019) y **realizar el primer pago**. El [Formulario de Inscripción](a.cadcc.cl/paseo2019) por sí solo no cuenta como inscripción.
+Dentro de cada grupo, la prioridad se regirá por **orden de inscripción**, reiterando que la inscripción se completa al llenar el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) y **realizar el primer pago**. El [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) por sí solo no cuenta como inscripción.
 
 ---
 
