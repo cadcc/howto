@@ -44,7 +44,9 @@ Para cambiar de código debes ir a U-Campus → Workflow → Cambio de Carrera. 
 
 ## ¿Cómo activo mi TUI y cuenta para entrar al DCC?
 
-Debes ir a hablar con Hernán a la oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851. Tienes que haber cambiado de código y haber leído el [FAQ y Normas de Uso](https://www.dcc.uchile.cl/node/252), ya que te harán preguntas antes de la activación.
+Debes ir a hablar con Hernán a la oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851. Tienes que haber cambiado de código.
+
+Para activar la TUI basta con tener el código. Para activar la cuenta debes haber leído el [FAQ y Normas de Uso](https://www.dcc.uchile.cl/node/252), ya que te harán preguntas antes de la activación.
 
 ---
 
