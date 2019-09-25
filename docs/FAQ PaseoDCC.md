@@ -156,6 +156,8 @@ El sistema clásico de dividir el valor total en dos cómodas cuotas para suaviz
 
 * Segunda cuota: $15.000. Del **lunes 30 de septiembre** al **Domingo 20 de octubre**.
 
+En caso de no pagar la primera cuota dentro de su plazo, se podrá pagar junto con la segunda, a cambio de quedar con menor prioridad que los que sí pagaron en el plazo. 
+
 ---
 
 ## - ¿A quién tengo que pagarle?
