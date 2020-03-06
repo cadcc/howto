@@ -7,85 +7,85 @@ En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ram
 ## Apodos de ramos
 
 - **CC3001 Algoritmos y Estructuras de Datos**
-  - Algoritmos
+    - Algoritmos
 
 - **CC3101 Matemáticas Discretas para la Computación**
-  - Discretas
+    - Discretas
 
 - **CC3002 Metodologías de Diseño y Programación**
-  - Metodologías
+    - Metodologías
   
 - **CC3102 Teoría de la Computación**
-  - Teoría
-  - Teocompu // *Porfa nunca le digan así*
+    - Teoría
+    - Teocompu // *Porfa nunca le digan así*
 
 - **CC3201 Bases de Datos**
-  - BD
-  - BDD
-  - Batos // *B + Datos*
+    - BD
+    - BDD
+    - Batos // *B + Datos*
   
 - **CC3501 Modelación y Computación Gráfica para Ingenieros**
-  - [Computa] Gráfica
+    - [Computa] Gráfica
 
 - **CC3301 Programación de Software de Sistemas**
-  - PSS
-  - Progra [de Software]
-  - Software
-  - Mateu 1 // *Históricamente el profe Mateu siempre dicta el ramo, y más adelante dicta otro muy parecido*
+    - PSS
+    - Progra [de Software]
+    - Software
+    - Mateu 1 // *Históricamente el profe Mateu siempre dicta el ramo, y más adelante dicta otro muy parecido*
 
 - **CC4101 Lenguajes de Programación**
-  - Lenguajes
-  - Lenguaje y Comunicación
+    - Lenguajes
+    - Lenguaje y Comunicación
 
 - **CC4301 Arquitectura de Computadores**
-  - Arqui
-  - Mateu 1.5 // *Mateu también suele dictar este ramo pero no es tan parecido a PSS como para ser Mateu 2*
+    - Arqui
+    - Mateu 1.5 // *Mateu también suele dictar este ramo pero no es tan parecido a PSS como para ser Mateu 2*
 
 - **CC4401 Ingeniería de Software**
-  - Ingeniería [1]
+    - Ingeniería [1]
 
 - **CC4102 Diseño y Análisis de Algoritmos**
-  - Logaritmos // *Aparece mucho la función logaritmo y sirve para diferenciarlo del Algoritmos de primer semestre.
+    - Logaritmos // *Aparece mucho la función logaritmo y sirve para diferenciarlo del Algoritmos de primer semestre.
 
 - **CC4302 Sistemas Operativos**
-  - SOS
-  - SOSito
-  - Mateu 2
+    - SOS
+    - SOSito
+    - Mateu 2
   
 - **CC5401 Ingeniería de Software II**
-  - Ingeniería 2
+    - Ingeniería 2
 
 - **CC5402 Proyecto de Software**
-  - Proyecto
+    - Proyecto
 
 - **CC5101 Análisis Avanzado de Algoritmos**
-  - AAA
-  - Pilas // *Porque pila triple A hehehe*
+    - AAA
+    - Pilas // *Porque pila triple A hehehe*
 
 - **CC5212 Procesamiento Masivo de Datos**
-  - Patos // *P + Datos*
+    - Patos // *P + Datos*
   
 - **CC5304 Arquitectura de Sistemas de Alta Disponibilidad**
-  - Alta disponibilidad
-  - Alta facilidad // *👀*
+    - Alta disponibilidad
+    - Alta facilidad // *👀*
   
 - **CC5601 Preparación y Evaluación de Proyectos TI**
-  - Evalua TI
+    - Evalua TI
   
 - **CC5613 Taller de Comunicación Efectiva: Caso Práctico de Lanzamiento de Producto**
-  - Steve Jobs // *Se basa en un libro sobre las técnicas de presentación de productos que usaba Steve Jobs.*
+    - Steve Jobs // *Se basa en un libro sobre las técnicas de presentación de productos que usaba Steve Jobs.*
 
 - **CC6205 Procesamiento de Lenguaje Natural**
-  - PLN
+    - PLN
 
 - **CC6908 Introducción al Trabajo de Título**
-  - El E // *Antiguamente su código era CC69E*
+    - El E // *Antiguamente su código era CC69E*
 
 - **CC6909 Trabajo de Título**
-  - El F // *Antiguamente su código era CC69F*
+    - El F // *Antiguamente su código era CC69F*
 
 - **CC7220 La Web de Datos**
-  - Watos // *W + Datos*
+    - Watos // *W + Datos*
 
 ## Jerga interna y tallas malas
 
