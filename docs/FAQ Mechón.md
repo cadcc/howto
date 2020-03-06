@@ -1,6 +1,6 @@
 # FAQ Mechón
 
-¡Hola, querido/a mechon/a! Bienvenido/a al DCC. En esta página intentaremos responder las principales dudas y preguntas que te puedan estar surgiendo en este nuevo comienzo académico, como por ejemplo: ¿Qué debo hacer ahora que soy DCC?, ¿Debo ser otaku para que me acepten?, ¿Cuál es el verdadero nombre de Chayanne? ¡Sigue leyendo para responder tus inquietudes!
+¡Hola, querido/a mechón/a! Bienvenido/a al DCC. En esta página intentaremos responder las principales dudas y preguntas que te puedan estar surgiendo en este nuevo comienzo académico, como por ejemplo: ¿Qué debo hacer ahora que soy DCC?, ¿Debo ser otaku para que me acepten?, ¿Cuál es el verdadero nombre de Chayanne? ¡Sigue leyendo para responder tus inquietudes!
 
 Como consejo inicial, te recomendamos unirte al [Chat principal](https://t.me/joinchat/CCI8ekIqFvhpatb3lJ5kKw), donde además de resolver tus dudas con compañeres (pseudo)humanos reales, podrás comenzar a conocer a la comunidad.
 
