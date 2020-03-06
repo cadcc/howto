@@ -8,6 +8,7 @@ En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ram
 
 - **CC3001 Algoritmos y Estructuras de Datos**
     - Algoritmos
+    
 
 - **CC3101 Matemáticas Discretas para la Computación**
     - Discretas
