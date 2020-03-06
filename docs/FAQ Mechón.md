@@ -8,11 +8,11 @@ Revisa también las secciones de [Lugares Importantes](https://faq.cadcc.cl/es/l
 
 ---
 
-Comunidad y cultura DCC
-=======================
+# Comunidad y cultura DCC
 
-¿Qué es la Salita?
-------------------
+---
+
+## - ¿Qué es la Salita?
 
 Es una sala de convivencia estudiantil que queda en el tercer piso del Edificio Norte de Beauchef 851 (Oficinas 333 y 334). Hay un refri, mesitas, tacitas, servicios, té y café para tomar desayunito u oncesita, y cubiertos para almorzar; hay sillones para sentarse o dormir; y consolas para jugar y distraerse un rato.
 
