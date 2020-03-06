@@ -1,6 +1,6 @@
 # DCCionario
 
-*El diccionario DCC... ¿Cómo se pronuncia DCCionario? Nunca lo sabremos.*
+*El diccionario DCC... ¿Cómo se pronuncia DCCionario? No tengo idea.*
 
 En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ramos, tallas fomes y cualquier terminología de la comunidad para que sea preservada en el tiempo, también como registro histórico.
 
