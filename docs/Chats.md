@@ -2,13 +2,17 @@
 
 Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay muchos chats de [Telegram](https://telegram.org/) (académicos como no académicos) a los que puedes unirte y conversar.
 
+Si conoces un chat que no está acá, o si hay algún link roto, habla por Telegram con Cisneros ([@TaniaBess](http://t.me/TaniaBess)).
+
+¿No hay un chat con el tema que buscas? ¡Pregunta si hay interés en el chat principal y créalo tu mism@!
+
+##Chats generales
+
 [Chat principal](https://t.me/joinchat/CCI8ekIqFvhpatb3lJ5kKw): En este chat está prácticamente toda la comunidad del departamento. Puedes hablar de cualquier tema acá, aunque probablemente hayan tantos mensajes que no alcances a leerlos.
 
 [Chat mechones 2020](https://t.me/joinchat/H1ynuhvX5DTQKEjWRwZmFg): Creado por les mismes mechones, este puede ser tu punto de partida para conocer gente igual de nueva y perdida que tú.
 
-Si conoces un chat que no está acá, o si hay algún link roto, habla por Telegram con Cisneros ([@TaniaBess](http://t.me/TaniaBess)).
-
-¿No hay un chat con el tema que buscas? ¡Pregunta si hay interés en el chat principal y créalo tu mism@!
+Chat DCCianas: Pregunta por el chat principal o a alguna compañera viejona para unirte.
 
 ##Chats temporales y de eventos
 
@@ -18,7 +22,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 
 ##Chats no académicos
 
-Nota: Algunos de estos chats pueden llevar tiempo inactivos, ¡pero siempre puedes entrar a revivir la conversación!.
+Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes entrar a revivir la conversación!.
 
 ###Chats de series y programas
 - [Game of Thrones](https://telegram.me/joinchat/AOCFDQisHhZsSpFY_OEQLw)
@@ -26,8 +30,7 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos, ¡pero siempre pued
 - [Anime](https://t.me/joinchat/B6QJcwrBlHKAs8sldrJfyA)
 - [JoJo's](https://t.me/joinchat/B8ml6gk9iqM9QiednPzwhw)
 - [Black Mirror](https://t.me/joinchat/A0MT3ksnL3JIX12ZIMv8Dg)
-- [DragCC](https://t.me/joinchat/B5P3Bg-JtHUxrL2RKyNKOw): RuPaul y the Switch
-- [DCC BakeOff](https://t.me/joinchat/B6QJcxKaGg5cucRHZ6luFg)
+- [DragCC: RuPaul, The Switch y drag en general](https://t.me/joinchat/B5P3Bg-JtHUxrL2RKyNKOw)
 
 ###Chats de juegos
 - [Hearthstone](https://t.me/joinchat/BrXxiwyf6xcSdqqyiS6kEA) 
