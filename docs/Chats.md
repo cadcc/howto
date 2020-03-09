@@ -6,7 +6,8 @@ Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay mu
 
 [Chat mechones 2020](https://t.me/joinchat/H1ynuhvX5DTQKEjWRwZmFg): Creado por les mismes mechones, este puede ser tu punto de partida para conocer gente igual de nueva y perdida que tú.
 
-Si conoces un chat que no está acá, o si hay algún link roto, habla por Telegram con Cisneros ([@TaniaBess](http://t.me/TaniaBess))
+Si conoces un chat que no está acá, o si hay algún link roto, habla por Telegram con Cisneros ([@TaniaBess](http://t.me/TaniaBess)).
+
 ¿No hay un chat con el tema que buscas? ¡Pregunta si hay interés en el chat principal y créalo tu mism@!
 
 ##Chats temporales y de eventos
