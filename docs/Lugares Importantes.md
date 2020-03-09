@@ -94,12 +94,12 @@
 }
 
 .oficina_importante {
-    color: #ed347f;
+    color: #ff708a;
     fill: currentColor;
 }
 
 .objeto_sala:hover .oficina_importante {
-    fill: #ff708a;
+    fill: #a6afb5;
 }
 
 .posgrado {
