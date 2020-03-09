@@ -72,6 +72,34 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 
 ##Chats académicos (Semestre 2020-1)
 
-¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? ¡Únete al chat del ramo! Si no existe, créalo y avisa por el chat general o a nosotres.
+¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? ¡Únete al chat del ramo! Si no existe, créalo y avisa por el chat general o al CADCC con este form https://forms.gle/uU7mKXpfq9FQLcoY6
 
-(En proceso...)
+Recomendación: Intenten reutilizar los chats de semestres anteriores, sobre todo si tienen material. Para ello procuren activar que usuarios nuevos puedan ver mensajes antiguos, y designen admins antes de que el/la creador/a se salga del chat (si no queda perdido en el limbo).
+
+### Primer semestre
+
+-
+
+### Segundo semestre
+
+-
+
+### Tercer semestre
+
+-
+
+### Cuarto semestre
+
+-
+
+### Quinto semestre
+
+-
+
+### Sexto semestre
+
+-
+
+### Electivos
+
+-
