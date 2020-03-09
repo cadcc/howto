@@ -306,6 +306,16 @@ var datos_banho_1 = [
 			{x: width/160, y: 0}
 			];
 
+var banho_1_fondo = group.append("g")
+		.attr("transform", "translate(" + width*8/20 + "," + (height/430*165 - height*12/86)  + ")")
+
+banho_1_fondo.selectAll("path")
+		.data([datos_banho_1_fondo])
+		.enter()
+		.append("path")
+		.attr("d", line)
+		.attr("class", "otros");
+
 var banho_1 = group.append("g")
 		.attr("transform", "translate(" + width*8/20 + "," + (height/430*165 - height*12/86)  + ")")
 		.attr("class", "objeto_sala");
