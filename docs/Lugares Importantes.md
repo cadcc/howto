@@ -129,10 +129,10 @@ svg text {
 <ul id="legend">
     <li><span class="convivencia">●</span> Espacios comunitarios</li>
     <li><span class="sala_de_estudio">●</span> Zonas de estudio</li>
-    <li><span class="auditorio">●</span> Auditorios / Salas de reunión</li>
     <li><span class="oficina_profe">●</span> Oficinas profesores</li>
     <li><span class="oficina_admin">●</span> Oficinas administrativas</li>
     <li><span class="oficina_importante">●</span> Oficinas importantes para estudiantes</li>
+    <li><span class="auditorio">●</span> Auditorios / Salas de reunión</li>
     <li><span class="posgrado">●</span> Posgrado</li>
     <li><span class="otros">●</span> Servicios y otros</li>
 </ul>
