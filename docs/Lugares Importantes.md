@@ -1,5 +1,14 @@
 <script src="https://d3js.org/d3.v3.min.js"></script>
 
+<div id="legend">
+<span class="convivencia">●</span> Espacios de estudiantes
+● Auditorios / Salas de reunión
+● Oficinas profesores
+● Oficinas administrativas
+● Oficinas importantes para estudiantes
+● Posgrados y otros laboratorios
+</div>
+
 # Tercer Piso Edificio Norte
 
 <div id="mapa_old_dcc">
@@ -54,13 +63,13 @@
 .oficina {
     stroke: #dddddd;
     stroke-width: 1;
-    fill: #2b73a0;
+    fill: #c2c8cc;
 }
 
 .objeto_sala:hover .oficina {
     stroke: #dddddd;
     stroke-width: 0.5;
-    fill: #185982;
+    fill: #a6afb5;
 }
 
 .otros {
