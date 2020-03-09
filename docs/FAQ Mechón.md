@@ -126,7 +126,7 @@ Además de las anteriores, los espacios abiertos y mesas del Edificio Poniente s
 
 El Lab. Lorenzo, frente a la Salita, también es de uso libre para estudiantes **siempre y cuando no haya clases**. Para entrar necesitarás tener tu TUI habilitada.
 
-Igualmente y si no necesitas mucha concentración puedes estudiar en la Salita o en la Ofisalita, pero recuerda que la Salita no es un lugar de estudio, si hay mucha gente prioriza ese espacio para la distensión comunitaria.
+Igualmente y si no necesitas mucha concentración puedes estudiar en la Salita o en la Ofisalita, pero no olvides que la Salita no es un lugar de estudio, si hay mucha gente prioriza ese espacio para la distensión comunitaria.
 
 Recuerda visitar la sección de [Lugares Importantes](https://faq.cadcc.cl/es/latest/Lugares%20Importantes/) para encontrar cada sitio.
 
