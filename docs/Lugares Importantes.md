@@ -49,29 +49,25 @@
 }
 
 .convivencia {
-    color: #2c5aa1;
+    color: #6693d6;
     fill: currentColor;
 }
 
-.convivencia ~ text {
-    fill: white;
-}
-
 .objeto_sala:hover .convivencia {
-    fill: #77adce;
+    fill: #a6afb5;
 }
 
 .sala_de_estudio {
-    color: #00ac9f;
+    color: #31c4b0;
     fill: currentColor;
 }
 
 .objeto_sala:hover .sala_de_estudio {
-    fill: #66b1e2;
+    fill: #a6afb5;
 }
 
 .auditorio {
-    color: #fdd81b;
+    color: #f8df7c;
     fill: currentColor;
 }
 
@@ -107,12 +103,12 @@
 }
 
 .posgrado {
-    color: #50a1d3;
+    color: #e7bcda;
     fill: currentColor;
 }
 
 .objeto_sala:hover .posgrado {
-    fill: #408dbc;
+    fill: #a6afb5;
 }
 
 .otros {
@@ -121,7 +117,7 @@
 }
 
 .objeto_sala:hover .otros {
-    fill: #408dbc;
+    fill: #a6afb5;
 }
 
 svg text {
