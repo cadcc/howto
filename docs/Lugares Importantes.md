@@ -31,9 +31,9 @@
 
 .objeto_sala text {
     text-anchor: middle;
-	alignment-baseline: middle;
-	font-weight: normal;
-	font-family: Helvetica;
+    alignment-baseline: middle;
+    font-weight: normal;
+    font-family: Helvetica;
 }
 
 .objeto_sala:hover text {
@@ -44,107 +44,79 @@
     color: white;
 }
 
+.convivencia {
+    color: #2c5aa1;
+    fill: currentColor;
+}
+
+.convivencia text {
+    fill: white;
+}
+
+.objeto_sala:hover .convivencia {
+    fill: #77adce;
+}
+
 .sala_de_estudio {
-    stroke: #dddddd;
-    stroke-width: 1;
     color: #00ac9f;
     fill: currentColor;
 }
 
 .objeto_sala:hover .sala_de_estudio {
-    stroke: #dddddd;
-    stroke-width: 0.5;
     fill: #66b1e2;
 }
 
 .auditorio {
-    stroke: #dddddd;
-    stroke-width: 1;
     color: #fdd81b;
     fill: currentColor;
 }
 
 .objeto_sala:hover .auditorio {
-    stroke: #dddddd;
-    stroke-width: 0.5;
     fill: #a6afb5;
 }
 
-.convivencia {
-    stroke: #dddddd;
-    stroke-width: 1;
-    color: #2c5aa1;
-    fill: currentColor;
-}
-
-.objeto_sala:hover .convivencia {
-    stroke: #dddddd;
-    stroke-width: 0.5;
-    fill: #77adce;
-}
-
 .oficina_admin {
-    stroke: #dddddd;
-    stroke-width: 1;
     color: #c2d1c7;
     fill: currentColor;
 }
 
 .objeto_sala:hover .oficina_admin {
-    stroke: #dddddd;
-    stroke-width: 0.5;
     fill: #a6afb5;
 }
 
 .oficina_profe {
-    stroke: #dddddd;
-    stroke-width: 1;
     color: #a6b7d9;
     fill: currentColor;
 }
 
 .objeto_sala:hover .oficina_profe {
-    stroke: #dddddd;
-    stroke-width: 0.5;
     fill: #a6afb5;
 }
 
 .oficina_importante {
-    stroke: #dddddd;
-    stroke-width: 1;
     color: #ed347f;
     fill: currentColor;
 }
 
 .objeto_sala:hover .oficina_importante {
-    stroke: #dddddd;
-    stroke-width: 0.5;
     fill: #a6afb5;
 }
 
 .posgrado {
-    stroke: #dddddd;
-    stroke-width: 1;
     color: #50a1d3;
     fill: currentColor;
 }
 
 .objeto_sala:hover .posgrado {
-    stroke: #dddddd;
-    stroke-width: 0.5;
     fill: #408dbc;
 }
 
 .otros {
-    stroke: #dddddd;
-    stroke-width: 1;
     color: #d0d3dd;
     fill: currentColor;
 }
 
 .objeto_sala:hover .otros {
-    stroke: #dddddd;
-    stroke-width: 0.5;
     fill: #408dbc;
 }
 
