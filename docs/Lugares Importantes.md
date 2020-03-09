@@ -26,7 +26,7 @@
 .piso {
      stroke: #cccccc;
      stroke-width: 1;
-     fill: #cfebf7;
+     fill: #e4e4f2;
 }
 
 .objeto_sala text {
@@ -47,7 +47,7 @@
 .sala_de_estudio {
     stroke: #dddddd;
     stroke-width: 1;
-    color: #6fbced;
+    color: #00ac9f;
     fill: currentColor;
 }
 
@@ -60,7 +60,7 @@
 .auditorio {
     stroke: #dddddd;
     stroke-width: 1;
-    color: #c2c8cc;
+    color: #fdd81b;
     fill: currentColor;
 }
 
@@ -73,7 +73,7 @@
 .convivencia {
     stroke: #dddddd;
     stroke-width: 1;
-    color: #8cc2e3;
+    color: #2c5aa1;
     fill: currentColor;
 }
 
@@ -86,7 +86,7 @@
 .oficina_admin {
     stroke: #dddddd;
     stroke-width: 1;
-    color: #c2c8cc;
+    color: #c2d1c7;
     fill: currentColor;
 }
 
@@ -99,7 +99,7 @@
 .oficina_profe {
     stroke: #dddddd;
     stroke-width: 1;
-    color: #c2c8cc;
+    color: #a6b7d9;
     fill: currentColor;
 }
 
@@ -112,7 +112,7 @@
 .oficina_importante {
     stroke: #dddddd;
     stroke-width: 1;
-    color: #c2c8cc;
+    color: #ed347f;
     fill: currentColor;
 }
 
@@ -138,7 +138,7 @@
 .otros {
     stroke: #dddddd;
     stroke-width: 1;
-    color: #50a1d3;
+    color: #d0d3dd;
     fill: currentColor;
 }
 
