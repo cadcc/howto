@@ -13,6 +13,8 @@
     align-items: center;
     width: 50%;
     margin-left: 0;
+    margin-bottom: 0.3em;
+    line-height: 1.1;
 }
 
 #legend li span {
