@@ -1,20 +1,10 @@
 <script src="https://d3js.org/d3.v3.min.js"></script>
 
-<div id="legend">
-<span class="convivencia">●</span> Espacios comunitarios
-<span class="sala_de_estudio">●</span> Zonas de estudio
-<span class="auditorio">●</span> Auditorios / Salas de reunión
-<span class="oficina_profe">●</span> Oficinas profesores
-<span class="oficina_admin">●</span> Oficinas administrativas
-<span class="oficina_importante">●</span> Oficinas importantes para estudiantes
-<span class="posgrado">●</span> Posgrados y otros
-</div>
-
-# Tercer Piso Edificio Norte
-
-<div id="mapa_old_dcc">
-
 <style>
+
+#legend {
+    list-style-type:none
+}
 
 .piso {
      stroke: #cccccc;
@@ -94,6 +84,20 @@ svg text {
 }
 
 </style>
+
+<ul id="legend">
+    <li><span class="convivencia">●</span> Espacios comunitarios</li>
+    <li><span class="sala_de_estudio">●</span> Zonas de estudio</li>
+    <li><span class="auditorio">●</span> Auditorios / Salas de reunión</li>
+    <li><span class="oficina_profe">●</span> Oficinas profesores</li>
+    <li><span class="oficina_admin">●</span> Oficinas administrativas</li>
+    <li><span class="oficina_importante">●</span> Oficinas importantes para estudiantes</li>
+    <li><span class="posgrado">●</span> Posgrados y otros</li>
+</ul>
+
+# Tercer Piso Edificio Norte
+
+<div id="mapa_old_dcc">
 
 <script>
 
