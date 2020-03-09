@@ -57,6 +57,19 @@
     fill: #66b1e2;
 }
 
+.auditorio {
+    stroke: #dddddd;
+    stroke-width: 1;
+    color: #c2c8cc;
+    fill: currentColor;
+}
+
+.objeto_sala:hover .auditorio {
+    stroke: #dddddd;
+    stroke-width: 0.5;
+    fill: #a6afb5;
+}
+
 .convivencia {
     stroke: #dddddd;
     stroke-width: 1;
@@ -70,17 +83,56 @@
     fill: #77adce;
 }
 
-.oficina {
+.oficina_admin {
     stroke: #dddddd;
     stroke-width: 1;
     color: #c2c8cc;
     fill: currentColor;
 }
 
-.objeto_sala:hover .oficina {
+.objeto_sala:hover .oficina_admin {
     stroke: #dddddd;
     stroke-width: 0.5;
     fill: #a6afb5;
+}
+
+.oficina_profe {
+    stroke: #dddddd;
+    stroke-width: 1;
+    color: #c2c8cc;
+    fill: currentColor;
+}
+
+.objeto_sala:hover .oficina_profe {
+    stroke: #dddddd;
+    stroke-width: 0.5;
+    fill: #a6afb5;
+}
+
+.oficina_importante {
+    stroke: #dddddd;
+    stroke-width: 1;
+    color: #c2c8cc;
+    fill: currentColor;
+}
+
+.objeto_sala:hover .oficina_importante {
+    stroke: #dddddd;
+    stroke-width: 0.5;
+    fill: #a6afb5;
+}
+
+.posgrado {
+    stroke: #dddddd;
+    stroke-width: 1;
+    color: #50a1d3;
+    fill: currentColor;
+}
+
+.objeto_sala:hover .posgrado {
+    stroke: #dddddd;
+    stroke-width: 0.5;
+    fill: #408dbc;
 }
 
 .otros {
@@ -109,7 +161,8 @@ svg text {
     <li><span class="oficina_profe">●</span> Oficinas profesores</li>
     <li><span class="oficina_admin">●</span> Oficinas administrativas</li>
     <li><span class="oficina_importante">●</span> Oficinas importantes para estudiantes</li>
-    <li><span class="posgrado">●</span> Posgrados y otros</li>
+    <li><span class="posgrado">●</span> Posgrado</li>
+    <li><span class="otros">●</span> Servicios y otros</li>
 </ul>
 
 # Tercer Piso Edificio Norte
@@ -196,7 +249,7 @@ lab_dichato.selectAll("path")
 						.enter()
 						.append("path")
 						.attr("d", line)
-						.attr("class", "otros");
+						.attr("class", "posgrado");
 
 if (width >= 650){
 	lab_dichato.append("text")
@@ -222,7 +275,7 @@ sala_fundadores.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "auditorio");
 
 if (width >= 650){
 	sala_fundadores.append("text")
@@ -252,7 +305,7 @@ sala_al_lado_fundadores.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "auditorio");
 
 if (width >= 650){
 	sala_al_lado_fundadores.append("text")
@@ -261,7 +314,7 @@ if (width >= 650){
 
 sala_al_lado_fundadores.append("text")
 		.attr("transform", "translate(" + width*135/2000 + "," + height*10/43  + ")")
-		.text("Reuniones 2");			
+		.text("Reuniones");			
 }		
 		
 //Banho 1		
@@ -427,7 +480,7 @@ picarte.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "auditorio");
 
 if (width >= 650){
 	picarte.append("text")
@@ -509,7 +562,7 @@ direccion_departamento.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "oficina");
+			.attr("class", "oficina_admin");
 
 if (width >= 650){
 	direccion_departamento.append("text")
@@ -536,7 +589,7 @@ for(i = 4; i < 9; i++){
 						.enter()
 						.append("path")
 						.attr("d", line)
-						.attr("class", "oficina");
+						.attr("class", "oficina_admin");
 				
 	if (width >= 650){
 		sala_misteriosa.append("text")
@@ -563,7 +616,7 @@ var datos_sec_pec = [
 				.enter()
 				.append("path")
 				.attr("d", line)
-				.attr("class", "oficina");
+				.attr("class", "oficina_admin");
 				
 	if (width >= 650){
 		sala_sec_pec.append("text")
@@ -594,7 +647,7 @@ var datos_jefe_pec = [
 				.enter()
 				.append("path")
 				.attr("d", line)
-				.attr("class", "oficina");
+				.attr("class", "oficina_admin");
 				
 	if (width >= 650){
 		sala_jefe_pec.append("text")
@@ -621,7 +674,7 @@ for(i = 11; i < 14; i++){
 						.enter()
 						.append("path")
 						.attr("d", line)
-						.attr("class", "oficina");
+						.attr("class", "oficina_admin");
 				
 	if (width >= 650){
 		sala_misteriosa.append("text")
@@ -649,7 +702,7 @@ for(i = 2; i < 18; i++){
 						.enter()
 						.append("path")
 						.attr("d", line)
-						.attr("class", "oficina");
+						.attr("class", "oficina_profe");
 				
 	if (width >= 650){
 		sala_misteriosa.append("text")
@@ -718,7 +771,7 @@ lab_toqui.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "sala_de_estudio");
 
 if (width >= 650){
 	lab_toqui.append("text")
@@ -748,7 +801,7 @@ impresora.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "otros");
 			
 if (width >= 650){
 	impresora.append("text")
@@ -774,7 +827,7 @@ pieza_aseo.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "oficina_admin");
 			
 if (width >= 650){		
 	pieza_aseo.append("text")
@@ -800,7 +853,7 @@ jefa_estudios.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "oficina_importante");
 			
 if (width >= 650){
 	jefa_estudios.append("text")
@@ -830,7 +883,7 @@ secretaria_docente.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "oficina_importante");
 			
 if (width >= 650){
 	secretaria_docente.append("text")
@@ -860,7 +913,7 @@ for(i = 1; i < 15; i++){
 						.enter()
 						.append("path")
 						.attr("d", line)
-						.attr("class", "oficina");
+						.attr("class", "oficina_profe");
 				
 	if (width >= 650){
 		sala_misteriosa.append("text")
@@ -886,7 +939,7 @@ sala_reuniones.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "auditorio");
 			
 if (width >= 650){
 	sala_reuniones.append("text")
@@ -912,7 +965,7 @@ cocina.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "otros");
 			
 if (width >= 650){
 	cocina.append("text")
@@ -977,7 +1030,7 @@ lab_eniac.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "sala_de_estudio");
 
 if (width >= 650){				
 	lab_eniac.append("text")
@@ -1007,7 +1060,7 @@ lab_colossus.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "posgrado");
 
 if (width >= 650){				
 	lab_colossus.append("text")
@@ -1037,7 +1090,7 @@ aud_flajolet.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "auditorio");
 
 if (width >= 650){
 	aud_flajolet.append("text")
@@ -1075,7 +1128,7 @@ lab_anakena.selectAll("path")
 			.enter()
 			.append("path")
 			.attr("d", line)
-			.attr("class", "otros");
+			.attr("class", "posgrado");
 
 if (width >= 650){				
 	lab_anakena.append("text")
@@ -1105,7 +1158,7 @@ impresora.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "otros");
 			
 if (width >= 650){
 	impresora.append("text")
@@ -1131,7 +1184,7 @@ ada_lovelace.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "auditorio");
 			
 if (width >= 650){
 	ada_lovelace.append("text")
@@ -1165,7 +1218,7 @@ grace_hopper.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "auditorio");
 			
 if (width >= 650){
 	grace_hopper.append("text")
@@ -1199,7 +1252,7 @@ for(i = 1; i < 15; i++){
 						.enter()
 						.append("path")
 						.attr("d", line)
-						.attr("class", "oficina");
+						.attr("class", "oficina_profe");
 				
 	if (width >= 650){
 		sala_misteriosa.append("text")
@@ -1225,7 +1278,7 @@ sistemas.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "oficina_importante");
 			
 if (width >= 650){
 	sistemas.append("text")
@@ -1251,7 +1304,7 @@ cocina.selectAll("path")
 					.enter()
 					.append("path")
 					.attr("d", line)
-					.attr("class", "oficina");
+					.attr("class", "otros");
 			
 if (width >= 650){
 	cocina.append("text")
