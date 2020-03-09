@@ -1,10 +1,13 @@
 #Chats DCC
 
-Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay muchos chats de [Telegram](https://telegram.org/) (académicos como no académicos), a los que puedes unirte y conversar.
+Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay muchos chats de [Telegram](https://telegram.org/) (académicos como no académicos) a los que puedes unirte y conversar.
 
 [Chat principal](https://t.me/joinchat/CCI8ekIqFvhpatb3lJ5kKw): En este chat está prácticamente toda la comunidad del departamento. Puedes hablar de cualquier tema acá, aunque probablemente hayan tantos mensajes que no alcances a leerlos.
 
-Si conoces un chat que no está acá, habla por telegram con [@ChechoL](http://t.me/ChechoL)
+[Chat mechones 2020](https://t.me/joinchat/H1ynuhvX5DTQKEjWRwZmFg): Creado por les mismes mechones, este puede ser tu punto de partida para conocer gente igual de nueva y perdida que tú.
+
+Si conoces un chat que no está acá, o si hay algún link roto, habla por Telegram con Cisneros ([@TaniaBess](http://t.me/TaniaBess))
+¿No hay un chat con el tema que buscas? ¡Pregunta si hay interés en el chat principal y créalo tu mism@!
 
 ##Chats temporales y de eventos
 
@@ -13,6 +16,8 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - 
 
 ##Chats no académicos
+
+Nota: Algunos de estos chats pueden llevar tiempo inactivos, ¡pero siempre puedes entrar a revivir la conversación!.
 
 ###Chats de series y programas
 - [Game of Thrones](https://telegram.me/joinchat/AOCFDQisHhZsSpFY_OEQLw)
@@ -47,6 +52,7 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [Ofertas](https://t.me/joinchat/AEMcAlC5WkOJaYrvQVYGoQ)
 - [La Ruta del Café](https://t.me/joinchat/CT8s0EH-5Rt2cVtEnXT1oA)
 - [Seguridad Informática](https://t.me/joinchat/AEMcAkfCKtc1juLWks588A)
+- [Linux DCC](https://t.me/joinchat/AEMcAkYuk9VstfcbLLpWMg)
 - [DECTalk DCC](https://t.me/joinchat/AEMcAkz4GkJc3Yrn8NllfA)
 - [Nintendo Switch](https://t.me/joinchat/CCI8ekuY_WaSD8AVM7Q9sQ)
 - [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
@@ -60,14 +66,8 @@ Estos chats son para ayudar a organizar algo en específico, o por un evento que
 - [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
 - [Museo CaDCC](https://t.me/joinchat/AAAAAFVMb44Y4X-NS36gIQ)
 
-##Chats académicos (Semestre 2019-1)
+##Chats académicos (Semestre 2020-1)
 
-¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? ¡Únete al chat del ramo! Si no existe, créalo y avisa por el chat general o a nosotros.
+¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? ¡Únete al chat del ramo! Si no existe, créalo y avisa por el chat general o a nosotres.
 
-###Tercer Semestre
-
-- [Arquitectura de Computadores](https://t.me/joinchat/G0DbZBKCyrCAdAs7Uiaihw)
-
-###Electivos
-
-- [Procesamiento Masivo de Datos ('Patos')](https://t.me/joinchat/FltB4xRISBikVjYLS-kRhg)
+(En proceso...)
