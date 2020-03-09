@@ -24,9 +24,13 @@
 }
 
 .piso {
-     stroke: #cccccc;
-     stroke-width: 1;
+     stroke: #1f1954;
+     stroke-width: 2;
      fill: #e4e4f2;
+}
+
+.objeto_sala path {
+    stroke: #1f1954;
 }
 
 .objeto_sala text {
