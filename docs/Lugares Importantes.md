@@ -1,12 +1,13 @@
 <script src="https://d3js.org/d3.v3.min.js"></script>
 
 <div id="legend">
-<span class="convivencia">●</span> Espacios de estudiantes
-● Auditorios / Salas de reunión
-● Oficinas profesores
-● Oficinas administrativas
-● Oficinas importantes para estudiantes
-● Posgrados y otros laboratorios
+<span class="convivencia">●</span> Espacios comunitarios
+<span class="sala_de_estudio">●</span> Zonas de estudio
+<span class="auditorio">●</span> Auditorios / Salas de reunión
+<span class="oficina_profe">●</span> Oficinas profesores
+<span class="oficina_admin">●</span> Oficinas administrativas
+<span class="oficina_importante">●</span> Oficinas importantes para estudiantes
+<span class="posgrado">●</span> Posgrados y otros
 </div>
 
 # Tercer Piso Edificio Norte
@@ -39,7 +40,8 @@
 .sala_de_estudio {
     stroke: #dddddd;
     stroke-width: 1;
-    fill: #6fbced;
+    color: #6fbced;
+    fill: currentColor;
 }
 
 .objeto_sala:hover .sala_de_estudio {
@@ -49,9 +51,10 @@
 }
 
 .convivencia {
-	stroke: #dddddd;
+    stroke: #dddddd;
     stroke-width: 1;
-	fill: #8cc2e3;
+    color: #8cc2e3;
+    fill: currentColor;
 }
 
 .objeto_sala:hover .convivencia {
@@ -63,7 +66,8 @@
 .oficina {
     stroke: #dddddd;
     stroke-width: 1;
-    fill: #c2c8cc;
+    color: #c2c8cc;
+    fill: currentColor;
 }
 
 .objeto_sala:hover .oficina {
@@ -75,7 +79,8 @@
 .otros {
     stroke: #dddddd;
     stroke-width: 1;
-    fill: #50a1d3;
+    color: #50a1d3;
+    fill: currentColor;
 }
 
 .objeto_sala:hover .otros {
