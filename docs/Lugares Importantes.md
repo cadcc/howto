@@ -3,7 +3,22 @@
 <style>
 
 #legend {
-    list-style-type:none
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#legend li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin-left: 0;
+}
+
+#legend li span {
+    font-size: 2em;
+    margin-top: -0.1em;
+    margin-right: 0.2em;
 }
 
 .piso {
