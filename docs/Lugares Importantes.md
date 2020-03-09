@@ -49,7 +49,7 @@
     fill: currentColor;
 }
 
-.convivencia text {
+.convivencia ~ text {
     fill: white;
 }
 
