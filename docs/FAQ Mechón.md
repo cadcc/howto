@@ -181,7 +181,7 @@ Desde lo más sincero de mi corazón de entidad redactora impersonal, te recomie
 
 ---
 
-## ¿Cómo funcionan las prácticas en el DCC?
+## - ¿Cómo funcionan las prácticas en el DCC?
 
 Te invito a ver el [FAQ de prácticas](https://faq.cadcc.cl/es/latest/Pr%C3%A1cticas/How%20do%20I%20Practica/).
 
