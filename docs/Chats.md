@@ -78,7 +78,7 @@ Recomendación: Intenten reutilizar los chats de semestres anteriores, sobre tod
 
 ### Primer semestre
 
--
+- [Computación Gráfica](https://t.me/joinchat/Ia3RGlMrTeXsQJ_MSsQsvw)
 
 ### Segundo semestre
 
