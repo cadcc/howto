@@ -75,6 +75,7 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 - [Criptografía](https://t.me/joinchat/CT8s0BNUODXPHeZjCFD24g)
 - [HCI, UX e Interfaces](https://t.me/ElBuenHCI)
 - [Agilidad](https://t.me/joinchat/AddHdUOsX_wpwu0cUgXDAg)
+- [Programación Competitiva](https://t.me/joinchat/Hhjonz-uol9tQnMT8PwE4A)
 
 ###Canales varios
 
