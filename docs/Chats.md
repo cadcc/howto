@@ -42,6 +42,7 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 - [Hollow Knight](https://t.me/joinchat/AEMcAlJDM0b8TniLnbf3xg)
 - [Age of Empires](https://t.me/joinchat/Cxz7klHRFVPETzPCK9WAWQ)
 - [CS:GO](https://t.me/joinchat/D3DXiRTe15C-1OQfuq3sKw)
+- [DCC&Dragons](https://t.me/joinchat/BvInWhAKj2m685ipYfECZQ)
 
 ###Chats de hobbies/intereses/lifestyle
 
@@ -51,16 +52,29 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 - [Músicos computines](https://t.me/dccmusic)
 - [Wacom (Dibujo digital)](https://t.me/joinchat/BpI_Qw8YoZWGX3S1e_ii0w)
 - [Fotografía](https://t.me/joinchat/CCI8egrH1b-Q_z68qjwotQ)
-- [DeporCC (Deportes)](https://t.me/joinchat/AO_luwgiaq_DzSdo3yH-AA)
-- [Eventos computines y hackathones](https://t.me/joinchat/AEMcAkJJsrTvT5TcqX4MOQ)
-- [DCCelus](https://t.me/joinchat/ByeJjBI7w-zWC_nPnz-isg)
+- [ToquiToqui Literature Club (Literatura, no sobre el juego)](https://t.me/joinchat/EFH2SBXR1Uk0AchONMzr7w)
+- [DCCine](https://t.me/joinchat/EFH2SBPUCXnvfq6rXjYj0g)
 - [Ofertas](https://t.me/joinchat/AEMcAlC5WkOJaYrvQVYGoQ)
 - [La Ruta del Café](https://t.me/joinchat/CT8s0EH-5Rt2cVtEnXT1oA)
-- [Seguridad Informática](https://t.me/joinchat/AEMcAkfCKtc1juLWks588A)
-- [Linux DCC](https://t.me/joinchat/AEMcAkYuk9VstfcbLLpWMg)
-- [DECTalk DCC](https://t.me/joinchat/AEMcAkz4GkJc3Yrn8NllfA)
 - [Nintendo Switch](https://t.me/joinchat/CCI8ekuY_WaSD8AVM7Q9sQ)
 - [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
+
+###Chats de deportes
+(Para discusión general y armar pichangas)
+
+- [DeporCC](https://t.me/joinchat/AO_luwgiaq_DzSdo3yH-AA)
+- [Fútbol](https://t.me/joinchat/FnATPhODHVkred5wtfovWQ)
+- [Básquet](https://t.me/joinchat/FnATPkqexvDBxiR8B_QT0w)
+- [Volei](https://t.me/joinchat/FnATPhPpP2b_9d2L8cX5eQ)
+
+###Chats computines y tecnologías
+- [Eventos computines y hackathones](https://t.me/joinchat/AEMcAkJJsrTvT5TcqX4MOQ)
+- [Seguridad Informática](https://t.me/joinchat/AEMcAkfCKtc1juLWks588A)
+- [Linux DCC](https://t.me/joinchat/AEMcAkYuk9VstfcbLLpWMg)
+- [Desarrollo Web](https://t.me/joinchat/IzLnZkzIN0bkeRCwmA4p7A)
+- [Criptografía](https://t.me/joinchat/CT8s0BNUODXPHeZjCFD24g)
+- [HCI, UX e Interfaces](https://t.me/ElBuenHCI)
+- [Agilidad](https://t.me/joinchat/AddHdUOsX_wpwu0cUgXDAg)
 
 ###Canales varios
 
@@ -70,6 +84,7 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 - [DogCC](https://t.me/dogcc)
 - [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
 - [Museo CaDCC](https://t.me/joinchat/AAAAAFVMb44Y4X-NS36gIQ)
+- [DCCocktail: Avisos de Cocktails abiertos en la facultad](https://t.me/DCCocktail)
 
 ##Chats académicos (Semestre 2020-1)
 
@@ -104,3 +119,7 @@ Recomendación: Intenten reutilizar los chats de semestres anteriores, sobre tod
 ### Electivos
 
 -
+
+### Otros
+
+- [Auxiliares y Ayudantes DCC](https://t.me/joinchat/CT8s0D4tp7IKf9e4YqpYbg)
