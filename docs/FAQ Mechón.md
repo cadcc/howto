@@ -201,7 +201,7 @@ Te invito a ver el [FAQ de prácticas](https://faq.cadcc.cl/es/latest/Pr%C3%A1ct
 
 ## - ¿Debería cambiar de código al entrar al DCC? ¿Cómo lo hago?
 
-No es necesario cambiar de código para dar los ramos y estudiar en el DCC. Sin embargo, con el código tendrás acceso a las dependencias del Depto, a tu cuenta personal para el uso de computadores, impresoras y servidares. Cabe destacar que al momento de titularte sí debes tener el código de la carrera. También con el código podrás identificarte para participar de eventos y situaciones internas del departamento, como las bienvenidas, paseos, asados, plebiscitos y elecciones.
+No es necesario cambiar de código para dar los ramos y estudiar en el DCC. Sin embargo, con el código tendrás acceso a las dependencias del Depto, a tu cuenta personal para el uso de computadores, impresoras y servidores. Cabe destacar que al momento de titularte sí debes tener el código de la carrera. También con el código podrás identificarte para participar de eventos y situaciones internas del departamento, como las bienvenidas, paseos, asados, plebiscitos y elecciones.
 
 Respecto a las becas, dada la variabilidad de cada caso y las distintas becas y créditos, te aconsejamos consultar directamente en Bienestar Estudiantil sobre tu beneficio y el cambio de código.
 
