@@ -124,7 +124,8 @@ Y el Lab. Eniac, una sala silenciosa ubicada en el 3er piso del Edificio Ponient
 
 Además de las anteriores, los espacios abiertos y mesas del Edificio Poniente son de uso libre y existe un pequeño lugar de estudio al sur del Toqui con computadores, mesitas y una pizarra (aka El Toqui Rural). Por lo general aquí se hacen reclamos así que no siempre estará 100% libre. (Pronto serán oficinas así que no estarán disponibles mucho tiempo :c f)
 
-El Lab. Lorenzo, frente a la Salita, también es de uso libre para estudiantes **siempre y cuando no haya clases**. Para entrar necesitarás tener tu TUI habilitada.
+El Lab. Lorenzo, frente a la Salita, también es de uso libre para estudiantes **siempre y cuando no haya clases**. Para entrar necesitarás tener tu 
+habilitada.
 
 Igualmente y si no necesitas mucha concentración puedes estudiar en la Salita o en la Ofisalita, pero no olvides que la Salita no es un lugar de estudio, si hay mucha gente prioriza ese espacio para la distensión comunitaria.
 
@@ -206,9 +207,13 @@ Para cambiar de código debes ir a U-Campus → Workflow → Cambio de Carrera. 
 
 ---
 
-## - ¿Cómo activo mi TUI y cuenta para entrar al DCC?
+## - ¿Cómo activo mi TUI y mi cuenta para entrar al DCC? ¿Necesito ambas?
 
-Debes ir a hablar con Hernán de Sistemas, oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851.
+Para ambas debes ir a hablar con Hernán de Sistemas, oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851.
+
+La activación de la TUI te sirve para abrir las puertas del departamento. La cuenta DCC te sirve para ingresar a los computadores y utilizar los servidores de alumnes. Ambas activaciones son independientes.
+
+En general, la cuenta te será necesaria solo para imprimir y para los ramos de Mateu: Programación de Software de Sistemas y Sistemas Operativos, pues lo ideal es que pruebes tu código en los servidores del DCC para asegurarte una revisión correcta. Fuera de eso, no es estrictamente necesario que la actives.
 
 Para activar la TUI basta con tener el código. Para activar la cuenta debes haber leído el [FAQ y Normas de Uso](https://www.dcc.uchile.cl/node/252), ya que te harán preguntas antes de la activación.
 
