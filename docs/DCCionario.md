@@ -45,7 +45,7 @@ En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ram
     - Ingeniería [1]
 
 - **CC4102 Diseño y Análisis de Algoritmos**
-    - Logaritmos - *Aparece mucho la función logaritmo y sirve para diferenciarlo del Algoritmos de primer semestre.
+    - Logaritmos - *Aparece mucho la función logaritmo y sirve para diferenciarlo del Algoritmos de primer semestre*
 
 - **CC4302 Sistemas Operativos**
     - SOS
