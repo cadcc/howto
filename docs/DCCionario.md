@@ -58,6 +58,8 @@ En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ram
 - **CC5402 Proyecto de Software**
     - Proyecto
 
+### Electivos
+
 - **CC5101 Análisis Avanzado de Algoritmos**
     - AAA
     - Pilas - *Porque pila triple A hehehe*
