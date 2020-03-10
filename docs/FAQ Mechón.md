@@ -199,7 +199,7 @@ Te invito a ver el [FAQ de prácticas](https://faq.cadcc.cl/es/latest/Pr%C3%A1ct
 
 ## - ¿Debería cambiar de código al entrar al DCC? ¿Cómo lo hago?
 
-No es necesario cambiar de código para dar los ramos y estudiar en el DCC. Sin embargo, con el código tendrás acceso a las dependencias del Depto, a tu cuenta personal para el uso de computadores y servidores; y 150 impresiones B&N mensuales acumulables con un **máximo de 400**. Lamentablemente perderás tus impresiones del CEC :c. Cabe destacar que al momento de titularte sí debes tener el código de la carrera. También con el código podrás identificarte para participar de eventos y situaciones internas del departamento, como las bienvenidas, paseos, asados, plebiscitos y elecciones.
+No es necesario cambiar de código para dar los ramos y estudiar en el DCC. Sin embargo, con el código tendrás acceso a las dependencias del Depto, a tu cuenta personal para el uso de computadores, impresoras y servidares. Cabe destacar que al momento de titularte sí debes tener el código de la carrera. También con el código podrás identificarte para participar de eventos y situaciones internas del departamento, como las bienvenidas, paseos, asados, plebiscitos y elecciones.
 
 Respecto a las becas, dada la variabilidad de cada caso y las distintas becas y créditos, te aconsejamos consultar directamente en Bienestar Estudiantil sobre tu beneficio y el cambio de código.
 
@@ -207,11 +207,19 @@ Para cambiar de código debes ir a U-Campus → Workflow → Cambio de Carrera. 
 
 ---
 
+## - ¿Tengo impresiones en el DCC? ¿Pierdo las de Plan Común?
+
+Una vez que actives tu cuenta DCC, se te darán **150 impresiones** blanco y negro mensuales acumulables con un **máximo de 400**. Lamentablemente perderás tus impresiones del CEC, y con ello la posibilidad de imprimir a color :c.
+
+Hint: Ojo con mandar a imprimir archivos más grandes que tu cuota restante, pues se imprimirán igual y quedarás con saldo negativo.
+
+---
+
 ## - ¿Cómo activo mi TUI y mi cuenta para entrar al DCC? ¿Necesito ambas?
 
 Para ambas debes ir a hablar con Hernán de Sistemas, oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851.
 
-La activación de la TUI te sirve para abrir las puertas del departamento. La cuenta DCC te sirve para ingresar a los computadores y utilizar los servidores de alumnes. Ambas activaciones son independientes.
+La activación de la TUI te sirve para abrir las puertas del departamento. La cuenta DCC te sirve para ingresar a los computadores, imprimir y utilizar los servidores de alumnes. Ambas activaciones son independientes.
 
 En general, la cuenta te será necesaria solo para imprimir y para los ramos de Mateu: Programación de Software de Sistemas y Sistemas Operativos, pues lo ideal es que pruebes tu código en los servidores del DCC para asegurarte una revisión correcta. Fuera de eso, no es estrictamente necesario que la actives.
 
