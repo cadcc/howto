@@ -92,29 +92,21 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 
 Recomendación: Intenten reutilizar los chats de semestres anteriores, sobre todo si tienen material. Para ello procuren activar que usuarios nuevos puedan ver mensajes antiguos, y designen admins antes de que el/la creador/a se salga del chat (si no queda perdido en el limbo). Si reutilizan un chat enviénlo igual por el form para agregarlo.
 
-### Primer semestre
-
-- [Computación Gráfica](https://t.me/joinchat/Ia3RGlMrTeXsQJ_MSsQsvw)
-
-### Segundo semestre
-
--
-
-### Tercer semestre
-
--
-
-### Cuarto semestre
-
--
-
 ### Quinto semestre
 
--
+- [Computación Gráfica](https://t.me/joinchat/Ia3RGlMrTeXsQJ_MSsQsvw)
 
 ### Sexto semestre
 
 -
+
+### Séptimo semestre
+
+-
+
+### Octavo semestre
+
+- [Diseño y Análisis de Algoritmos (aka Logaritmos)](https://t.me/joinchat/CdPhQlBDnknKsBuQP_hCVQ)
 
 ### Electivos
 
