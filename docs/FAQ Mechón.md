@@ -144,6 +144,8 @@ Según la malla, los ramos de primer semestre DCC son:
 
 Sin embargo, es muy común que la gente llegue con la malla un poco mezclada. La buena noticia es que, aunque los cursos obligatorios sí tienen una jerarquía de requisitos más o menos estricta, siempre puedes rellenar y flexibilizar tu malla con electivos.
 
+Si bien no es raro ir con la malla desordenada, de todas formas es recomendable hacerse una idea a mediano plazo de la malla obligatoria y sus dependencias, porque después los requisitos se complican un poco y por un mal cálculo podrías atrasarte innecesariamente.
+
 ---
 
 ## - ¿Cuáles son los electivos? ¿Cuántos hay que tomar? ¿Electivos de licenciatura o de ingeniería?
