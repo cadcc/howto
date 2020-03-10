@@ -30,9 +30,9 @@ Debes saber que la Salita tiene sus reglas básicas de convivencia:
 
 La Oficina CADCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 332). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más relajada que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene mesas, algunas pantallas, una pizarra y un rincón con un puff para dormir semi-escondido del mundo real (aka *Hiho's Corner*). En este lugar también están guardados los juegos de mesa y es hogar del Kioskito CADCC.
 
-Si bien no se espera que esta sea una sala dedicada al estudio, sí se prefiere que se mantenga un nivel más relajado de ruido y conversación que en la salita, para poder trabajar.
+Si bien no se espera que esta sea una sala dedicada al estudio, se prefiere que se mantenga un nivel más relajado de ruido y conversación que en la Salita, para poder trabajar o chillear de pana.
 
-De vez en cuando el CADCC podría requerir la Ofisalita para reuniones u otros fines. Por favor sé comprensive si te piden retirarte, pues es el único espacio nusetro en que podemos planificar todas las cosas para la comunidad.
+De vez en cuando el CADCC podría requerir la Ofisalita para reuniones u otros fines. Por favor sé comprensive si te piden retirarte, pues es el único espacio nuestro en que podemos planificar todas las cosas para la comunidad.
 
 ---
 
