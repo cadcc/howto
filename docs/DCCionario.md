@@ -75,7 +75,7 @@ En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ram
     - Evalua TI
   
 - **CC5613 Taller de Comunicación Efectiva: Caso Práctico de Lanzamiento de Producto**
-    - Steve Jobs - *Se basa en un libro sobre las técnicas de presentación de productos que usaba Steve Jobs.*
+    - Steve Jobs - *Se basa en un libro sobre las técnicas de presentación de productos usadas por Steve Jobs.*
 
 - **CC6205 Procesamiento de Lenguaje Natural**
     - PLN
