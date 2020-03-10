@@ -180,7 +180,9 @@ En resumen, debes tomar un total de 18 créditos (6 ramos) de electivos integral
 **NO PORFA NO LO HAGAS TE LO PIDO NO LO HAGAS**
 
 Ahora, hablando en serio **NO PORFA NO PATEES PLAN COMÚN**.
-Aunque suene muy tentador entrar de cabeza a los ramos que tanto esperaste, la experiencia de la gran mayoría de viejones arrepentidos es que dejar los ramos de Plan Común para después solo te hará más difícil la vida. Principalmente porque la capacidad matemática se va perdiendo rápido en la especialidad y se te hará mucho más difícil retomar las integrales y esas cosas locas más adelante. Además los horarios de esos ramos no te van a calzar muy bien con los del DCC, y el ritmo orientado-a-tareas en Computación puede chocarte bastante con el ritmo orientado-a-controles-y-ejercicios-y-lecturas-y-trabajos-grupales de Plan Común. Por último, eventualmente requerirás esos ramos (CC4301 pide Electro y CC4102 pide Métodos) y es muy muy fácil que se te desordene la malla sin darte cuenta y termines estancade con tus ramos.
+Aunque suene muy tentador entrar de cabeza a los ramos que tanto esperaste, la experiencia de la gran mayoría de viejones arrepentidos es que dejar los ramos de Plan Común para después solo te hará más difícil la vida. Principalmente porque la capacidad matemática se va perdiendo rápido en la especialidad y se te hará mucho más difícil retomar las integrales y esas cosas locas más adelante. Además los horarios de esos ramos no te van a calzar muy bien con los del DCC, y el ritmo orientado-a-tareas en Computación puede chocarte bastante con el ritmo orientado-a-controles-y-ejercicios-y-lecturas-y-trabajos-grupales de Plan Común.
+
+Por último, eventualmente requerirás esos ramos (CC4301 pide Electro y CC4102 pide Métodos) y es muy muy fácil que se te desordene la malla sin darte cuenta y termines estancade con tus ramos.
 
 Desde lo más sincero de mi corazón de entidad redactora impersonal, te recomiendo fuertemente que termines lo antes posible tus ramos de Plan Común. Sé paciente y tendrás la oportunidad de olvidarte de esos ramos y tomar los que realmente quieres :3
 
