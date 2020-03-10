@@ -65,7 +65,7 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 ###Canales varios
 
 - [Canal de Canales](https://t.me/joinchat/AAAAAEU7tCZeACfPY7Rfog)
-- [Canal de Chats](bit.ly/chatsDCC)
+- [Canal de Chats](https://bit.ly/chatsDCC)
 - [DCCats](https://t.me/dccats)
 - [DogCC](https://t.me/dogcc)
 - [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
