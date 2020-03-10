@@ -148,6 +148,7 @@ Sin embargo, es muy común que la gente llegue con la malla un poco mezclada. La
 ## - ¿Cuáles son los electivos? ¿Cuántos hay que tomar? ¿Electivos de licenciatura o de ingeniería?
 
 Los electivos son ramos... electivos lel. Ramos que tratan temas especializados de distintas áreas y que puedes elegir según tus intereses computines. Existen varios tipos y debes tomar cierta cantidad de créditos de cada uno para terminar la carrera.
+
 * **Electivos de Licenciatura (30 créd):** Corresponden a cualquier ramo de especialidad de cualquier carrera de la FCFM. Puedes aprovechar estos ramos para profundizar conocimientos de otra área de la ingeniería que te interese, o también puedes tomar solo ramos de Computación si no te llama la atención ninguna otra carrera.
 * **Electivos de Ingeniería/Especialidad (30 créd):** Para esta categoría solo cuentan los ramos electivos del DCC. Como regla general, cualquier ramo CC5XXX o superior sirve. Si tomas más de 30 créditos de ramos CC, el sistema los repartirá automáticamente entre Licenciatura e Ingeniería, priorizando las mejores notas para la Ingeniería.
 * **Electivos Integrales de Ingeniería (6 créd):** Este es un subconjunto pequeño de ramos CC particulares que tratan habilidades blandas ingenieriles (ética, expresion oral, trabajo en equipo etc). En la Inscripción Académica vienen con un mensaje indicando que pertenecen a este grupo. Casi todos son de 3 créditos, por lo que probablemente tendrás que tomar 2 de estos.
