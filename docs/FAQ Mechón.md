@@ -22,7 +22,7 @@ Debes saber que la Salita tiene sus reglas básicas de convivencia:
 * Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
 * **El refrigerador es público.** Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después". Preocúpate de botar productos vencidos.
 * En general, las consolas, teles y juegos que están ahí son de uso público a menos que se indique lo contrario. Puedes llegar y usarlos si no están ocupados. Procura no adueñarte de los dispositivos por mucho rato y fíjate si no hay más gente queriendo jugar.
-* Si sientes que falta algo (servilletas, cubiertos, té, azúcar, etc) puedes avisar a alguien del CADCC, pero lo ideal y más rápido es que compres por tu cuenta y te lo reembolsamos con la boleta (consúltanos antes de hacer esto).
+* Si ves que falta algo (servilletas, cubiertos, té, azúcar, etc) puedes avisar a alguien del CADCC, pero lo ideal y más rápido es que compres por tu cuenta y te lo reembolsamos con la boleta (consúltanos antes de hacer esto).
 
 ---
 
