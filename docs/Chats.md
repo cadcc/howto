@@ -56,6 +56,7 @@ Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes ent
 - [DCCine](https://t.me/joinchat/EFH2SBPUCXnvfq6rXjYj0g)
 - [Ofertas](https://t.me/joinchat/AEMcAlC5WkOJaYrvQVYGoQ)
 - [La Ruta del Café](https://t.me/joinchat/CT8s0EH-5Rt2cVtEnXT1oA)
+- [Club del Té](https://t.me/joinchat/BpI_QxCz0OawJ9oRMBVQTg)
 - [Nintendo Switch](https://t.me/joinchat/CCI8ekuY_WaSD8AVM7Q9sQ)
 - [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
 
