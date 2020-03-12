@@ -111,7 +111,7 @@ Recomendación: Intenten reutilizar los chats de semestres anteriores, sobre tod
 
 ### Electivos
 
--
+- [Minería de Datos](https://t.me/joinchat/D5sleU4fshFCUxQWgJiwKw)
 
 ### Otros
 
