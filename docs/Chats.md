@@ -2,8 +2,6 @@
 
 Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay muchos chats de [Telegram](https://telegram.org/) (académicos como no académicos) a los que puedes unirte y conversar.
 
-Si conoces un chat que no está acá, o si hay algún link roto, habla por Telegram con Cisneros ([@TaniaBess](http://t.me/TaniaBess)).
-
 ¿No hay un chat con el tema que buscas? ¡Pregunta si hay interés en el chat principal y créalo tu mism@!
 
 ##Chats generales
@@ -14,106 +12,6 @@ Si conoces un chat que no está acá, o si hay algún link roto, habla por Teleg
 
 Chat DCCianas: Pregunta por el chat principal o a alguna compañera viejona para unirte.
 
-##Chats temporales y de eventos
+##Otros Chats
 
-Estos chats son para ayudar a organizar algo en específico, o por un evento que _se vienen_ pronto.
-
-- 
-
-##Chats no académicos
-
-Nota: Algunos de estos chats pueden llevar tiempo inactivos ¡Siempre puedes entrar a revivir la conversación!.
-
-###Chats de series y programas
-- [Game of Thrones](https://telegram.me/joinchat/AOCFDQisHhZsSpFY_OEQLw)
-- [Steven Universe](https://t.me/joinchat/CCI8egnYQSUc-5v9EpZ53A)
-- [Anime](https://t.me/joinchat/B6QJcwrBlHKAs8sldrJfyA)
-- [JoJo's](https://t.me/joinchat/B8ml6gk9iqM9QiednPzwhw)
-- [Black Mirror](https://t.me/joinchat/A0MT3ksnL3JIX12ZIMv8Dg)
-- [DragCC: RuPaul, The Switch y drag en general](https://t.me/joinchat/B5P3Bg-JtHUxrL2RKyNKOw)
-
-###Chats de juegos
-- [Hearthstone](https://t.me/joinchat/BrXxiwyf6xcSdqqyiS6kEA) 
-- [Terraria](https://t.me/DCCTerraria)
-- [Overwatch](https://telegram.me/joinchat/CB-bvgfex5SvInXKN1bL3w)
-- [Pokémon Go](https://telegram.me/joinchat/A0MT3gpHCiKPcXN0wGjv8g)
-- [Love Nikki](https://t.me/joinchat/BvInWhJrO_2U8LKatqXVvA)
-- [Fortnite DCC](https://t.me/joinchat/FI55jA79vdvLK23ZvNImWg)
-- [Hollow Knight](https://t.me/joinchat/AEMcAlJDM0b8TniLnbf3xg)
-- [Age of Empires](https://t.me/joinchat/Cxz7klHRFVPETzPCK9WAWQ)
-- [CS:GO](https://t.me/joinchat/D3DXiRTe15C-1OQfuq3sKw)
-- [DCC&Dragons](https://t.me/joinchat/BvInWhAKj2m685ipYfECZQ)
-
-###Chats de hobbies/intereses/lifestyle
-
-- [Chat Veggie](https://t.me/joinchat/CSkUvgl634UeKGcPfeB8cA)
-- [Chat de Rol](https://t.me/joinchat/BvInWhAKj2m685ipYfECZQ)
-- [Juegos de Mesa](https://t.me/joinchat/CCI8eg9j2bqEL0GGTOWdGQ)
-- [Músicos computines](https://t.me/dccmusic)
-- [Wacom (Dibujo digital)](https://t.me/joinchat/BpI_Qw8YoZWGX3S1e_ii0w)
-- [Fotografía](https://t.me/joinchat/CCI8egrH1b-Q_z68qjwotQ)
-- [ToquiToqui Literature Club (Literatura, no sobre el juego)](https://t.me/joinchat/EFH2SBXR1Uk0AchONMzr7w)
-- [DCCine](https://t.me/joinchat/EFH2SBPUCXnvfq6rXjYj0g)
-- [Ofertas](https://t.me/joinchat/AEMcAlC5WkOJaYrvQVYGoQ)
-- [La Ruta del Café](https://t.me/joinchat/CT8s0EH-5Rt2cVtEnXT1oA)
-- [Club del Té](https://t.me/joinchat/BpI_QxCz0OawJ9oRMBVQTg)
-- [Nintendo Switch](https://t.me/joinchat/CCI8ekuY_WaSD8AVM7Q9sQ)
-- [DiverCC: Chat de diversidades y disidencias sexuales](https://goo.gl/forms/6yIvKqcTSvdOV7pk1) (Link directo oculto por privacidad)
-
-###Chats de deportes
-(Para discusión general y armar pichangas)
-
-- [DeporCC](https://t.me/joinchat/AO_luwgiaq_DzSdo3yH-AA)
-- [Fútbol](https://t.me/joinchat/FnATPhODHVkred5wtfovWQ)
-- [Básquet](https://t.me/joinchat/FnATPkqexvDBxiR8B_QT0w)
-- [Volei](https://t.me/joinchat/FnATPhPpP2b_9d2L8cX5eQ)
-
-###Chats computines y tecnologías
-- [Eventos computines y hackathones](https://t.me/joinchat/AEMcAkJJsrTvT5TcqX4MOQ)
-- [Seguridad Informática](https://t.me/joinchat/AEMcAkfCKtc1juLWks588A)
-- [Linux DCC](https://t.me/joinchat/AEMcAkYuk9VstfcbLLpWMg)
-- [Desarrollo Web](https://t.me/joinchat/IzLnZkzIN0bkeRCwmA4p7A)
-- [Criptografía](https://t.me/joinchat/CT8s0BNUODXPHeZjCFD24g)
-- [HCI, UX e Interfaces](https://t.me/ElBuenHCI)
-- [Agilidad](https://t.me/joinchat/AddHdUOsX_wpwu0cUgXDAg)
-- [Programación Competitiva](https://t.me/joinchat/Hhjonz-uol9tQnMT8PwE4A)
-
-###Canales varios
-
-- [Canal de Canales](https://t.me/joinchat/AAAAAEU7tCZeACfPY7Rfog)
-- [Canal de Chats](https://bit.ly/chatsDCC)
-- [DCCats](https://t.me/dccats)
-- [DogCC](https://t.me/dogcc)
-- [PetsCC (Hablar con Andrés para permisos de publicación)](https://t.me/joinchat/AAAAAESx8MXy8DCEhQFXPA)
-- [Museo CaDCC](https://t.me/joinchat/AAAAAFVMb44Y4X-NS36gIQ)
-- [DCCocktail: Avisos de Cocktails abiertos en la facultad](https://t.me/DCCocktail)
-
-##Chats académicos (Semestre 2020-1)
-
-¿Necesitas material? ¿Tienes alguna duda muy pequeña, y que no quieres postear en el foro? ¡Únete al chat del ramo! Si no existe, créalo y avisa por el chat general o al CADCC mediante [este formulario](https://forms.gle/uU7mKXpfq9FQLcoY6).
-
-Recomendación: Intenten reutilizar los chats de semestres anteriores, sobre todo si tienen material. Para ello procuren activar que usuarios nuevos puedan ver mensajes antiguos, y designen admins antes de que el/la creador/a se salga del chat (si no queda perdido en el limbo). Si reutilizan un chat enviénlo igual por el form para agregarlo.
-
-### Quinto semestre
-
-- [Computación Gráfica](https://t.me/joinchat/Ia3RGlMrTeXsQJ_MSsQsvw)
-
-### Sexto semestre
-
--
-
-### Séptimo semestre
-
--
-
-### Octavo semestre
-
-- [Diseño y Análisis de Algoritmos (aka Logaritmos)](https://t.me/joinchat/CdPhQlBDnknKsBuQP_hCVQ)
-
-### Electivos
-
-- [Minería de Datos](https://t.me/joinchat/D5sleU4fshFCUxQWgJiwKw)
-
-### Otros
-
-- [Auxiliares y Ayudantes DCC](https://t.me/joinchat/CT8s0D4tp7IKf9e4YqpYbg)
+Revisa el [Canal de Chats](https://bit.ly/chatsDCC) para encontrar los últimos chats actualizados.
