@@ -14,6 +14,7 @@ En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ram
 
 - **CC3002 Metodologías de Diseño y Programación**
     - Metodologías
+    - Memes
   
 - **CC3102 Teoría de la Computación**
     - Teoría
