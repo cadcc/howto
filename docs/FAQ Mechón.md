@@ -135,11 +135,11 @@ Recuerda visitar la sección de [Lugares Importantes](https://faq.cadcc.cl/es/la
 
 ## - ¿Qué ramos debería tomar en primer semestre? ¿Debo seguir la malla tal cual?
 
-Según la malla, los ramos de primer semestre DCC son:
+Según la malla (tanto vieja como nueva), los ramos de primer semestre DCC son:
 
 * CC3001 Algoritmos y Estructuras de Datos (aka Algoritmos)
 * CC3101 Matemáticas Discretas para la Computación (aka Discretas)
-* CC3501 Modelación y Computación Gráfica para Ingenieros (aka Gráfica) o FI3104 Métodos Numéricos para la Ciencia e Ingeniería
+* CC3501 Modelación y Computación Gráfica para Ingenieros (aka Gráfica)
 * MA3403 Probabilidades y estadísticas
 
 Sin embargo, es muy común que la gente llegue con la malla un poco mezclada. La buena noticia es que, aunque los cursos obligatorios sí tienen una jerarquía de requisitos más o menos estricta, siempre puedes rellenar y flexibilizar tu malla con electivos.
