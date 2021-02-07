@@ -140,7 +140,7 @@ Según la malla (tanto vieja como nueva), los ramos de primer semestre DCC son:
 * CC3001 Algoritmos y Estructuras de Datos (aka Algoritmos)
 * CC3101 Matemáticas Discretas para la Computación (aka Discretas)
 * CC3501 Modelación y Computación Gráfica para Ingenieros (aka Gráfica)
-* MA3403 Probabilidades y estadísticas
+* MA3403 Probabilidad y estadística
 
 Sin embargo, es muy común que la gente llegue con la malla un poco mezclada. La buena noticia es que, aunque los cursos obligatorios sí tienen una jerarquía de requisitos más o menos estricta, siempre puedes rellenar y flexibilizar tu malla con electivos.
 
@@ -152,10 +152,10 @@ Si bien no es raro ir con la malla desordenada, de todas formas es recomendable 
 
 Los electivos son ramos... electivos lel. Ramos que tratan temas especializados de distintas áreas y que puedes elegir según tus intereses computines. Existen varios tipos y debes tomar cierta cantidad de créditos de cada uno para terminar la carrera.
 
-* **Electivos de Licenciatura (30 créd):** Corresponden a cualquier ramo de especialidad de cualquier carrera de la FCFM. Puedes aprovechar estos ramos para profundizar conocimientos de otra área de la ingeniería que te interese, o también puedes tomar solo ramos de Computación si no te llama la atención ninguna otra carrera.
-* **Electivos de Ingeniería/Especialidad (30 créd):** Para esta categoría solo cuentan los ramos electivos del DCC. Como regla general, cualquier ramo CC5XXX o superior sirve. Si tomas más de 30 créditos de ramos CC, el sistema los repartirá automáticamente entre Licenciatura e Ingeniería, priorizando las mejores notas para la Ingeniería.
-* **Electivos Integrales de Ingeniería (6 créd):** Este es un subconjunto pequeño de ramos CC particulares que tratan habilidades blandas ingenieriles (ética, expresion oral, trabajo en equipo etc). En la Inscripción Académica vienen con un mensaje indicando que pertenecen a este grupo. Casi todos son de 3 créditos, por lo que probablemente tendrás que tomar 2 de estos.
-* **Núcleo de Gestión para Ingenieros (6 créd):** Acá solo debes tomar un ramo entre tres opciones, CC5601, CC5602 o IN5502. Estos aportan el lado más empresarial de la ingeniería.
+* **Electivos de Licenciatura (24 créd, 30 créd para malla vieja):** Corresponden a cualquier ramo de especialidad de cualquier carrera de la FCFM. Puedes aprovechar estos ramos para profundizar conocimientos de otra área de la ingeniería que te interese, o también puedes tomar solo ramos de Computación si no te llama la atención ninguna otra carrera.
+* **Electivos de Ingeniería/Especialidad (36 créd, 30 créd para malla vieja):** Para esta categoría solo cuentan los ramos electivos del DCC. Como regla general, cualquier ramo CC5XXX o superior sirve. Si tomas más créditos de ramos CC, el sistema los repartirá automáticamente entre Licenciatura e Ingeniería, priorizando las mejores notas para la Ingeniería.
+* **Formación Integral Especialidad (6 créd):** Este es un subconjunto pequeño de ramos CC particulares que tratan habilidades blandas ingenieriles (ética, expresion oral, trabajo en equipo etc). En la Inscripción Académica vienen con un mensaje indicando que pertenecen a este grupo. Todos son de 3 créditos, por lo que tendrás que tomar 2 de estos.
+* **Núcleo Gestión para Ingenieros (6 créd):**  Estos aportan el lado más empresarial de la ingeniería.
 
 Para saber qué ramos corresponden a cada grupo, ingresa a tu Recuento de Créditos desde tus Boletines en U-Campus, y al final de cada sub-grupo puedes ver el listado presionando "Ver candidatos".
 
@@ -164,6 +164,20 @@ Para saber qué ramos corresponden a cada grupo, ingresa a tu Recuento de Crédi
 ## - ¿Y los EHs y DRs?
 
 Para terminar la carrera necesitas los siguientes electivos integrales aprobados.
+
+**Malla nueva:**
+
+Plan común:
+
+* 6 créditos de FG/EH/DR/EI/FT
+
+Licenciatura:
+
+* 6 créditos de FG/EH
+
+En resumen, debes tomar un total de 12 créditos (4 ramos) de electivos integrales, de los cuales **al menos** 6 créditos (2 ramos) deben ser FG/EH. Considera que los FGs valen solo 2 créditos. Los ramos EI corresponden al área de idiomas, y cada nivel cuenta como ramo por separado.
+
+**Malla vieja:**
 
 Plan común:
 
@@ -174,7 +188,7 @@ Licenciatura:
 
 * 6 créditos de FG/EH/DR/EI/FT
 
-En resumen, debes tomar un total de 18 créditos (6 ramos) de electivos integrales, de los cuales **al menos** 9 créditos (3 ramos) deben ser FG/EH. Considera que hay FGs que valen solo 2 créditos. Los ramos EI corresponden al área de idiomas, y cada nivel cuenta como ramo por separado.
+En resumen, debes tomar un total de 18 créditos (6 ramos) de electivos integrales, de los cuales **al menos** 9 créditos (3 ramos) deben ser FG/EH. Considera que los FGs valen solo 2 créditos. Los ramos EI corresponden al área de idiomas, y cada nivel cuenta como ramo por separado.
 
 ---
 
@@ -185,7 +199,7 @@ En resumen, debes tomar un total de 18 créditos (6 ramos) de electivos integral
 Ahora, hablando en serio **NO PORFA NO PATEES PLAN COMÚN**.
 Aunque suene muy tentador entrar de cabeza a los ramos que tanto esperaste, la experiencia de la gran mayoría de viejones arrepentidos es que dejar los ramos de Plan Común para después solo te hará más difícil la vida. Principalmente porque la capacidad matemática se va perdiendo rápido en la especialidad y se te hará mucho más difícil retomar las integrales y esas cosas locas más adelante. Además los horarios de esos ramos no te van a calzar muy bien con los del DCC, y el ritmo orientado-a-tareas en Computación puede chocarte bastante con el ritmo orientado-a-controles-y-ejercicios-y-lecturas-y-trabajos-grupales de Plan Común.
 
-Por último, eventualmente requerirás esos ramos (CC4301 pide Electro y CC4102 pide Métodos) y es muy muy fácil que se te desordene la malla sin darte cuenta y termines estancade con tus ramos.
+Por último, eventualmente requerirás esos ramos (existen requisitos extraños que se van moviendo por la malla para evitar que plan común sea pateado) y es muy muy fácil que se te desordene la malla sin darte cuenta y termines estancade con tus ramos.
 
 Desde lo más sincero de mi corazón de entidad redactora impersonal, te recomiendo fuertemente que termines lo antes posible tus ramos de Plan Común. Sé paciente y tendrás la oportunidad de olvidarte de esos ramos y tomar los que realmente quieres :3
 
