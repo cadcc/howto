@@ -94,6 +94,7 @@ En esta sección intentaremos resumir la jerga DCCiana recopilando apodos de ram
 
 - **Jaev'd**: *Cuando alguien envía/dice algo que acaban de enviar/decir hace muy poco. En honor a Jaev que siempre hacía esa wea.*
 - **lik**: *"Like", "Me gusta". Creado por Comi, cuando algo le gustaba (like) y quería lamerlo (lick).*
+- **que barril**: *"Que lata". Creado por la Mati, cuando intentó innovar y dijo "que 🛢️" en el chat general, generando confusión*.
 - **Ñoqui**: *El sector de estudio con computadores que está al sur del Toqui*
 - **Salitos**: *La gente que vive en la Salita. Enemigos naturales de los Toquiboys*
 - **Toquiboys**: *La gente que vive en el Toqui. Enemigos naturales de los Salitos*
