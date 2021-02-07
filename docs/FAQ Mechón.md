@@ -169,11 +169,11 @@ Para terminar la carrera necesitas los siguientes electivos integrales aprobados
 
 - Plan común:  
 
-  - 6 créditos de FG/EH/DR/EI/FT
+   6 créditos de FG/EH/DR/EI/FT
   
 - Licenciatura:  
 
-  - 6 créditos de FG/EH
+   6 créditos de FG/EH
 
 En resumen, debes tomar un total de 12 créditos (4 ramos) de electivos integrales, de los cuales **al menos** 6 créditos (2 ramos) deben ser FG/EH. Considera que los FGs valen solo 2 créditos. Los ramos EI corresponden al área de idiomas, y cada nivel cuenta como ramo por separado.
 
@@ -181,12 +181,12 @@ En resumen, debes tomar un total de 12 créditos (4 ramos) de electivos integral
 
 - Plan común:  
 
-  - 9 créditos de FG/EH
-  - 3 créditos de FG/EH/DR/EI/FT
+   9 créditos de FG/EH
+   3 créditos de FG/EH/DR/EI/FT
   
 - Licenciatura: 
 
-  - 6 créditos de FG/EH/DR/EI/FT
+   6 créditos de FG/EH/DR/EI/FT
 
 En resumen, debes tomar un total de 18 créditos (6 ramos) de electivos integrales, de los cuales **al menos** 9 créditos (3 ramos) deben ser FG/EH. Considera que los FGs valen solo 2 créditos. Los ramos EI corresponden al área de idiomas, y cada nivel cuenta como ramo por separado.
 
