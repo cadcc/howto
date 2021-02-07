@@ -181,7 +181,7 @@ En resumen, debes tomar un total de 12 créditos (4 ramos) de electivos integral
 
 - Plan común:  
 
-   9 créditos de FG/EH
+   9 créditos de FG/EH  
    3 créditos de FG/EH/DR/EI/FT
   
 - Licenciatura: 
