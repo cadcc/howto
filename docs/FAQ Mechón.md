@@ -225,7 +225,7 @@ Para cambiar de código debes ir a U-Campus → Workflow → Cambio de Carrera. 
 
 ## - ¿Tengo impresiones en el DCC? ¿Pierdo las de Plan Común?
 
-Una vez que actives tu cuenta DCC, se te darán **150 impresiones** blanco y negro mensuales acumulables con un **máximo de 400**. Lamentablemente perderás tus impresiones del CEC, y con ello la posibilidad de imprimir a color :c.
+Una vez que actives tu cuenta DCC, se te darán **150 impresiones** blanco y negro mensuales acumulables con un **máximo de 400**. Lamentablemente perderás tus impresiones del CEC, y con ello la posibilidad de imprimir a color :c
 
 Hint: Ojo con mandar a imprimir archivos más grandes que tu cuota restante, pues se imprimirán igual y quedarás con saldo negativo.
 
@@ -245,7 +245,7 @@ Para activar la TUI basta con tener el código. Para activar la cuenta debes hab
 
 ## - ¿Puedo pedir acceso al DCC sin tener el código?
 
-Si estás cursando ramos con código CC, puedes solicitar acceso temporal por la duración del semestre, aunque no estés formalmente en la carrera. Para esto es necesario que el/la profesor/a del ramo autorice la activación antes de que puedas pedirla en Sistemas. Esto aplica también para los ramos de Taller de Proyecto realizados al interior del DCC (Lego/Alice).
+Si estás cursando ramos con código CC, puedes solicitar acceso temporal por la duración del semestre, aunque no estés formalmente en la carrera. Para esto es necesario que el/la profesor/a del ramo autorice la activación antes de que puedas pedirla en Sistemas.  
 
 Ojo, para esta autorización debes tener alguna razón importante. Les profesores no están obligades a autorizarte solo por estar cursando el ramo, y probablemente no lo harán.
 
