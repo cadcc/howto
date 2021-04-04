@@ -8,7 +8,7 @@ Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay mu
 
 [Chat principal](https://t.me/joinchat/CCI8ekIqFvhpatb3lJ5kKw): En este chat está prácticamente toda la comunidad del departamento. Puedes hablar de cualquier tema acá, aunque probablemente hayan tantos mensajes que no alcances a leerlos.
 
-Chat mechones 2021: Creado por les mismes mechones, este puede ser tu punto de partida para conocer gente igual de nueva y perdida que tú. El link se encuentra en el chat principal, o puedes hablar con @mechondcc.
+Chat Mechones 2021: Creado por les mismes mechones, este puede ser tu punto de partida para conocer gente igual de nueva y perdida que tú. El link se encuentra en el chat principal, o puedes hablar con @mechondcc.
 
 Chat DCCianas: Pregunta por el chat principal o a alguna compañera viejona para unirte.
 
