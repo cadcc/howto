@@ -16,7 +16,7 @@ El trámite de matrícula es muy sencillo por ser alguien que viene de la misma 
 Para otoño 2019 pidieron:
 
 * Currículum Vitae
-* Carta de motivación dirigida a coordinador(a) de magister (Cecilia Bastarrica [2019])
+* Carta de motivación dirigida a coordinador(a) de magister (Nancy Hitschfeld [2021])
 * Titulo / Licenciatura (Si está en tramite deberás hablar con Sandra)
 * Certificado de Notas
 
