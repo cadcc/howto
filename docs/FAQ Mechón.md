@@ -144,7 +144,7 @@ Según la malla (tanto vieja como nueva), los ramos de primer semestre DCC son:
 
 Sin embargo, es muy común que la gente llegue con la malla un poco mezclada. La buena noticia es que, aunque los cursos obligatorios sí tienen una jerarquía de requisitos más o menos estricta, siempre puedes rellenar y flexibilizar tu malla con electivos.
 
-Si bien no es raro ir con la malla desordenada, de todas formas es recomendable hacerse una idea a mediano plazo de la malla obligatoria y sus dependencias, porque después los requisitos se complican un poco y por un mal cálculo podrías atrasarte innecesariamente.
+Si bien no es raro ir con la malla desordenada, de todas formas es recomendable hacerse una idea a mediano plazo de la malla obligatoria y sus dependencias, porque después los requisitos se complican un poco y por un mal cálculo podrías atrasarte innecesariamente. Con este fin, es muy útil usar algo como [esta página](https://malla.cadcc.cl) que hicieron alumnos del dcc para que puedas calcular bien si te conviene patear ese ramo (spoiler: no).
 
 ---
 
