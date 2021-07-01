@@ -60,9 +60,9 @@ Según el profe Alexandre Bergel, la descripción debe ser breve y debe tener la
 
 Según yo y muchas otras personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizarías, además de la idea general de lo que harás.
 
-Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Sandra), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Sandra es sandra@dcc.uchile.cl. 
+Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Maribel), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Maribel es maribel@dcc.uchile.cl. 
 
-La respuesta a tu preinscripción será entregada en a lo más 5 días hábiles desde el momento en que la envías y das el aviso. Si luego de 5 días hábiles no sabes nada de tu práctica, te recomendamos hablar con Sandra (por correo o en su oficina) o con Alex.
+La respuesta a tu preinscripción será entregada en a lo más 5 días hábiles desde el momento en que la envías y das el aviso. Si luego de 5 días hábiles no sabes nada de tu práctica, te recomendamos hablar con Maribel (por correo o en su oficina) o con Alex.
 
 Para ahorrarte malas postulaciones, te mencionamos algunas prácticas que **NO** serán aceptadas jamás:
 
@@ -104,7 +104,7 @@ Durante lo que queda de semestre, un profesor full time, part time o experto ext
 
 Existe la posibilidad de que el profesor que revise tu informe te contacte para pedirte que le hagas correcciones, ya que para la impresión de él, el informe que entregaste no cumple las condiciones necesarias para aprobar. En ese caso, podrás entregar una nueva versión del informe, pero muy probablemente la nota máxima a la que podrás aspirar sea menor a 7. Te darán más detalles de esa situación si te llega a ocurrir.
 
-En caso que tuvieses dudas acerca de tu nota de informe de práctica que no estuviesen resueltas en los comentarios del evaluador, **puedes contactar a Sandra para solicitar una apelación de tu nota**. Ella hará las gestiones para que el Coordinador de Práctica vea tu caso y tome una decisión final sobre él.
+En caso que tuvieses dudas acerca de tu nota de informe de práctica que no estuviesen resueltas en los comentarios del evaluador, **puedes contactar a Maribel para solicitar una apelación de tu nota**. Ella hará las gestiones para que el Coordinador de Práctica vea tu caso y tome una decisión final sobre él.
 
 Ya con tu nota final obtenida sobre 4.0 y con el acta del curso publicada, podrás decir orgullosamente que terminaste una (o las 2 si estabas en práctica 2) de tus prácticas :)
 
@@ -184,7 +184,7 @@ Si las tareas que realizas coinciden con las de la preinscripción que hiciste y
 ---
 
 ## Mi pre-inscripción ha estado en "pendiente" por mucho tiempo ¿Qué hago?
-Mandale un mail a la Secretaria Docente, Sandra (sandra@dcc.uchile.cl) para que le avise al Coordinador de Prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
+Mandale un mail a la Secretaria Docente, Maribel (maribel@dcc.uchile.cl) para que le avise al Coordinador de Prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
 
 ---
 
