@@ -27,7 +27,7 @@ Ahora que tienes tu curriculum, puedes empezar a buscar empresas y postular como
 
 **La Feria Laboral:** Este es un evento que se realiza entre Octubre y Noviembre y dura una semana. Vienen varias empresas e instituciones, recomendadas por estudiantes del DCC que ya dieron sus prácticas, para ofrecer trabajo para practicantes. Este evento tiene muchas ventajas ya que explican bastante lo que haría el practicante y deja muy claro el área en que trabajaría.
 
-**La Feria Laboral® FCFM:** Esta es una feria que se realiza en semestre primavera todos los años y es donde los estudiantes de toda la facultad pueden encontrar práctica. Además realizan un par de talleres de como hacer tu Curriculum. Aquí les dejamos un [link](http://www.feriaempresarial.cl/).
+**La Feria Laboral® FCFM:** Esta es una feria que se realiza en semestre primavera todos los años y es donde los estudiantes de toda la facultad pueden encontrar práctica. Además realizan un par de talleres de como hacer tu Curriculum.
 
 **Preguntarle a un Profe:** Si estas muy perdido y hay un profe que te llama mucho la atención a lo que se dedica, puedes preguntarle si tiene algún contacto de esa área para hacer la práctica. **Ten en cuenta eso sí que un profesor no puede ofrecerte un trabajo dirigido como práctica (o sea, no puede ser tu empleador**.
 
