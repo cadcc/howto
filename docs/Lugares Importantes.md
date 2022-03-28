@@ -121,7 +121,7 @@
 }
 
 svg text {
-	font-size: 2em;
+	font-size: 0.8em;
 }
 
 </style>
