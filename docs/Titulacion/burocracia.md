@@ -29,7 +29,7 @@ Para poder titularte y obtener el [prestigio](https://http2.mlstatic.com/kit-10-
 
 * **Bienestar, Certificado de Homologaciones, Deuda con Servicios Centrales y Situación en Biblioteca**: Estos 4 pasos están juntos porque la verdad es que deberían haber empezado a correr cuando mandaste el correo para iniciar el recuento de créditos, no tienes nada que hacer acá más que esperar.
 * **Cédula de Identidad**: Sube una fotocopia de tu carnet por ambos lados. Eso.
-* **Revisión de Datos Personales**: Revisan que tus datos estén bien. Para esto tienes que avisar, a la misma persona que le enviaste el correo del recuento de cr, que te falta la verificación de tus datos y te envían un PDF con los datos a verificar y que tienes que firmar.
+* **Revisión de Datos Personales**: Revisan que tus datos estén bien. Para esto tienes que avisar, a la misma persona que le enviaste el correo del recuento de créditos, que te falta la verificación de tus datos y te envían un PDF con los datos a verificar y que tienes que firmar.
 * **Impuesto de Títulos y Grados**: La otra parte chistosa de todo esto, también tuviste que hacer esto para la licenciatura excepto que ahora desbloqueas este trámite después de que biblioteca haya aceptado tu documento y esté aprobada la recepción de empastes (Ver la sección siguiente sobre **Requisitos Finales: Examen de Título o Grado, Nota Final**).
 
     Para pagar el impuesto tienes que ingresar con tu cuenta a [mi.uchile.cl](https://mi.uchile.cl) y hacer click donde dice **Certificados de Titulo y Grado y Depósito Condicional**:
