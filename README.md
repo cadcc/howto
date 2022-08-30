@@ -14,3 +14,4 @@ Agradecemos infinitamente a todos los que han colaborado con la elaboración de 
 - Tomás Ahumada (FAQ Impresoras, FAQ Prácticas, FAQ Mechón, Lugares y NPCs importantes y todo en realidad, te amamos tomimi <3)
 - Eduardo Riveros (Información Titulación y Proyecto de Software)
 - Sergio Leiva (Chats del DCC)
+- Alejandra Alarcón (Burocracia Titulación)
