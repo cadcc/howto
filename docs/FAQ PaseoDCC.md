@@ -2,11 +2,11 @@
 
 Todas tus dudas relacionadas a este gran evento que cada año esperamos con ansias podrás encontrarlas respondidas en esta página.
 
-Te recordamos que para la versión 2022, el link del formulario de inscripción con instrucciones se encuentra en este link: [a.cadcc.cl/paseo2022](https://a.cadcc.cl/paseo2022)
+Te recordamos que para la versión 2022, el link del formulario de inscripción con instrucciones se encuentra en este link: [a.cadcc.cl/paseoDCC2022](https://a.cadcc.cl/paseoDCC2022)
 
 Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](https://t.me/+cAVp-ek3XURlOTBh) o enviar un correo a paseo@cadcc.cl
 
-**Opcional: Toma cada vez que diga [Formulario de Inscripción](https://a.cadcc.cl/paseo2022).**
+**Opcional: Toma cada vez que diga [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022).**
 
 ---
 
@@ -32,9 +32,9 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 
 ## - ¿Cómo me inscribo al PaseoDCC?
 
-Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc.cl/paseo2022) y leer y seguir y **LEER DE NUEVO** las instrucciones que se te darán. Por favor, evita ingresar chistes o tallas internas y #respeta los formatos pedidos.
+Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) y leer y seguir y **LEER DE NUEVO** las instrucciones que se te darán. Por favor, evita ingresar chistes o tallas internas y #respeta los formatos pedidos.
 
-Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea por la primera cuota o por el precio completo (más detalles abajito). El solo rellenar el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
+Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea por la primera cuota o por el precio completo (más detalles abajito). El solo rellenar el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
 
 Al hacer la inscripción estarás aceptando el compromiso de buena conducta que ahí se encuentra. Este compromiso es crucial para asistir al Paseo y debe ser tomado con toda seriedad.
 
@@ -53,7 +53,7 @@ La organización **podrá excluir del Paseo a quienes tengan antecedentes de den
 
 Para casos particulares comunicarse directamente con el CaDCC o al Telegram @flordoro.
 
-**TODA persona asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022), sin excepciones.**
+**TODA persona asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022), sin excepciones.**
 
 ---
 
@@ -65,13 +65,13 @@ Podrán ir personas externas al departamento como **acompañantes**, bajo las si
 - Cada DCC podrá invitar a lo más a 1 acompañante.
 - Existirán cupos limitados para acompañantes. En la primera tanda de 100 cupos generales, se permitirán a lo más 30 para acompañantes. Si liberamos más cupos generales, podrían o no liberarse más cupos de acompañantes, según la demanda.
 
-La persona acompañante tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](https://a.cadcc.cl/paseo2022), indicando su calidad de acompañante. Se le preguntará el nombre de la persona DCC que le invitó y esto será revisado posteriormente. **Cada persona DCC es responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso de conducta aceptado al inscribirse.
+La persona acompañante tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022), indicando su calidad de acompañante. Se le preguntará el nombre de la persona DCC que le invitó y esto será revisado posteriormente. **Cada persona DCC es responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso de conducta aceptado al inscribirse.
 
 Este proceso <s>**dictatorial y desalmado**</s> nace de que el espíritu de nuestro PaseoDCC es que la comunidad pueda compartir entre pares, para conocernos mejor, establecer lazos y hacer rondas **tomadxs de la manito**. Se busca evitar que se aproveche este evento como carrete personal con los panas o como viaje barato a la playa _(porque pucha que es barato **GRANDE CADCC**)_.
 
 Si quieres llevar a tu **gato** a parrandear, lamentablemente no se puede (por ahora...).
 
-**TODA persona asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022), sin excepciones.**
+**TODA persona asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022), sin excepciones.**
 
 ---
 
@@ -79,7 +79,7 @@ Si quieres llevar a tu **gato** a parrandear, lamentablemente no se puede (por a
 
 En años anterior se tenía una lista de prioridad según ciertos criterios, principalmente para <s>echar viejonxs</s> que se renovara la gente que iba al Paseo, pero este año se decidió que, como hace mucho rato que no hay un Paseo y la gran mayoría nunca ha estado en uno (uwu), estos criterios ya no tienen mucho sentido.
 
-En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Inicialmente se liberarán 100 cupos generales, de los cuales 30 pueden ser acompañantes. Estos cupos se llenarán por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseo2022) y del pago** (AMBAS COSAS, cada una por sí sola no implica cupo asegurado).
+En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Inicialmente se liberarán 100 cupos generales, de los cuales 30 pueden ser acompañantes. Estos cupos se llenarán por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) y del pago** (AMBAS COSAS, cada una por sí sola no implica cupo asegurado).
 
 ---
 
@@ -138,13 +138,13 @@ Si tienes una situación particular respecto a los pagos o plazos, no dudes en c
 ### Valor total:
 Si quieres, puedes pagar el valor total del Paseo ($40.000 DCC, $45.000 acompañante) desde el momento de la inscripción. Por el momento, esto no te dará ningún beneficio por sobre pagar en cuotas, pero puedes sacarte el cacho altiro y además nos ayudas a recaudar fondos con más anticipación :D.
 
-**En ambos casos debes enviar tu comprobante al correo y adjuntar una copia o pantallazo en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022)**.
+**En ambos casos debes enviar tu comprobante al correo. Sin el pago (ya sea de primera cuota o pago total), tu inscripción no es válida ni tienes cupo asegurado**.
 
 ---
 
 ## - ¿A quién tengo que pagarle?
 
-Se puede pagar en efectivo a Joaquin Carreño (@joacoelflaco en Telegram), o por transferencia bancaria a la cuenta:
+Se puede pagar en efectivo a Joaquín Carreño (@joacoelflaco en Telegram), o por transferencia bancaria a la cuenta:
 
 - Banco: Banco Estado
 - Tipo de Cuenta: Cuenta Rut
@@ -153,7 +153,7 @@ Se puede pagar en efectivo a Joaquin Carreño (@joacoelflaco en Telegram), o por
 - Cuenta: 20392282
 - Mail: pagospaseo@cadcc.cl
 
-**Debes enviar tu comprobante al correo y adjuntar una copia o pantallazo en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022). Si pagas con la cuenta de alguien más, en el comentario de la transferencia agrega el nombre de la persona inscrita.**
+**DEBES enviar tu comprobante al correo. Si pagas con la cuenta de alguien más, en el comentario de la transferencia agrega el nombre de la persona inscrita.**
 
 ---
 
@@ -193,7 +193,7 @@ Vamos a El Tabo, Región de Valparaíso. Específicamente, en las cabañas Litor
 
 Sí puedes, pero por default, no haremos ninguna diferencia en el precio final por ello. Igualmente si planeas ir por tu cuenta, avisa a la organización, para que sepamos que no llegarás a los buses y para confirmar que tendrás estacionamiento disponible.
 
-Como se indicó en el [Formulario de Inscripción](a.cadcc.cl/paseo2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
+Como se indicó en el [Formulario de Inscripción](a.cadcc.cl/paseoDCC2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
 
 ---
 
