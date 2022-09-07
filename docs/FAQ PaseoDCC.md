@@ -4,7 +4,9 @@ Todas tus dudas relacionadas a este gran evento que cada año esperamos con ansi
 
 Te recordamos que para la versión 2022, el link del formulario de inscripción con instrucciones se encuentra en este link: [a.cadcc.cl/paseoDCC2022](https://a.cadcc.cl/paseoDCC2022)
 
-Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](https://t.me/+cAVp-ek3XURlOTBh) o enviar un correo a paseo@cadcc.cl
+¡Únete al [chat oficial del PaseoDCC](https://t.me/+tbKfWAw5ddZkYWMx) para estar en contacto directo con participantes y organizadores!
+
+Si tu duda no está respondida aquí, no dudes en preguntar en el chat del PaseoDCC, en el [chat general DCC](https://t.me/+cAVp-ek3XURlOTBh) o enviar un correo a paseo@cadcc.cl
 
 **Opcional: Toma cada vez que diga [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022).**
 
