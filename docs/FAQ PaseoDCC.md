@@ -79,7 +79,7 @@ Si quieres llevar a tu **gato** a parrandear, lamentablemente no se puede (por a
 
 En años anterior se tenía una lista de prioridad según ciertos criterios, principalmente para <s>echar viejonxs</s> que se renovara la gente que iba al Paseo, pero este año se decidió que, como hace mucho rato que no hay un Paseo y la gran mayoría nunca ha estado en uno (uwu), estos criterios ya no tienen mucho sentido.
 
-En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Inicialmente se liberarán 100 cupos generales, de los cuales 30 pueden ser acompañantes. Estos cupos se llenarán por **orden de llegada de la inscripción y el pago** (AMBAS COSAS JUNTAS, cada una por sí sola no implica cupo asegurado).
+En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Inicialmente se liberarán 100 cupos generales, de los cuales 30 pueden ser acompañantes. Estos cupos se llenarán por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseo2022) y del pago** (AMBAS COSAS, cada una por sí sola no implica cupo asegurado).
 
 ---
 
@@ -112,7 +112,9 @@ Para abordar todo esto decidimos ir sacando cupos de forma escalonada, de esta f
 ## - ¿Cuánto sale el PaseoDCC?
 
 Para la edición 2022 del PaseoDCC, el valor **total** por persona será el siguiente:
+
 DCC: $40.000.
+
 Acompañantes FCFM: $45.000.
 
 Esto se puede pagar en dos modalidades, pregúntame y te digo.
@@ -136,6 +138,8 @@ Si tienes una situación particular respecto a los pagos o plazos, no dudes en c
 ### Valor total:
 Si quieres, puedes pagar el valor total del Paseo ($40.000 DCC, $45.000 acompañante) desde el momento de la inscripción. Por el momento, esto no te dará ningún beneficio por sobre pagar en cuotas, pero puedes sacarte el cacho altiro y además nos ayudas a recaudar fondos con más anticipación :D.
 
+**En ambos casos debes enviar tu comprobante al correo y adjuntar una copia o pantallazo en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022)**.
+
 ---
 
 ## - ¿A quién tengo que pagarle?
@@ -149,7 +153,7 @@ Rut: 20.392.282-8
 Cuenta: 20392282
 Mail: pagospaseo@cadcc.cl
 
-Por favor asegúrate de ingresar el correo para enviar el comprobante. Si pagas con la cuenta de alguien más, agrega tu nombre en el comentario de la transferencia.
+Por favor asegúrate de ingresar el correo para enviar el comprobante. Si pagas con la cuenta de alguien más, en el comentario de la transferencia agrega el nombre de la persona inscrita.
 
 ---
 
@@ -163,15 +167,13 @@ También considera que que ustedes paguen el precio completo nos ayuda un montó
 
 ## - ¿Que incluye este precio?
 
-En principio, el precio incluye las dos noches de alojamiento y el transporte de ida y vuelta. La organización sí o sí se va a poner con cosas comunitarias (comida/copete), pero aún no está completamente definido qué. Necesitamos tener un mejor sizing de la cantidad de personas antes de prometerles cosas.
+En principio, el precio incluye las dos noches de alojamiento y el transporte de ida y vuelta. La organización sí o sí se va a poner con cosas comunitarias (comida/copete), pero aún no está completamente definido qué. Necesitamos tener una mejor estimación de la cantidad de personas antes de prometerles cosas.
 
-A modo de transparencia, te podemos decir que el costo de alojamiento por persona es de ~$22.000, y el transporte ronda los ~$15.000, por lo que casi el total de tu pago se utilizará para estos fines. Cualquier servicio o producto extra que demos se pagará con el excedente de ese ingreso, sumado a los fondos al contado del CaDCC (que no son tantos jiji), por eso tenemos que ser muy responsables al evaluar las cantidades y servicios que les ofrezcamos. Pueden confíar en que estamos buscando lo mejor para ustedes y el Paseo uwu.
+A modo de transparencia, te podemos decir que el costo de alojamiento por persona es de ~$22.000, y el de transporte ronda los ~$15.000, por lo que casi el total de tu pago se utilizará para estos fines. Cualquier servicio o producto extra que demos se pagará con el excedente de ese ingreso, sumado a los fondos al contado del CaDCC (que no son tantos jiji), por eso tenemos que ser muy responsables al evaluar las cantidades y servicios que les ofrezcamos. Pueden confíar en que estamos buscando lo mejor para ustedes y el Paseo uwu.
 
 ---
 
 # Sección: <s>El trip</s> El viaje
-
-(Sección en construcción...)
 
 ## - ¿A qué hora viajamos?
 
@@ -189,7 +191,7 @@ Vamos a El Tabo, Región de Valparaíso. Específicamente, en las cabañas Litor
 
 ## - ¿Puedo viajar por mi cuenta en bus o en auto?
 
-Sí puedes, pero hasta el momento, no haremos ninguna diferencia en el precio final por ello. Si planeas ir por tu cuenta, avisa a la organización, para que sepamos que no llegarás a los buses y para confirmar que tendrás estacionamiento disponible.
+Sí puedes, pero por default, no haremos ninguna diferencia en el precio final por ello. Igualmente si planeas ir por tu cuenta, avisa a la organización, para que sepamos que no llegarás a los buses y para confirmar que tendrás estacionamiento disponible.
 
 Como se indicó en el [Formulario de Inscripción](a.cadcc.cl/paseo2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
 
@@ -200,9 +202,9 @@ Como se indicó en el [Formulario de Inscripción](a.cadcc.cl/paseo2022), es pos
 (Sección en construcción...)
 
 ## - ¿De cuánta gente son las cabañas?
-Las cabañas son de 6 personas. Hay unas pocas con capacidades un poco distintas, pero la organización decidirá cómo disponer esos casos. Considera tu grupo para 6 personas.
+Las cabañas son de 6 personas. Hay unas pocas con capacidades un poco distintas, pero la organización decidirá cómo disponer esos casos. Para efectos prácticos, considera tu grupo de 6 personas.
 
-Las cabañas tienen una habitación con 1 cama matrimonial, una habitación con 2 camarotes y un living con un sillón. Si no les molesta que alguien duerma en el sillón, pueden meter una persona extra.
+Las cabañas tienen una habitación con 1 cama matrimonial, una habitación con 2 camarotes y un living con un sillón. Si no les molesta que alguien duerma en el sillón o hacer cucharita, pueden meter una persona extra.
 
 ## - ¿Cómo se asignan las cabañas?
 El proceso específico aún no está definido, pero a modo general, cada grupo puede armar su cabaña (con las condiciones recién mencionadas), y las personas que no tengan grupo o tengan un grupo más chico que una cabaña, probablemente serán asignadas por la organización.
@@ -210,7 +212,7 @@ El proceso específico aún no está definido, pero a modo general, cada grupo p
 Pronto daremos más definiciones sobre esto.
 
 ## - ¿Qué tienen las cabañas?
-Cada cabaña tiene 2 habitaciones, una matrimonial y una con camarotes, 1 baño, living-comedor y cocina equipada. La cocina tiene lo básico para la comida (olla, sartén, tetera, horno, refri, platos, cubiertos, vasos). Si para sus _experimentos_ necesitan algo más específico, como licuadora, batidora, etc, no podemos garantizarlo, pero podemos preguntar para confirmar.
+Cada cabaña tiene 2 habitaciones, una matrimonial y una con camarotes, 1 baño, living-comedor, cocina equipada y calefont. La cocina tiene lo básico para la comida (olla, sartén, tetera, cocina, horno, refri, platos, cubiertos, vasos). Si para sus _experimentos_ necesitan algo más específico, como licuadora, batidora, quéséyó, no podemos garantizarlo, pero podemos preguntar para confirmar.
 
 ---
 
