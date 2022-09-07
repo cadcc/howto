@@ -149,8 +149,8 @@ Se puede pagar en efectivo a Joaquín Carreño (@joacoelflaco en Telegram), o po
 - Banco: Banco Estado
 - Tipo de Cuenta: Cuenta Rut
 - Nombre: Joaquín Carreño
-- Rut: 20.392.282-8
-- Cuenta: 20392282
+- Rut: 20.392.272-8
+- Cuenta: 20392272
 - Mail: pagospaseo@cadcc.cl
 
 **DEBES enviar tu comprobante al correo. Si pagas con la cuenta de alguien más, en el comentario de la transferencia agrega el nombre de la persona inscrita.**
