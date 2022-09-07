@@ -128,8 +128,8 @@ Buena pregunta. Puedes pagar de la siguiente forma:
 ### Cuotas:
 Como sabemos que la plata no abunda en septiembre y las UBs llegan tarde, te permitimos pagar el total en dos cómodas cuotas, en los siguientes plazos:
 
-Primera cuota: $20.000. Desde la inscripción el miércoles 7/sep hasta el domingo 18/sep.
-Segunda cuota: $20.000 DCC, $25.000 acompañantes. Desde el lunes 26/sep hasta el domingo 16/oct.
+- Primera cuota: $20.000. Desde la inscripción el miércoles 7/sep hasta el domingo 18/sep.
+- Segunda cuota: $20.000 DCC, $25.000 acompañantes. Desde el lunes 26/sep hasta el domingo 16/oct.
 
 El no cumplir con estos plazos implica que tu cupo queda a disposición de la organización.
 
