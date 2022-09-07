@@ -47,7 +47,7 @@ El PaseoDCC 2022 es abierto a toda la comunidad de estudiantes del DCC. Además,
 Admitiremos como **participantes DCC** a quienes cumplan alguno de los siguientes criterios:
 - Ser estudiante regular del DCC.
 - Haber cursado o estar cursando en total 3 ramos de la malla de especialidad DCC, y que actualmente la mayoría de sus ramos sean DCC (i.e. mechones).
-- Haber egresado del DCC durante el año 2022 (i.e. viejones). Estamos evaluando ampliar este criterio a otros años de pandemia.
+- Haber egresado del DCC durante el año 2020 (i.e. viejones).
 
 La organización **podrá excluir del Paseo a quienes tengan antecedentes de denuncias**, tal como se indica en el compromiso aceptado al inscribirse.
 
