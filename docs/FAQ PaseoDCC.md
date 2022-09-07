@@ -193,7 +193,7 @@ Vamos a El Tabo, Región de Valparaíso. Específicamente, en las cabañas Litor
 
 Sí puedes, pero por default, no haremos ninguna diferencia en el precio final por ello. Igualmente si planeas ir por tu cuenta, avisa a la organización, para que sepamos que no llegarás a los buses y para confirmar que tendrás estacionamiento disponible.
 
-Como se indicó en el [Formulario de Inscripción](a.cadcc.cl/paseoDCC2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
+Como se indicó en el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
 
 ---
 
