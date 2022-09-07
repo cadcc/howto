@@ -12,6 +12,7 @@ Agradecemos infinitamente a todos los que han colaborado con la elaboración de 
 - Nicolás Lehmann (Información Titulación)
 - Francisco Cifuentes (Información Titulación)
 - Tomás Ahumada (FAQ Impresoras, FAQ Prácticas, FAQ Mechón, Lugares y NPCs importantes y todo en realidad, te amamos tomimi <3)
+- Sebastián Cisneros (FAQ Paseo 2019 y 2022, FAQ Mechón, DCCionario, Lugares, NPCs y correcciones generales)
 - Eduardo Riveros (Información Titulación y Proyecto de Software)
 - Sergio Leiva (Chats del DCC)
 - Alejandra Alarcón (Burocracia Titulación)
