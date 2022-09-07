@@ -1,12 +1,12 @@
-# FAQ PaseoDCC (Actualizado a 2019)
+# FAQ PaseoDCC (Actualizado a 2022)
 
 Todas tus dudas relacionadas a este gran evento que cada año esperamos con ansias podrás encontrarlas respondidas en esta página.
 
-Te recordamos que para la versión 2019, el link del formulario de inscripción con instrucciones se encuentra en este link: [a.cadcc.cl/paseo2019](https://a.cadcc.cl/paseo2019)
+Te recordamos que para la versión 2022, el link del formulario de inscripción con instrucciones se encuentra en este link: [a.cadcc.cl/paseo2022](https://a.cadcc.cl/paseo2022)
 
-Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](a.cadcc.cl/telegramdcc) o enviar un correo a paseo@cadcc.cl
+Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](https://t.me/+cAVp-ek3XURlOTBh) o enviar un correo a paseo@cadcc.cl
 
-**Opcional: Toma cada vez que diga [Formulario de Inscripción](https://a.cadcc.cl/paseo2019).**
+**Opcional: Toma cada vez que diga [Formulario de Inscripción](https://a.cadcc.cl/paseo2022).**
 
 ---
 
@@ -16,15 +16,15 @@ Si tu duda no está respondida aquí, no dudes en preguntar en el [chat DCC](a.c
 
 ## - ¿Qué es el PaseoDCC?
 
-Es un evento anual que se realiza desde el 2014, organizado íntegramente por la directiva del CADCC (y a veces otr@s estudiantes apañador@s). El evento consiste en un viaje a la playa, históricamente a El Tabo, durante algunos días, con objetivo de distender la rutina académica, acercar a la comunidad y pegarse unos vaciles.
+Es un evento anual que se realiza desde el 2014, organizado íntegramente por la directiva del CaDCC y otras personas apañadoras. El evento consiste en un viaje a la playa, históricamente a El Tabo, durante algunos días, con objetivo de distender la rutina académica, acercar a la comunidad y pegarse unos vaciles.
 
 ---
 
 ## - ¿Cuándo y dónde es el PaseoDCC?
 
-Este año 2019, el PaseoDCC se llevará a cabo desde el jueves 31 de octubre al domingo 4 de noviembre. Esto implica que en comparación con años anteriores, tenemos un aumento de 1 (una) noche completa para añadirle al carrete, aprovechando los días feriados que con tanto amor nos han sido concedidos en esas fechas. La idea es partir el jueves a mediodía y volver el domingo a hora similar.
+Este año 2022, el PaseoDCC se llevará a cabo desde el domingo 30 de octubre al martes 1 de noviembre. Esos días son feriados, y toda esa semana es de receso académico, para que te olvides de la u por un buen rato. La idea es partir el domingo a mediodía y volver el martes a hora similar.
 
-El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. Específicamente en las [Cabañas Litoral Princess](https://goo.gl/maps/xBaWERk1LpFAg6ZdA), donde seremos tratados como verdaderas princesas del reino costero _(spoiler: no)_.
+El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. Específicamente en las [Cabañas Litoral Princess](https://goo.gl/maps/1k9AWk5SoMYFfXKT8), donde seremos tratadxs como verdaderas princesas del reino costero _(disclaimer: quizás no)_.
 
 ---
 
@@ -32,97 +32,76 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 
 ## - ¿Cómo me inscribo al PaseoDCC?
 
-Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) y leer y seguir y **LEER** las instrucciones que se te darán. Por favor, evita usar apodos y **LEE** y #respeta los formatos pedidos.
+Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc.cl/paseo2022) y leer y seguir y **LEER DE NUEVO** las instrucciones que se te darán. Por favor, evita ingresar chistes o tallas internas y #respeta los formatos pedidos.
 
-Y listo, ya puedes ir al paseomentira obvio que no. Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea de Preventa o de Primera Cuota (Más detalles abajito). El solo rellenar el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
+Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea por la primera cuota o por el precio completo (más detalles abajito). El solo rellenar el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
 
-Además, este año se pretende instaurar un compromiso escrito de buen comportamiento y #Respeto, que tod@s l@s asistentes deberán firmar físicamente en persona. Se darán más detalles al respecto durante los próximos días.
+Al hacer la inscripción estarás aceptando el compromiso de buena conducta que ahí se encuentra. Este compromiso es crucial para asistir al Paseo y debe ser tomado con toda seriedad.
 
 ---
 
 ## - ¿Quiénes pueden ir al PaseoDCC?
 
-El PaseoDCC 2019 es abierto a toda la comunidad de estudiantes del departamento, incluyendo pregrado y posgrado. También, como en años anteriores, permitiremos el ingreso de ex-estudiantes del departamento y personas externas invitadas por estudiantes, siempre priorizando los cupos para personas del DCC.
+El PaseoDCC 2022 es abierto a toda la comunidad de estudiantes del DCC. Además, permitiremos acompañantes externxs según se indica en la pregunta siguiente.
 
-**TOD@ asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019), sin excepciones.**
+Admitiremos como **participantes DCC** a quienes cumplan alguno de los siguientes criterios:
+- Ser estudiante regular del DCC.
+- Haber cursado o estar cursando en total 3 ramos de la malla de especialidad DCC, y que actualmente la mayoría de sus ramos sean DCC (i.e. mechones).
+- Haber egresado del DCC durante el año 2022 (i.e. viejones). Estamos evaluando ampliar este criterio a otros años de pandemia.
+
+La organización **podrá excluir del Paseo a quienes tengan antecedentes de denuncias**, tal como se indica en el compromiso aceptado al inscribirse.
+
+Para casos particulares comunicarse directamente con el CaDCC o al Telegram @flordoro.
+
+**TODA persona asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022), sin excepciones.**
 
 ---
 
 ## - ¿Puedo llevar a mi amigui/pololi/andante/gato/etc?
 
-Sí, lo acabo de decir. Podrán ir personas **externas** al departamento, tanto beauchefian@s como alienígenas, **solo si son invitad@s explícitamente por un/a estudiante actual del departamento**. En ese caso, la persona invitada tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](https://a.cadcc.cl/paseo2019), indicando su calidad de persona externa. Se le preguntará el nombre de el/la estudiante que le invitó y esto será revisado posteriormente. **Cada DCCian@ será responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso firmado que aún no está escrito pero te juro que es brígido.
+Podrán ir personas externas al departamento como **acompañantes**, bajo las siguientes condiciones:
+- Deben ser estudiantes de pregrado o posgrado de la FCFM. No egresades.
+- Cada persona acompañante debe ser invitada por una persona DCC.
+- Cada DCC podrá invitar a lo más a 1 acompañante.
+- Existirán cupos limitados para acompañantes. En la primera tanda de 100 cupos generales, se permitirán a lo más 30 para acompañantes. Si liberamos más cupos generales, podrían o no liberarse más cupos de acompañantes, según la demanda.
 
-Este proceso **dictatorial y desalmado** nace de que el espíritu de nuestro PaseoDCC es que la comunidad pueda compartir entre pares, para conocernos mejor, establecer lazos y hacer rondas **tomad@s de la manito**. Se busca evitar que se aproveche este evento como carrete personal con los panas o como viaje barato a la playa _(porque puta que es barato **GRANDE CADCC**)_.
+La persona acompañante tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](https://a.cadcc.cl/paseo2022), indicando su calidad de acompañante. Se le preguntará el nombre de la persona DCC que le invitó y esto será revisado posteriormente. **Cada persona DCC es responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso de conducta aceptado al inscribirse.
 
-L@s acompañantes extern@s tienen la última **prioridad de cupo**, como se explica en la sección de Prioridad.
+Este proceso <s>**dictatorial y desalmado**</s> nace de que el espíritu de nuestro PaseoDCC es que la comunidad pueda compartir entre pares, para conocernos mejor, establecer lazos y hacer rondas **tomadxs de la manito**. Se busca evitar que se aproveche este evento como carrete personal con los panas o como viaje barato a la playa _(porque pucha que es barato **GRANDE CADCC**)_.
 
-Si quieres llevar a tu **gato** a parrandear es más complicado, pero si tiene chip igual demás.
+Si quieres llevar a tu **gato** a parrandear, lamentablemente no se puede (por ahora...).
 
----
-
-## - Me titulé pero les echo de menos uwu, ¿Puedo ir al PaseoDCC?
-
-Por supuesto, si necesitas escapar un rato de tu ajetreada vida laboral u olvidarte por unos días de las Isapres que estás cotizando, eres más que bienvenid@ a recordar tu edad del pavo con los lolos. Basta con que te inscribas en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) indicando tu... condición. Se priorizarán cupos para estudiantes actuales antes que para ex-estudiantes, como se explica en la sección de Prioridad.
-
-Porsi cotiza bien la Isapre antes de ir porque el seguro escolar ya no corre...
+**TODA persona asistente al evento deberá haberse registrado en el [Formulario de Inscripción](https://a.cadcc.cl/paseo2022), sin excepciones.**
 
 ---
-
-## - ¿Puedo ir si aún no tengo código de la carrera?
-
-Sí. Dada tu pregunta supongo que ni siquiera has abierto el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019), pero no te preocupes, para eso estoy aquí. Al responder el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) e indicar que no tienes código aún, avanza a la siguiente ventanilla donde te estará esperando un instructivo precioso indicándote cómo indicarnos la indicación de que efectivamente eres mechón/a. Basta con que envíes una de las opciones. Esto se revisará manualmente, por lo que si tienes alguna situación particular excepcional extraordinaria extrema, junto con las imágenes pedidas puedes explicarnos tu situación particular excepcional extraordinaria extrema.
-
-Si photoshopeas las pruebas serás car'e caca **durante todo el paseo**.
-
----
-
-## - ¿Por qué debo corroborar que soy mechón/a si tengo código?
-
-Como se explica en la sección de Prioridad más abajo, este año hemos decidido mantener los puestos prioritarios para mechon@s, por lo que si quieres ser considerad@ dentro de ese conjunto, la mejor forma que tenemos de chequear tu mechonidad es con la información que pedimos. Podríamos intentar hackear U-Campus y ver si tienes código, pero podría ser engorroso.
-
-Ahora, si te vai en la bélica y no quieres o te da lata mandar tus datos, puedes marcarte como Estudiante regular no-mechón/a e inscribirte como la plebe, pero ten en cuenta que no contarás con la codiciada **Súper Prioridad Mechona** y podrías terminar despidiéndote de tus amigos en el bus desde la vereda.
-
----
-
-# Sección: Hablemos de Prioridad...
-
-_Esta es la sección de Prioridad que mencioné mil veces, por fin_
 
 ## - ¿Qué pasa si se llenan los cupos?
 
-Dado que nuestra comunidad está creciendo rápidamente, los últimos años nos hemos visto al borde del sobrecupo, por lo que se han establecido **protocolos de prioridad** para <s>echar</s> poder seleccionar de manera justa y pre-establecida quiénes tendrán la fortuna de participar en el evento y quiénes podrán seguirnos por streaming.
+En años anterior se tenía una lista de prioridad según ciertos criterios, principalmente para <s>echar viejonxs</s> que se renovara la gente que iba al Paseo, pero este año se decidió que, como hace mucho rato que no hay un Paseo y la gran mayoría nunca ha estado en uno (uwu), estos criterios ya no tienen mucho sentido.
 
-La prioridad de cupos para este año contempla los siguientes grupos en orden descendente:
-
-* Organizadores y colaboradores (injustísimo no?).
-* DCCian@s que hayan pagado la Preventa.
-* Mechon@s DCC con código de la carrera, con info enviada y verificada.
-* Mechon@s DCC sin código de la carrera, con info enviada y verificada.
-* Estudiantes comunes y corrientes del DCC, pregrado y posgrado. Incluye _mechon@s_ estafadores sin verificación.
-* Ex-estudiantes del DCC. Egresad@s, titulad@s, expulsad@s, renunciad@s, etc.
-* Acompañantes extern@s.
-* El gato.
-* El gato sin chip.
-
-Dentro de cada grupo, la prioridad se regirá por **orden de inscripción**, reiterando que la inscripción se completa al llenar el [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) y **realizar el primer pago**. El [Formulario de Inscripción](https://a.cadcc.cl/paseo2019) por sí solo no cuenta como inscripción.
+En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Inicialmente se liberarán 100 cupos generales, de los cuales 30 pueden ser acompañantes. Estos cupos se llenarán por **orden de llegada de la inscripción y el pago** (AMBAS COSAS JUNTAS, cada una por sí sola no implica cupo asegurado).
 
 ---
 
-## - ¿Espera entonces podría ser que yo pueda ir pero mi amigui/pololi/andante/gato/etc se quede abajo por prioridad?
+## - ¿Abrirán más cupos?
 
-Hmm... sip.
+Es probable que sí. Todo dependerá de cómo se dé la primera venta. De todas formas, podría ser que no haya más, o que en la próxima tanda no se admitan acompañantes, así que aprovecha ahora!
 
 ---
 
-## - ¿Qué pasa si soy estudiante normal, pero al mismo tiempo soy mechón/a porque me atrasé, tengo código pero del programa de estudios antiguo, organicé todo el Paseo, me titulo mañana y mi gato está enfermo? ¿En qué grupo quedo?
+## - ¿Por qué no abren todos los cupos de una no más?
 
-<s>Mira conchetum</s>Por supuesto, los casos especiales podrán ser revisados a mano. Si tienes dudas puedes consultar con cualquier persona del CADCC, enviar un correo a paseo@cadcc.cl o tomar este sencillo test de BuzzFeed para determinar [qué DCCian@ eres](obvioquenooo).
+Principalmente por razones logísticas. El recinto que tenemos visto arrienda por cabaña, es decir, para saber cuánto tenemos que pagar, tenemos que saber cuántas cabañas usaremos, y para saber eso tenemos que saber cuánta gente irá. Por otro lado, para saber cuánta gente irá, tenemos que saber con cuánto espacio contamos, y para eso necesitamos saber cuánto dinero gastaremos. Además, el Paseo se costea principalmente con el mismo pago de las inscripciones, por lo que para poder hacer la reserva necesitamos que se inscriban. Al final, es un conjunto de variables interdependientes que es MUY difícil de calcular y proyectar, y los fondos disponibles actualmente no nos dan mucha holgura.
 
-## - ¿Cuándo sabré si quedé fuera o no?
+Para sumar incertidumbre, como hace años que no hay Paseo y ya hubo un recambio generacional completo, tampoco tenemos mucha proyección respecto a la demanda de cupos, por lo que nos sería difícil jugárnosla con un número preciso para reservar el arriendo.
 
-Durante los últimos días previos al PaseoDCC, se congelarán todos los procesos de inscripción y se hará un listado-final-final-definitivo-estesí.doc y se informará a tod@s sobre su situación personal. Aún así, no es poco común que gente se baje a última hora _(pero así onda literalmente última hora)_, por lo que de abrirse un cupo te lo puedo decir en cualquier momento, debes estar muy atento, como la canción.
+Para abordar todo esto decidimos ir sacando cupos de forma escalonada, de esta forma podemos tener expectativas controladas sobre cuánta gente va a ir, y proyectar mejor la demanda. Además también sirve para incentivar que paguen a tiempo sus cuotas y podamos tener fondos para reservar el recinto.
 
-De todas formas, estaremos avisando si vemos que los cupos proyectan un exceso considerable, e igualmente puedes preguntarnos cómo van si estás teniendo muchas pesadillas al respecto.
+---
+
+## - ¿Qué pasa si soy estudiante regular, pero al mismo tiempo soy mechón/a porque me atrasé, tengo código pero de malla vieja, doble titulación en Derecho, organicé todo el Paseo, me titulo mañana, mi gato está enfermo y me gusta el animé? ¿En qué grupo quedo?
+
+¡Tranqui!, los casos especiales podrán ser revisados a mano. Si tienes dudas sobre tu caso particular, puedes consultar con cualquier persona del CaDCC, enviar un correo a paseo@cadcc.cl o tomar este sencillo test de 230 preguntas para determinar [qué DCCian@ eres](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (disclaimer es broma).
 
 ---
 
@@ -132,80 +111,106 @@ De todas formas, estaremos avisando si vemos que los cupos proyectan un exceso c
 
 ## - ¿Cuánto sale el PaseoDCC?
 
-Para la edición 2019 del PaseoDCC, el valor **total** por persona será de **$25.000**, que pueden ser pagados de las siguientes formas que mejor te voy a contar después que me preguntes.
+Para la edición 2022 del PaseoDCC, el valor **total** por persona será el siguiente:
+DCC: $40.000.
+Acompañantes FCFM: $45.000.
+
+Esto se puede pagar en dos modalidades, pregúntame y te digo.
 
 ---
 
 ## - ¿Cómo se paga el PaseoDCC?
 
-Buena pregunta. Este año tendremos dos modalidades de pago, de las cuales **SOLO DEBES EFECTUAR UNA (1)**:
-
-### Preventa:
-Tal y como en sus eventos discotequeros favoritos, estaremos realizando procesos para l@s más anticipad@s, recibiendo el **pago completo** del valor total del PaseoDCC por persona en **un solo y único pago**, que hará efectiva tu inscripción de forma inmediata y prioritaria, y no tendrás que preocuparte nunca más por nada en la vida.
-
-Es decir, **la Preventa es un pago único de $25.000, sin pagos posteriores**.
-
-Esta modalidad estará disponible **SOLO HASTA EL DOMINGO 8 DE SEPTIEMBRE EXCLAMACIÓN**, luego comienza el sistema normal.
-
-La Preventa está habilitada **solo para estudiantes actuales del DCC, tanto mechones como no-mechones**.
+Buena pregunta. Puedes pagar de la siguiente forma:
 
 ### Cuotas:
-El sistema clásico de dividir el valor total en dos cómodas cuotas para suavizarles los bolsillos, a cambio de vivir con el miedo a quedarte abajo y tener que usar tu disfraz para pedir dulces en tu edificio.
+Como sabemos que la plata no abunda en septiembre y las UBs llegan tarde, te permitimos pagar el total en dos cómodas cuotas, en los siguientes plazos:
 
-* Primera cuota: $10.000. Del **lunes 9 de septiembre** al **Domingo 29 de octubre**.
+Primera cuota: $20.000. Desde la inscripción el miércoles 7/sep hasta el domingo 18/sep.
+Segunda cuota: $20.000 DCC, $25.000 acompañantes. Desde el lunes 26/sep hasta el domingo 16/oct.
 
-* Segunda cuota: $15.000. Del **lunes 30 de septiembre** al **Domingo 20 de octubre**.
+El no cumplir con estos plazos implica que tu cupo queda a disposición de la organización.
 
-En caso de no pagar la primera cuota dentro de su plazo, se podrá pagar junto con la segunda, a cambio de quedar con menor prioridad que los que sí pagaron en el plazo. 
+Si tienes una situación particular respecto a los pagos o plazos, no dudes en conversar con la organización. Obvio que no queremos que nadie se quede abajo por plata :D.
+
+### Valor total:
+Si quieres, puedes pagar el valor total del Paseo ($40.000 DCC, $45.000 acompañante) desde el momento de la inscripción. Por el momento, esto no te dará ningún beneficio por sobre pagar en cuotas, pero puedes sacarte el cacho altiro y además nos ayudas a recaudar fondos con más anticipación :D.
 
 ---
 
 ## - ¿A quién tengo que pagarle?
 
-Se puede pagar en efectivo a Francisco Lecaros (@lecaroos en Telegram) o Cristóbal Mesías (@KriizNoize), que suelen estar en la Salita o en el Toqui. También por transferencia bancaria a la cuenta:
+Se puede pagar en efectivo a Joaquin Carreño (@joacoelflaco en Telegram), o por transferencia bancaria a la cuenta:
 
-Banco: Banco Santander
-Tipo de Cuenta: Cuenta Vista
-Nombre: Cristóbal Mesías Durán
-Rut: 19.839.261-8
-Cuenta: 7050807015
-Mail: paseo@cadcc.cl
+Banco: Banco Estado
+Tipo de Cuenta: Cuenta Rut
+Nombre: Joaquín Carreño
+Rut: 20.392.282-8
+Cuenta: 20392282
+Mail: pagospaseo@cadcc.cl
 
-Por favor asegúrate de ingresar el correo para enviar el comprobante. Si pagas por alguien más, agrega su nombre en el comentario de la transferencia.
-
-Asíes hice copy-paste denúnciame.
+Por favor asegúrate de ingresar el correo para enviar el comprobante. Si pagas con la cuenta de alguien más, agrega tu nombre en el comentario de la transferencia.
 
 ---
 
-## - ¿Por qué querría pagar Preventa si sale lo mismo?
+## - ¿Por qué no hay descuento por pagar altiro?
 
-La Preventa inmediatamente te hace **indestructible e indesterrable**, con prioridad máxima, absoluta y **milenaria**, algo bastante valioso en estos _tiempos mejores_ de sobrepoblación. Ya para el Parcelazo de agosto tuvimos que irnos sentados de a 3 en el bus y nunca antes se había llenado de esa manera, por lo que esperamos que este PaseoDCC sea **bastante** más concurrido que el anterior, así que tiemblan los cupos y los sofá-camas.
+Se consideró dar un beneficio de descuento monetario por pagar todo anticipadamente, pero se llegó a la conclusión de que sería injusto que quienes no tuvieran el dinero para pagar todo inmediatamente, tuvieran que terminar pagando más como "castigo". Además, se nos complicaría el balance de las finanzas al no tener certeza de cuánto dinero recibiríamos. Recuerda que este paseo es de nosotr@s y para nosotr@s, y la gran mayoría se financia con esos pagos _(con una pérdida neta que te morí lo atró)_.
 
-En principio se consideró dar un beneficio de descuento monetario por pagar anticipadamente en Preventa, pero se reevaluó y se llegó a que sería injusto que quienes no tuvieran el dinero para pagar todo inmediatamente, tuvieran que terminar pagando más como "castigo". Además, se nos complicaría el balance de las finanzas al no tener certeza de cuánto dinero recibiríamos. Recuerda que este paseo es de nosotr@s y para nosotr@s, y la gran mayoría se financia con esos pagos _(con una pérdida neta que te morí lo atró)_.
-
-Y ya que estamos en esa, que ustedes paguen Preventa nos ayuda un montón para tener la plata anticipadamente y poder reservar todas las cosas a tiempo, si no vamos a ir en carreta a acampar en la playa no más.
+También considera que que ustedes paguen el precio completo nos ayuda un montón para tener la plata anticipadamente y poder reservar todas las cosas a tiempo, si no vamos a ir en carreta a acampar en la playa no más.
 
 ---
 
-## - Ya bacán. Igual caro $50.000, no?
+## - ¿Que incluye este precio?
 
-No pooo :rollingeyes:...
+En principio, el precio incluye las dos noches de alojamiento y el transporte de ida y vuelta. La organización sí o sí se va a poner con cosas comunitarias (comida/copete), pero aún no está completamente definido qué. Necesitamos tener un mejor sizing de la cantidad de personas antes de prometerles cosas.
 
-**El valor total por persona para ir al PaseoDCC es de $25.000**. La Preventa y las Cuotas son dos modalidades distintas y exclusivas entre sí. **Si pagas Preventa, no debes pagar las cuotas**.
-
-En cualquier caso, y con cualquier modalidad, **tod@s pagan $25.000 para ir al PaseoDCC**.
+A modo de transparencia, te podemos decir que el costo de alojamiento por persona es de ~$22.000, y el transporte ronda los ~$15.000, por lo que casi el total de tu pago se utilizará para estos fines. Cualquier servicio o producto extra que demos se pagará con el excedente de ese ingreso, sumado a los fondos al contado del CaDCC (que no son tantos jiji), por eso tenemos que ser muy responsables al evaluar las cantidades y servicios que les ofrezcamos. Pueden confíar en que estamos buscando lo mejor para ustedes y el Paseo uwu.
 
 ---
 
 # Sección: <s>El trip</s> El viaje
 
-(Soon...)
+(Sección en construcción...)
+
+## - ¿A qué hora viajamos?
+
+Todavía no hemos determinado horas exactas, pero considerando los horarios de check-in y check-out de las cabañas, probablemente partamos a las 10:00am desde Beauchef en la ida, y luego a la vuelta partamos de El Tabo tipo 13:00 (de nuevo, esta info es solo tentativa y no-oficial). El viaje dura aproximadamente 90-120 mins.
+
+**LOS BUSES PARTIRÁN A LA HORA INDICADA** _(cuando la definamos)_ **Y NO ESPERAREMOS A NADIE**
+
+## - ¿A dónde vamos exactamente?
+
+Vamos a El Tabo, Región de Valparaíso. Específicamente, en las cabañas Litoral Princess y sus recintos asociados. Si lo buscas en Google Maps sale un lugar un poco mal ubicado, pero como soy buena onda yo te doy el lugar exacto: [Lugar exacto](https://goo.gl/maps/1k9AWk5SoMYFfXKT8).
+
+## - Oye pero yo vivo justo en el camino ¿Podrían pasar a buscarme?
+
+**No.** Los buses no harán ninguna excepción, ni desvío, ni parada extra fuera de lo definido previamente. El proceso del viaje es logísticamente complicado y caótico de por sí, por lo que no podemos permitirnos excepciones ni tratos especiales. Además, el servicio de transporte es un servicio externo a nosotres que debemos respetar, y no tenemos control ni certeza sobre cosas extra que podamos pedirles.
+
+## - ¿Puedo viajar por mi cuenta en bus o en auto?
+
+Sí puedes, pero hasta el momento, no haremos ninguna diferencia en el precio final por ello. Si planeas ir por tu cuenta, avisa a la organización, para que sepamos que no llegarás a los buses y para confirmar que tendrás estacionamiento disponible.
+
+Como se indicó en el [Formulario de Inscripción](a.cadcc.cl/paseo2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
 
 ---
 
 # Sección: Las cabañas
 
-(Soon...)
+(Sección en construcción...)
+
+## - ¿De cuánta gente son las cabañas?
+Las cabañas son de 6 personas. Hay unas pocas con capacidades un poco distintas, pero la organización decidirá cómo disponer esos casos. Considera tu grupo para 6 personas.
+
+Las cabañas tienen una habitación con 1 cama matrimonial, una habitación con 2 camarotes y un living con un sillón. Si no les molesta que alguien duerma en el sillón, pueden meter una persona extra.
+
+## - ¿Cómo se asignan las cabañas?
+El proceso específico aún no está definido, pero a modo general, cada grupo puede armar su cabaña (con las condiciones recién mencionadas), y las personas que no tengan grupo o tengan un grupo más chico que una cabaña, probablemente serán asignadas por la organización.
+
+Pronto daremos más definiciones sobre esto.
+
+## - ¿Qué tienen las cabañas?
+Cada cabaña tiene 2 habitaciones, una matrimonial y una con camarotes, 1 baño, living-comedor y cocina equipada. La cocina tiene lo básico para la comida (olla, sartén, tetera, horno, refri, platos, cubiertos, vasos). Si para sus _experimentos_ necesitan algo más específico, como licuadora, batidora, etc, no podemos garantizarlo, pero podemos preguntar para confirmar.
 
 ---
 
@@ -215,7 +220,7 @@ En cualquier caso, y con cualquier modalidad, **tod@s pagan $25.000 para ir al P
 
 ---
 
-# Sección: Inasistencia, bajas y devoluciones
+# Sección: Inasistencia, bajas, devoluciones y más casos borde
 
 (Soon...)
 
