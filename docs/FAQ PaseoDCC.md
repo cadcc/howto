@@ -8,6 +8,8 @@ Te recordamos que para la versión 2022, el link del formulario de inscripción 
 
 Si tu duda no está respondida aquí, no dudes en preguntar en el chat del PaseoDCC, en el [chat general DCC](https://t.me/+cAVp-ek3XURlOTBh) o enviar un correo a paseo@cadcc.cl
 
+_NOTA: Esta página busca recopilar información referencial, pero no es una fuente primaria y podría no estar completamente actualizada. En caso de inconsistencias, primarán siempre las informaciones entregadas por la organización a través de sus redes._
+
 **Opcional: Toma cada vez que diga [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022).**
 
 ---
@@ -19,6 +21,14 @@ Si tu duda no está respondida aquí, no dudes en preguntar en el chat del Paseo
 ## - ¿Qué es el PaseoDCC?
 
 Es un evento anual que se realiza desde el 2014, organizado íntegramente por la directiva del CaDCC y otras personas apañadoras. El evento consiste en un viaje a la playa, históricamente a El Tabo, durante algunos días, con objetivo de distender la rutina académica, acercar a la comunidad y pegarse unos vaciles.
+
+---
+
+## - ¿Qué se hace en el PaseoDCC?
+
+En general el espíritu del PaseoDCC, más que hacer el mejor carrete y el más detonado, es unir más a la comunidad DCCiana. Se promueve que coexistan distintos grupos que quizás no interactúan mucho en su día a día académico, y se respetan las diferentes formas de carretear. Históricamente, han habido cabañas con juegos de mesa, campañas de rol, Smash y otros juegos, gente horneando pan, gente en la piscina, gente en la playa, partidos de fútbol y volei, guerra de pistolas de agua, castillos de arena gigantes y un montón de cosas que a la misma comunidad se les ocurren. Por supuesto, eso no significa que no haya carrete detonado, brebajes múltiples, bailoteo intenso y kawines sabrosos 👀. Al final, la organización prioriza darles las mejores condiciones a precios alcanzables antes que producir un evento gigante, porque el PaseoDCC lo hace la gente 💜.
+
+Además de eso, también hay actividades más organizadas, como competencias y juegos grupales. Nuestra idea es reconstruir la comunidad separada por las cuarentenas, así que buscaremos hacer sus wenos shows y actividades de distensión grupal para ir rompiendo el hielo pandémico. Todavía estamos planificando esta parte, así que si tienes ideas no dudes en escribirnos!
 
 ---
 
@@ -36,9 +46,19 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 
 Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) y leer y seguir y **LEER DE NUEVO** las instrucciones que se te darán. Por favor, evita ingresar chistes o tallas internas y #respeta los formatos pedidos.
 
-Tu inscripción estará completa sola y exclusivamente cuando realices tu primer pago, ya sea por la primera cuota o por el precio completo (más detalles abajito). El solo rellenar el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) sin pagar no te asegura ningún cupo ni prioridad, y pesará en tu conciencia que entregaste tus datos por las puras.
+Para verificar tu calidad de DCC, DCC sin código, acompañante y DCC egresade, deberás adjuntar lo siguiente:
+- Estudiante del DCC con código DCC: Certificado alumno regular
+- Estudiante del DCC sin código DCC: Boletín de inscripción académica
+- Egresade del DCC 2022, 2021 o 2020: Pantallazo de Boletines -> Historial en Ucampus, donde salga tu nombre, que eres egresade y en qué semestre.
+- Acompañante de alguien del DCC: Certificado alumno regular
 
-Al hacer la inscripción estarás aceptando el compromiso de buena conducta que ahí se encuentra. Este compromiso es crucial para asistir al Paseo y debe ser tomado con toda seriedad.
+_*El certificado de alumno regular puede obtenerse en U-Campus > FCFM > Certificados > Emitir nuevo. El de Asignación Familiar y el de Otros fines son gratis._
+
+A todes les asistentes se les harán verificaciones manuales por distintos métodos para asegurarnos que son lo que dicen ser. Si tienes un caso particular, prefiere conversarlo con nosotres antes de intentar falsificar información.
+
+Una vez que envíes tu inscripción, **tendrás 24 horas para hacer tu pago**, ya sea por la primera cuota o por el precio completo (más detalles abajito). Si solo rellenas el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) y no pagas a tiempo, tu cupo quedará liberado y pesará en tu conciencia que entregaste tus datos por las puras.
+
+Al hacer la inscripción estarás aceptando el [compromiso de buena conducta](https://drive.google.com/file/d/10JeIngqEFWJSMXSQrTJ-EkQRu3O-U-O4/view) que ahí se encuentra. Este compromiso es crucial para asistir al Paseo y debe ser tomado con toda seriedad.
 
 ---
 
@@ -49,9 +69,9 @@ El PaseoDCC 2022 es abierto a toda la comunidad de estudiantes del DCC. Además,
 Admitiremos como **participantes DCC** a quienes cumplan alguno de los siguientes criterios:
 - Ser estudiante regular del DCC.
 - Haber cursado o estar cursando en total 3 ramos de la malla de especialidad DCC, y que actualmente la mayoría de sus ramos sean DCC (i.e. mechones).
-- Haber egresado del DCC durante el año 2020 (i.e. viejones).
+- Haber egresado del DCC durante los años 2020-2021-2022 (i.e. viejones).
 
-La organización **podrá excluir del Paseo a quienes tengan antecedentes de denuncias**, tal como se indica en el compromiso aceptado al inscribirse.
+La organización **podrá excluir del Paseo a quienes tengan antecedentes de denuncias**, tal como se indica en la carta de compromiso aceptada al inscribirse.
 
 Para casos particulares comunicarse directamente con el CaDCC o al Telegram @flordoro.
 
@@ -65,7 +85,7 @@ Podrán ir personas externas al departamento como **acompañantes**, bajo las si
 - Deben ser estudiantes de pregrado o posgrado de la FCFM. No egresades.
 - Cada persona acompañante debe ser invitada por una persona DCC.
 - Cada DCC podrá invitar a lo más a 1 acompañante.
-- Existirán cupos limitados para acompañantes. En la primera tanda de 100 cupos generales, se permitirán a lo más 30 para acompañantes. Si liberamos más cupos generales, podrían o no liberarse más cupos de acompañantes, según la demanda.
+- Existirán cupos limitados para acompañantes. En la primera tanda de 100 cupos generales, se permitirán a lo más 30 para acompañantes. En la segunda tanda de 50 cupos, éstos son solo para DCCs. Si liberamos más cupos, podrían o no liberarse más cupos de acompañantes, según la demanda.
 
 La persona acompañante tendrá que inscribirse igualmente en el mismo [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022), indicando su calidad de acompañante. Se le preguntará el nombre de la persona DCC que le invitó y esto será revisado posteriormente. **Cada persona DCC es responsable de su acompañante**, y responderá ante cualquier <s>cagazo</s> eventualidad que pueda generar, en acuerdo con el compromiso de conducta aceptado al inscribirse.
 
@@ -79,21 +99,24 @@ Si quieres llevar a tu **gato** a parrandear, lamentablemente no se puede (por a
 
 ## - ¿Qué pasa si se llenan los cupos?
 
-En años anterior se tenía una lista de prioridad según ciertos criterios, principalmente para <s>echar viejonxs</s> que se renovara la gente que iba al Paseo, pero este año se decidió que, como hace mucho rato que no hay un Paseo y la gran mayoría nunca ha estado en uno (uwu), estos criterios ya no tienen mucho sentido.
+En años anteriores se tenía una lista de prioridad según ciertos criterios, principalmente para <s>echar viejonxs</s> que se renovara la gente que iba al Paseo, pero este año se decidió que, como hace mucho rato que no hay un Paseo y la gran mayoría nunca ha estado en uno (uwu), estos criterios ya no tienen mucho sentido.
 
-En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Inicialmente se liberarán 100 cupos generales, de los cuales 30 pueden ser acompañantes. Estos cupos se llenarán por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) y del pago** (AMBAS COSAS, cada una por sí sola no implica cupo asegurado).
+En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Hasta el momento, los cupos se han liberado de la siguiente forma:
+- 7/sep 13:30hrs - 100 cupos, a lo más 30 acompañantes.
+- 9/sep 10:00hrs - 50 cupos. Solo DCC.
+Estos cupos se llenan por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022)**. Una vez recibido el formulario, tendrás 24 horas para realizar el pago, o tu inscripción será anulada.
 
 ---
 
 ## - ¿Abrirán más cupos?
 
-Es probable que sí. Todo dependerá de cómo se dé la primera venta. De todas formas, podría ser que no haya más, o que en la próxima tanda no se admitan acompañantes, así que aprovecha ahora!
+Es probable que sí. Todo dependerá de cómo se vayan dando las ventas. De todas formas, podría ser que no haya más, o que en próximas tandas no se admitan acompañantes, así que aprovecha apenas puedas!
 
 ---
 
 ## - ¿Por qué no abren todos los cupos de una no más?
 
-Principalmente por razones logísticas. El recinto que tenemos visto arrienda por cabaña, es decir, para saber cuánto tenemos que pagar, tenemos que saber cuántas cabañas usaremos, y para saber eso tenemos que saber cuánta gente irá. Por otro lado, para saber cuánta gente irá, tenemos que saber con cuánto espacio contamos, y para eso necesitamos saber cuánto dinero gastaremos. Además, el Paseo se costea principalmente con el mismo pago de las inscripciones, por lo que para poder hacer la reserva necesitamos que se inscriban. Al final, es un conjunto de variables interdependientes que es MUY difícil de calcular y proyectar, y los fondos disponibles actualmente no nos dan mucha holgura.
+Principalmente por razones logísticas. El recinto que tenemos visto arrienda por cabaña, es decir, para saber cuánto tenemos que pagar, tenemos que saber cuántas cabañas usaremos, y para saber eso tenemos que saber cuánta gente irá. Por otro lado, para saber cuánta gente irá, tenemos que saber con cuánto espacio contamos, y para eso necesitamos saber cuánto dinero gastaremos. Además, el Paseo se costea principalmente con el mismo pago de las inscripciones, por lo que para poder hacer la reserva necesitamos que se inscriban. Al final, es un conjunto de variables interdependientes que es MUY difícil de calcular y proyectar, y los fondos disponibles actualmente no nos dan mucha holgura para gastar sin ingresos.
 
 Para sumar incertidumbre, como hace años que no hay Paseo y ya hubo un recambio generacional completo, tampoco tenemos mucha proyección respecto a la demanda de cupos, por lo que nos sería difícil jugárnosla con un número preciso para reservar el arriendo.
 
