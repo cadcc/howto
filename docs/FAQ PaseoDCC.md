@@ -47,6 +47,7 @@ El PaseoDCC en esta oportunidad (y desde sus inicios) se realizará en El Tabo. 
 Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) y leer y seguir y **LEER DE NUEVO** las instrucciones que se te darán. Por favor, evita ingresar chistes o tallas internas y #respeta los formatos pedidos.
 
 Para verificar tu calidad de DCC, DCC sin código, acompañante y DCC egresade, deberás adjuntar lo siguiente:
+
 - Estudiante del DCC con código DCC: Certificado alumno regular
 - Estudiante del DCC sin código DCC: Boletín de inscripción académica
 - Egresade del DCC 2022, 2021 o 2020: Pantallazo de Boletines -> Historial en Ucampus, donde salga tu nombre, que eres egresade y en qué semestre.
