@@ -50,7 +50,7 @@ Para verificar tu calidad de DCC, DCC sin código, acompañante y DCC egresade, 
 
 - Estudiante del DCC con código DCC: Certificado estudiante regular
 - Estudiante del DCC sin código DCC: Boletín de inscripción académica
-- Egresade del DCC 2022, 2021 o 2020: Pantallazo de Boletines -> Historial en Ucampus, donde salga tu nombre, que eres egresade y en qué semestre.
+- Egresade del DCC 2022, 2021 o 2020: Pantallazo de Boletines > Historial en Ucampus, donde salga tu nombre, que eres egresade y en qué semestre.
 - Acompañante de alguien del DCC: Certificado estudiante regular
 
 _*El certificado de alumno regular puede obtenerse en U-Campus > FCFM > Certificados > Emitir nuevo. El de Asignación Familiar y el de Otros fines son gratis._
