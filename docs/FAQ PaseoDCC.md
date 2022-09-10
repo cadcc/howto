@@ -48,14 +48,12 @@ Para inscribirte, debes ingresar al [Formulario de Inscripción](https://a.cadcc
 
 Para verificar tu calidad de DCC, DCC sin código, acompañante y DCC egresade, deberás adjuntar lo siguiente:
 
-- Estudiante del DCC con código DCC: Certificado alumno regular
+- Estudiante del DCC con código DCC: Certificado estudiante regular
 - Estudiante del DCC sin código DCC: Boletín de inscripción académica
 - Egresade del DCC 2022, 2021 o 2020: Pantallazo de Boletines -> Historial en Ucampus, donde salga tu nombre, que eres egresade y en qué semestre.
-- Acompañante de alguien del DCC: Certificado alumno regular
+- Acompañante de alguien del DCC: Certificado estudiante regular
 
 _*El certificado de alumno regular puede obtenerse en U-Campus > FCFM > Certificados > Emitir nuevo. El de Asignación Familiar y el de Otros fines son gratis._
-
-A todes les asistentes se les harán verificaciones manuales por distintos métodos para asegurarnos que son lo que dicen ser. Si tienes un caso particular, prefiere conversarlo con nosotres antes de intentar falsificar información.
 
 Una vez que envíes tu inscripción, **tendrás 24 horas para hacer tu pago**, ya sea por la primera cuota o por el precio completo (más detalles abajito). Si solo rellenas el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) y no pagas a tiempo, tu cupo quedará liberado y pesará en tu conciencia que entregaste tus datos por las puras.
 
@@ -164,13 +162,13 @@ Si tienes una situación particular respecto a los pagos o plazos, no dudes en c
 ### Valor total:
 Si quieres, puedes pagar el valor total del Paseo ($40.000 DCC, $45.000 acompañante) desde el momento de la inscripción. Por el momento, esto no te dará ningún beneficio por sobre pagar en cuotas, pero puedes sacarte el cacho altiro y además nos ayudas a recaudar fondos con más anticipación :D.
 
-**En ambos casos debes enviar tu comprobante al correo. Sin el pago (ya sea de primera cuota o pago total), tu inscripción no es válida ni tienes cupo asegurado**.
+**En ambos casos debes enviar tu comprobante al correo. Si no pagas en el plazo (ya sea primera cuota o pago total), tu inscripción no es válida ni tienes cupo asegurado**.
 
 ---
 
 ## - ¿A quién tengo que pagarle?
 
-Se puede pagar en efectivo a Joaquín Carreño (@joacoelflaco en Telegram), o por transferencia bancaria a la cuenta:
+Se puede pagar en efectivo a Joaquín Carreño o Millaray Cárdenas (@joacoelflaco y @flordoro en Telegram), o por transferencia bancaria a la cuenta:
 
 - Banco: Banco Estado
 - Tipo de Cuenta: Cuenta Rut
@@ -193,7 +191,7 @@ También considera que que ustedes paguen el precio completo nos ayuda un montó
 
 ## - ¿Que incluye este precio?
 
-En principio, el precio incluye las dos noches de alojamiento y el transporte de ida y vuelta. La organización sí o sí se va a poner con cosas comunitarias (comida/copete), pero aún no está completamente definido qué. Necesitamos tener una mejor estimación de la cantidad de personas antes de prometerles cosas.
+En principio, el precio incluye las dos noches de alojamiento en cabañas full equipadas y el transporte de ida y vuelta a Beauchef. La organización sí o sí se va a poner con cosas comunitarias (comida/copete), pero aún no está completamente definido qué. Necesitamos tener una mejor estimación de la cantidad de personas antes de prometerles cosas.
 
 A modo de transparencia, te podemos decir que el costo de alojamiento por persona es de ~$22.000, y el de transporte ronda los ~$15.000, por lo que casi el total de tu pago se utilizará para estos fines. Cualquier servicio o producto extra que demos se pagará con el excedente de ese ingreso, sumado a los fondos al contado del CaDCC (que no son tantos jiji), por eso tenemos que ser muy responsables al evaluar las cantidades y servicios que les ofrezcamos. Pueden confíar en que estamos buscando lo mejor para ustedes y el Paseo uwu.
 
@@ -203,7 +201,7 @@ A modo de transparencia, te podemos decir que el costo de alojamiento por person
 
 ## - ¿A qué hora viajamos?
 
-Todavía no hemos determinado horas exactas, pero considerando los horarios de check-in y check-out de las cabañas, probablemente partamos a las 10:00am desde Beauchef en la ida, y luego a la vuelta partamos de El Tabo tipo 13:00 (de nuevo, esta info es solo tentativa y no-oficial). El viaje dura aproximadamente 90-120 mins.
+Todavía no hemos determinado horas exactas, pero considerando los horarios de check-in y check-out de las cabañas, probablemente partamos a las 12:00am desde Beauchef en la ida, y luego a la vuelta partamos de El Tabo tipo 13:00 (de nuevo, esta info es solo tentativa y no-oficial). El viaje dura aproximadamente 90-120 mins.
 
 **LOS BUSES PARTIRÁN A LA HORA INDICADA** _(cuando la definamos)_ **Y NO ESPERAREMOS A NADIE**
 
@@ -219,7 +217,7 @@ Vamos a El Tabo, Región de Valparaíso. Específicamente, en las cabañas Litor
 
 Sí puedes, pero por default, no haremos ninguna diferencia en el precio final por ello. Igualmente si planeas ir por tu cuenta, avisa a la organización, para que sepamos que no llegarás a los buses y para confirmar que tendrás estacionamiento disponible.
 
-Como se indicó en el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
+Como se indicó en el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022), es posible que, **de ser necesario**, pidamos que personas lleven gente en sus autos particulares y les paguemos una subvención por la bencina y peajes. Esto ocurrirá **solo en caso de ser necesario** por temas de cupo en los buses, y nos coordinaremos explícitamente con las personas encargadas de eso, antes del Paseo. Si vas en auto pero no lo has coordinado previamente con la organización, no se te dará subvención.
 
 ---
 
