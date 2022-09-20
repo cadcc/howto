@@ -241,7 +241,7 @@ Como se indicó en el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC20
 ## - ¿De cuánta gente son las cabañas?
 Las cabañas son de 6 personas. Hay unas pocas con capacidades un poco distintas, pero la organización decidirá cómo disponer esos casos. Para efectos prácticos, considera tu grupo de 6 personas.
 
-Las cabañas tienen una habitación con 1 cama matrimonial, una habitación con 2 camarotes y un living con un sillón. Si no les molesta que alguien duerma en el sillón o hacer cucharita, pueden meter una persona extra.
+Las cabañas tienen una habitación con 1 cama matrimonial, una habitación con 2 camarotes y un living con un sillón. Si no les molesta que alguien duerma en el sillón o hacer cucharita, pueden meter personas extras (sin descuento en el precio).
 
 ## - ¿Cómo se asignan las cabañas?
 El proceso específico aún no está definido, pero a modo general, cada grupo puede armar su cabaña (con las condiciones recién mencionadas), y las personas que no tengan grupo o tengan un grupo más chico que una cabaña, probablemente serán asignadas por la organización.
