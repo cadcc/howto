@@ -106,6 +106,7 @@ En su lugar, para mantener un control de los cupos este año iremos liberándolo
 
 - 7/sep 13:30hrs - 100 cupos, a lo más 30 acompañantes.
 - 9/sep 10:00hrs - 50 cupos. Solo DCC.
+- 20/sep 16:00hrs - 20 cupos. Solo DCC.
 
 Estos cupos se llenan por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022)**. Una vez recibido el formulario, tendrás 24 horas para realizar el pago, o tu inscripción será anulada.
 
@@ -113,7 +114,15 @@ Estos cupos se llenan por **orden de llegada del [Formulario de Inscripción](ht
 
 ## - ¿Abrirán más cupos?
 
-Es probable que sí. Todo dependerá de cómo se vayan dando las ventas. De todas formas, podría ser que no haya más, o que en próximas tandas no se admitan acompañantes, así que aprovecha apenas puedas!
+En la tercera tanda agotamos los cupos oficiales que teníamos según la capacidad del recinto. De todas formas, estaremos evaluando opciones para ver si podemos abrir algunos más. Para definir eso nos basaremos en la Lista de Espera, explicada en la siguiente pregunta.
+
+---
+
+## - No alcancé a inscribirme :( ¿qué hago?
+
+Abrimos un [formulario de Lista de Espera](https://forms.gle/y8jdj4q6vjnSDiWJA) para poder cuantificar la sobredemanda que tenemos. En base a esto veremos algunas opciones para conseguir más cupos.
+
+**Ojo:** En principio la lista de espera es solo referencial y no está exactamente definido cómo se priorizarán los cupos si es que hay más.
 
 ---
 
