@@ -183,11 +183,11 @@ Si quieres, puedes pagar el valor total del Paseo ($40.000 DCC, $45.000 acompañ
 
 Se puede pagar en efectivo a Joaquín Carreño o Millaray Cárdenas (@joacoelflaco y @flordoro en Telegram), o por transferencia bancaria a la cuenta:
 
-- Banco: Banco Estado
-- Tipo de Cuenta: Cuenta Rut
-- Nombre: Joaquín Carreño
+- Banco: Banco Santander
+- Tipo de Cuenta: Cuenta Corriente
+- Nombre: Joaquin Ignacio Carreno Herrera
 - Rut: 20.392.272-8
-- Cuenta: 20392272
+- Cuenta: 83654546
 - Mail: pagospaseo@cadcc.cl
 
 **DEBES enviar tu comprobante al correo. Si pagas con la cuenta de alguien más, en el comentario de la transferencia agrega el nombre de la persona inscrita.**
