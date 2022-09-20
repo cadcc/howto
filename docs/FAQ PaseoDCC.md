@@ -98,7 +98,7 @@ Si quieres llevar a tu **gato** a parrandear, lamentablemente no se puede (por a
 
 ---
 
-## - ¿Qué pasa si se llenan los cupos?
+## - ¿Cómo funcionan los cupos?
 
 En años anteriores se tenía una lista de prioridad según ciertos criterios, principalmente para <s>echar viejonxs</s> que se renovara la gente que iba al Paseo, pero este año se decidió que, como hace mucho rato que no hay un Paseo y la gran mayoría nunca ha estado en uno (uwu), estos criterios ya no tienen mucho sentido.
 
@@ -114,7 +114,7 @@ Estos cupos se llenan por **orden de llegada del [Formulario de Inscripción](ht
 
 ## - ¿Abrirán más cupos?
 
-En la tercera tanda agotamos los cupos oficiales que teníamos según la capacidad del recinto. De todas formas, estaremos evaluando opciones para ver si podemos abrir algunos más. Para definir eso nos basaremos en la Lista de Espera, explicada en la siguiente pregunta.
+En la tercera tanda agotamos los cupos oficiales que teníamos según la capacidad del recinto. De todas formas, estaremos evaluando opciones para ver si podemos abrir algunos más. Para definir eso nos basaremos en la Lista de Espera, explicada a continuación.
 
 ---
 
