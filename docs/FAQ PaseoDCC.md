@@ -66,6 +66,7 @@ Al hacer la inscripción estarás aceptando el [compromiso de buena conducta](ht
 El PaseoDCC 2022 es abierto a toda la comunidad de estudiantes del DCC. Además, permitiremos acompañantes externxs según se indica en la pregunta siguiente.
 
 Admitiremos como **participantes DCC** a quienes cumplan alguno de los siguientes criterios:
+
 - Ser estudiante regular del DCC.
 - Haber cursado o estar cursando en total 3 ramos de la malla de especialidad DCC, y que actualmente la mayoría de sus ramos sean DCC (i.e. mechones).
 - Haber egresado del DCC durante los años 2020-2021-2022 (i.e. viejones).
@@ -81,6 +82,7 @@ Para casos particulares comunicarse directamente con el CaDCC o al Telegram @flo
 ## - ¿Puedo llevar a mi amigui/pololi/andante/gato/etc?
 
 Podrán ir personas externas al departamento como **acompañantes**, bajo las siguientes condiciones:
+
 - Deben ser estudiantes de pregrado o posgrado de la FCFM. No egresades.
 - Cada persona acompañante debe ser invitada por una persona DCC.
 - Cada DCC podrá invitar a lo más a 1 acompañante.
@@ -101,8 +103,10 @@ Si quieres llevar a tu **gato** a parrandear, lamentablemente no se puede (por a
 En años anteriores se tenía una lista de prioridad según ciertos criterios, principalmente para <s>echar viejonxs</s> que se renovara la gente que iba al Paseo, pero este año se decidió que, como hace mucho rato que no hay un Paseo y la gran mayoría nunca ha estado en uno (uwu), estos criterios ya no tienen mucho sentido.
 
 En su lugar, para mantener un control de los cupos este año iremos liberándolos en tandas. Hasta el momento, los cupos se han liberado de la siguiente forma:
+
 - 7/sep 13:30hrs - 100 cupos, a lo más 30 acompañantes.
 - 9/sep 10:00hrs - 50 cupos. Solo DCC.
+
 Estos cupos se llenan por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022)**. Una vez recibido el formulario, tendrás 24 horas para realizar el pago, o tu inscripción será anulada.
 
 ---
