@@ -108,6 +108,8 @@ En su lugar, para mantener un control de los cupos este año iremos liberándolo
 - 9/sep 10:00hrs - 50 cupos. Solo DCC.
 - 20/sep 16:00hrs - 20 cupos. Solo DCC.
 
+Luego de estas inscripciones y en función de la lista de espera, buscamos más cabañas por el sector para poder aumentar los cupos, y lo logramos 😎. El funcionamiento de esos cupos extra se explica unas preguntas más abajo.
+
 Estos cupos se llenan por **orden de llegada del [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022)**. Una vez recibido el formulario, tendrás 24 horas para realizar el pago, o tu inscripción será anulada.
 
 ---
@@ -123,6 +125,16 @@ En la tercera tanda agotamos los cupos oficiales que teníamos según la capacid
 Abrimos un [formulario de Lista de Espera](https://forms.gle/y8jdj4q6vjnSDiWJA) para poder cuantificar la sobredemanda que tenemos. En base a esto veremos algunas opciones para conseguir más cupos.
 
 **Ojo:** En principio la lista de espera es solo referencial y no está exactamente definido cómo se priorizarán los cupos si es que hay más.
+
+---
+
+## - ¿Cómo se repartieron los cupos extra y la Lista de Espera?
+
+Luego de los 170 cupos de inscripciones regulares, se decidió buscar más cabañas por el sector y se logró. En base a la lista de espera y la inscripción de cabañas, se decidió admitir a las personas que estuvieran en lista de espera y ya estuvieran en una propuesta de cabaña. Con esto se cubrió gran parte de la lista de espera, y quedaron cupos libres para quienes no tenían cabaña asignada. Estos cupos se repartirán de la misma forma que las inscripciones regulares, mediante el [Formulario de Inscripción](https://a.cadcc.cl/paseoDCC2022) que abrirá en la siguiente fecha:
+
+- 6/oct 20:00hrs - 10 cupos. Solo DCC.
+
+Ajustando todo, entre cupos extra, lista de espera, cabañas con sobrecupo, etc., finalmente tendremos entre 210-220 cupos para el Paseo, con los que podemos cubrir casi la totalidad de inscripciones regulares y lista de espera 😁.
 
 ---
 
