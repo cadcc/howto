@@ -1,12 +1,16 @@
 # ¿Cómo hago una práctica?
 
-Primero que nada respira, cálmate y no grites... Ya, ahora que estas más tranquilo primero parte por:
+Primero que nada respira, cálmate y no grites... Ya, ahora que estas más tranquilo:
+
+## Taller de Práctica
+
+Antes de poder realizar la práctica tienes que dar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. En este curso tendrás que ver una serie de videos que ayudarán a tu desenvolvimiento en la práctica. 
 
 ## Hacer un Currículum
 
-Primero que todo, tienes que saber como hacer un currículum, ya que no podrás buscar trabajo sin este papelito. No hay una receta perfecta sobre como realizar un currículum, puedes agregar distintas secciones a las que vamos a decir a continuación.
+Ahora, antes de continuar, tienes que saber como hacer un currículum, ya que no podrás buscar trabajo sin este papelito. No hay una receta perfecta sobre como realizar un currículum, puedes agregar distintas secciones a las que vamos a decir a continuación.
 
-Según el Coordinador de Prácticas Alexandre Bergel, un currículum debe incluír lo siguiente:
+Un currículum debería incluír lo siguiente:
 
 * Contacto completo (Esto incluye nombre completo, email, teléfono, fecha de nacimiento, etc.)
 * Competencias (Lenguajes de programación, librerías, frameworks relevantes, etc.)
@@ -25,7 +29,7 @@ Ahora que tienes tu curriculum, puedes empezar a buscar empresas y postular como
 
 **El Foro de la Comunidad de Alumnos DCC en Ucursos:** Este es un buen lugar para encontrar prácticas profesionales, sobre todo durante los meses de Octubre, Noviembre y Diciembre. Por lo general explican en un mismo post del foro ponen el puesto de trabajo, en que área va a trabajar el practicante, los requisitos y cuanto pagan. Si te quedan dudas sobre el trabajo después de leer la descripción de los posts, siempre puedes contactar a los ofertantes para pedir más detalles.
 
-**La Feria Laboral:** Este es un evento que se realiza entre Octubre y Noviembre y dura una semana. Vienen varias empresas e instituciones, recomendadas por estudiantes del DCC que ya dieron sus prácticas, para ofrecer trabajo para practicantes. Este evento tiene muchas ventajas ya que explican bastante lo que haría el practicante y deja muy claro el área en que trabajaría.
+**La Feria Laboral DCC:** Este es un evento que se realiza usualmente entre Octubre y Noviembre y dura una semana. Vienen varias empresas e instituciones, recomendadas por estudiantes del DCC que ya dieron sus prácticas, para ofrecer trabajo para practicantes. Este evento tiene muchas ventajas ya que explican bastante lo que haría el practicante y deja muy claro el área en que trabajaría.
 
 **La Feria Laboral® FCFM:** Esta es una feria que se realiza en semestre primavera todos los años y es donde los estudiantes de toda la facultad pueden encontrar práctica. Además realizan un par de talleres de como hacer tu Curriculum.
 
@@ -49,7 +53,7 @@ La preinscripción de la práctica es una instancia en la que el coordinador de 
 
 Podrás preinscribir tu práctica durante todo el año universitario, es decir, desde marzo hasta enero, ya que en febrero la universidad se encuentra cerrada. La preinscripción la deberás realizar a través del módulo _Prácticas Profesionales_ de la plataforma [Ucampus](https://ucampus.uchile.cl).
 
-Según el profe Alexandre Bergel, la descripción debe ser breve y debe tener la siguiente estructura:
+La descripción de la preinscripción debe ser breve y debe tener la siguiente estructura:
 
 1. Datos del lugar en el que trabajarás (Nombre, dirección, rubro empresa, etc)
 1. Duración estimada de la práctica (Fecha inicio y fecha fin)
@@ -62,7 +66,7 @@ Según yo y muchas otras personas, la descripción breve no es tan breve como pa
 
 Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Maribel), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Maribel es maribel@dcc.uchile.cl. 
 
-La respuesta a tu preinscripción será entregada en a lo más 5 días hábiles desde el momento en que la envías y das el aviso. Si luego de 5 días hábiles no sabes nada de tu práctica, te recomendamos hablar con Maribel (por correo o en su oficina) o con Alex.
+La respuesta a tu preinscripción será entregada en a lo más 5 días hábiles desde el momento en que la envías y das el aviso. Si luego de 5 días hábiles no sabes nada de tu práctica, te recomendamos hablar con Maribel (por correo o en su oficina) o con Sipiran.
 
 Para ahorrarte malas postulaciones, te mencionamos algunas prácticas que **NO** serán aceptadas jamás:
 
@@ -184,7 +188,7 @@ Si las tareas que realizas coinciden con las de la preinscripción que hiciste y
 ---
 
 ## Mi pre-inscripción ha estado en "pendiente" por mucho tiempo ¿Qué hago?
-Mandale un mail a la Secretaria Docente, Maribel (maribel@dcc.uchile.cl) para que le avise al Coordinador de Prácticas, ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
+Mandale un mail a la Secretaria Docente, Maribel (maribel@dcc.uchile.cl) o al Coordinador de Prácticas (isipiran@dcc.uchile.cl), ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
 
 ---
 
