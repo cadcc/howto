@@ -1,8 +1,8 @@
 # FAQ Mechón
 
-¡Hola, queride mechonx, Bienvenide al DCC. En esta página intentaremos responder las principales dudas y preguntas que te puedan estar surgiendo en este nuevo comienzo académico, como por ejemplo: ¿Qué debo hacer ahora que soy DCC?, ¿Debo ser otaku para que me acepten?, ¿Cuál es el verdadero nombre de Chayanne? ¡Sigue leyendo para responder tus inquietudes!
+¡Hola, queride mechonx, Bienvenides al DCC. En esta página intentaremos responder las principales dudas y preguntas que te puedan estar surgiendo en este nuevo comienzo académico, como por ejemplo: ¿Qué debo hacer ahora que soy DCC?, ¿Debo ser otaku para que me acepten?, ¿Cuál es el verdadero nombre de Chayanne? ¡Sigue leyendo para responder tus inquietudes!
 
-Como consejo inicial, te recomendamos unirte al [Chat de Mechonxs](https://t.me/+5NtEukiRsY0zY2Mx) y al [Chat Principal](https://t.me/+bG_kGFRbbPIyNjYx) de la comunidad donde resolver tus dudas con compañeres (pseudo)humanos reales, podrás comenzar a conocer a la comunidad.
+Como consejo inicial, te recomendamos unirte al [Chat de Mechonxs](https://t.me/+5NtEukiRsY0zY2Mx) y al [Chat Principal](https://t.me/+bG_kGFRbbPIyNjYx) de la comunidad donde resolver tus dudas con compañeres (pseudo)humanos reales y podrás comenzar a conocer a la comunidad.
 
 Revisa también las secciones de [Lugares Importantes](https://faq.cadcc.cl/es/latest/Lugares%20Importantes/) y [NPCs Importantes](https://faq.cadcc.cl/es/latest/NPCs%20Importantes/) para que empieces a ubicarte dentro del universo dcciano.
 
@@ -29,9 +29,9 @@ Debes saber que la Salita tiene sus reglas básicas de convivencia:
 
 ## - ¿Qué es la Ofisalita?
 
-La Oficina CaDCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 332). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más relajada que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene mesas, algunas pantallas, una pizarra y un rincón con un puff para dormir semi-escondido del mundo real (aka *Hiho's Corner*). En este lugar también están guardados los juegos de mesa y es hogar del Kioskito CaDCC.
+La Oficina CaDCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 332). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más tranquila que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene escritorios, algunas pantallas y una pizarra. En este lugar también están guardados, objetos del CaDCC, los juegos de mesa y es hogar del Kioskito CaDCC.
 
-Si bien no se espera que esta sea una sala dedicada al estudio, se prefiere que se mantenga un nivel más relajado de ruido y conversación que en la Salita, para poder trabajar o chillear de pana.
+Si bien no se espera que esta sea una sala necesariamente dedicada al estudio, se prefiere que se mantenga un nivel más bajo de ruido y conversación que en la Salita, para poder trabajar o chillear de pana.
 
 De vez en cuando el CaDCC podría requerir la Ofisalita para reuniones u otros fines. Por favor sé comprensive si te piden retirarte, pues es el único espacio nuestro en que podemos planificar todas las cosas para la comunidad.
 
@@ -39,9 +39,9 @@ De vez en cuando el CaDCC podría requerir la Ofisalita para reuniones u otros f
 
 ## - ¿Qué es el CaDCC? ¿Puedo ser parte de ese selecto y maravilloso grupo?
 
-<s>Pensé que jamás lo preguntarías</s> Es el Centro de Alumnos del Departamento de Ciencias de la Computación. El CADCC es la organización de estudiantes que representa el conglomerado de alumnos del DCC, procurando su bienestar, convivencia y protocolo. Son quienes organizan los eventos recreativos, charlas y actividades, y conforman el conducto regular en temas de docencia, comunicaciones, presupuestos, etc. Se elige de forma anual entre todes les interesades con un plebiscito.
+<s>Pensé que jamás lo preguntarías</s> Mira, en realidad ya eres parte de el Centro de Alumnos del Departamento de Ciencias de la Computación segun los estatutos vigentes. Sin embargo cuando se habla del CaDCC usualmente se hace referencia a la Directiva, que es la agrupación de estudiantes que representa el conglomerado de alumnos del DCC, procurando su bienestar, convivencia y protocolo. Son quienes organizan los eventos recreativos, charlas y actividades, y conforman el conducto regular en temas de docencia, comunicaciones, presupuestos, etc. Se elige de forma anual entre todes les interesades con un plebiscito.
 
-Si quieres aportar al CADCC, eres completamente bienvenide a comunicarte con cualquiera de sus miembros e incluirte en sus filas cuando quieras. ¡También puedes aportar con ideas o apoyo sin ser parte integral de la Directiva!
+Si quieres aportar al CaDCC, eres completamente bienvenide a comunicarte con cualquiera de sus miembros e incluirte en sus filas cuando quieras a traves del CaDCC++. ¡También puedes aportar con ideas o apoyo sin ser parte integral de la Directiva!
 
 Puedes ver la actual directiva en [el blog](https://www.cadcc.cl/directiva/).
 
@@ -49,9 +49,9 @@ Puedes ver la actual directiva en [el blog](https://www.cadcc.cl/directiva/).
 
 ## - ¿Qué es y dónde está el Kioskito?
 
-El Kioskito CADCC es la fuente de abundancia calórica-nutricional para mantener nuestras mentes y cuerpos vivos y redondos. Se ubica en la Ofisalita (y a veces en la Salita).
+El Kioskito CaDCC es la fuente de abundancia calórica-nutricional para mantener nuestras mentes y cuerpos vivos y redondos. Se ubica en la Ofisalita (y a veces en la Salita).
 
-El Kioskito es completamente auto-servicio, existen tarros de monedas donde debes dejar tu pago *(de forma ordenada por favor D:)*. Recalcamos fervientemente que **NO SE FÍAN PRODUCTOS**, paga inmediatamente todo lo que retires. Con ese dinero financiamos las actividades para toda la comunidad y es un proyecto muy lindo basado en la confianza. ¡Cuidémoslo todos!
+El Kioskito es completamente auto-servicio, existen tarros de monedas donde debes dejar tu pago *(de forma ordenada por favor D:)*. Recalcamos fervientemente que **NO SE FÍAN PRODUCTOS**, paga inmediatamente todo lo que retires. Con ese dinero financiamos las actividades para toda la comunidad y es un proyecto muy lindo basado en la confianza. ¡Cuidémoslo todes!
 
 Por favor sé paciente si falta stock. Hacer las compras no es fácil, recuerda que somos estudiantes igual que tú :). ¡Te invitamos a ayudar con las compras y carga de mercadería cuando sea necesario!
 
@@ -70,7 +70,7 @@ Hay microondas en el pasillo fuera de la Salita y en las cocinas de todo el dept
 Durante el año realizamos muuuchas actividades extracurriculares para fomentar y mantener nuestra bella comunidad. Dentro de las más típicas se destacan:
 
 * Karaokes
-* Tarreos (Age, Starcraft, Rocket League, Counter, Smash, Consolas, PC, lo que querai)
+* Tarreos (Valorant, Smash, Age, Starcraft, Rocket League, Counter, Consolas, PC, lo que querai)
 * Tardes de Juegos de Mesa
 * Just Dance
 
@@ -82,7 +82,7 @@ Por último, cualquier estudiante puede proponer una actividad a su querida Dire
 
 ## - Oye, en la pregunta anterior no respondiste si juegan o no Minecraft
 
-Toda la razón, eres muy observador@.
+Toda la razón, eres muy observadore.
 
 ---
 
@@ -94,7 +94,7 @@ A principio de año se abre un formulario para inscribirse. Por lo general un ca
 
 ## - ¿Cómo puedo enterarme de las noticias del DCC?
 
-El CADCC tiene un [blog](cadcc.cl) en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de Telegram](https://t.me/CaDCC) o seguirnos en [Instagram](https://www.instagram.com/cadcc_uchile) o [Twitter](https://twitter.com/cadcc). El blog reenvía las noticias a todas esas redes, además de la [Comunidad de U-Cursos](https://www.u-cursos.cl/uchile/2008/0/COMCADCC/1/integrantes/postular).
+El CaDCC tiene un [blog](cadcc.cl) en el cual se suben todas las noticias. Si quieres notificaciones, puedes unirte al [canal de Telegram](https://t.me/CaDCC) o seguirnos en [Instagram](https://www.instagram.com/cadcc_uchile). El blog reenvía las noticias a todas esas redes, además de la [Comunidad de U-Cursos](https://www.u-cursos.cl/uchile/2008/0/COMCADCC/1/integrantes/postular).
 
 ---
 
