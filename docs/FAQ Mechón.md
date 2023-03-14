@@ -1,8 +1,8 @@
 # FAQ Mechón
 
-¡Hola, querido/a mechón/a! Bienvenido/a al DCC. En esta página intentaremos responder las principales dudas y preguntas que te puedan estar surgiendo en este nuevo comienzo académico, como por ejemplo: ¿Qué debo hacer ahora que soy DCC?, ¿Debo ser otaku para que me acepten?, ¿Cuál es el verdadero nombre de Chayanne? ¡Sigue leyendo para responder tus inquietudes!
+¡Hola, queride mechonx, Bienvenide al DCC. En esta página intentaremos responder las principales dudas y preguntas que te puedan estar surgiendo en este nuevo comienzo académico, como por ejemplo: ¿Qué debo hacer ahora que soy DCC?, ¿Debo ser otaku para que me acepten?, ¿Cuál es el verdadero nombre de Chayanne? ¡Sigue leyendo para responder tus inquietudes!
 
-Como consejo inicial, te recomendamos unirte al [Chat principal](https://t.me/joinchat/CCI8ekIqFvhpatb3lJ5kKw), donde además de resolver tus dudas con compañeres (pseudo)humanos reales, podrás comenzar a conocer a la comunidad.
+Como consejo inicial, te recomendamos unirte al [Chat de Mechonxs](https://t.me/+5NtEukiRsY0zY2Mx) y al [Chat Principal](https://t.me/+bG_kGFRbbPIyNjYx) de la comunidad donde resolver tus dudas con compañeres (pseudo)humanos reales, podrás comenzar a conocer a la comunidad.
 
 Revisa también las secciones de [Lugares Importantes](https://faq.cadcc.cl/es/latest/Lugares%20Importantes/) y [NPCs Importantes](https://faq.cadcc.cl/es/latest/NPCs%20Importantes/) para que empieces a ubicarte dentro del universo dcciano.
 
@@ -22,21 +22,22 @@ Debes saber que la Salita tiene sus reglas básicas de convivencia:
 * Siempre **lava y devuelve las tazas y cubiertos que uses**. Al lado contrario del Edificio Norte, junto al baño de mujeres, está la cocina con un lavaplatos. Limpia inmediatamente el horno/refri si lo ensucias.
 * **El refrigerador es público.** Si vas a dejar algo, asegúrate de marcarlo con tu nombre o podrá ser consumido por cualquiera. De igual forma, **no consumas nada con nombre**, ni siquiera si planeas "devolverlo después". Preocúpate de botar productos vencidos.
 * En general, las consolas, teles y juegos que están ahí son de uso público a menos que se indique lo contrario. Puedes llegar y usarlos si no están ocupados. Procura no adueñarte de los dispositivos por mucho rato y fíjate si no hay más gente queriendo jugar.
-* Si ves que falta algo (servilletas, cubiertos, té, azúcar, etc) puedes avisar a alguien del CADCC, pero lo ideal y más rápido es que compres por tu cuenta y te lo reembolsamos con la boleta (consúltanos antes de hacer esto).
+* Si ves que falta algo (servilletas, cubiertos, té, azúcar, etc) puedes avisar a alguien del CaDCC, pero lo ideal y más rápido es que compres por tu cuenta y te lo reembolsamos con la boleta (consúltanos antes de hacer esto).
+* Recuerda **matener el orden** y la limpieza ya que es un espacion que compartimos todes.
 
 ---
 
 ## - ¿Qué es la Ofisalita?
 
-La Oficina CADCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 332). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más relajada que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene mesas, algunas pantallas, una pizarra y un rincón con un puff para dormir semi-escondido del mundo real (aka *Hiho's Corner*). En este lugar también están guardados los juegos de mesa y es hogar del Kioskito CADCC.
+La Oficina CaDCC aka Ofisalita es la sala ubicada justo al lado de la Salita (Oficina 332). En principio es la oficina del Centro de Alumnos, pero está abierta a todo público y es una opción un poco más relajada que la Salita. Puedes estar y/o trabajar en ella sin problemas. Tiene mesas, algunas pantallas, una pizarra y un rincón con un puff para dormir semi-escondido del mundo real (aka *Hiho's Corner*). En este lugar también están guardados los juegos de mesa y es hogar del Kioskito CaDCC.
 
 Si bien no se espera que esta sea una sala dedicada al estudio, se prefiere que se mantenga un nivel más relajado de ruido y conversación que en la Salita, para poder trabajar o chillear de pana.
 
-De vez en cuando el CADCC podría requerir la Ofisalita para reuniones u otros fines. Por favor sé comprensive si te piden retirarte, pues es el único espacio nuestro en que podemos planificar todas las cosas para la comunidad.
+De vez en cuando el CaDCC podría requerir la Ofisalita para reuniones u otros fines. Por favor sé comprensive si te piden retirarte, pues es el único espacio nuestro en que podemos planificar todas las cosas para la comunidad.
 
 ---
 
-## - ¿Qué es el CADCC? ¿Puedo ser parte de ese selecto y maravilloso grupo?
+## - ¿Qué es el CaDCC? ¿Puedo ser parte de ese selecto y maravilloso grupo?
 
 <s>Pensé que jamás lo preguntarías</s> Es el Centro de Alumnos del Departamento de Ciencias de la Computación. El CADCC es la organización de estudiantes que representa el conglomerado de alumnos del DCC, procurando su bienestar, convivencia y protocolo. Son quienes organizan los eventos recreativos, charlas y actividades, y conforman el conducto regular en temas de docencia, comunicaciones, presupuestos, etc. Se elige de forma anual entre todes les interesades con un plebiscito.
 
