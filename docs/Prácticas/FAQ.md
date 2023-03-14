@@ -6,7 +6,13 @@ Para titularte tienes que dar 2 prácticas profesionales a lo largo de la carrer
 
 ## ¿Como puedo informarme más respecto a las prácticas?
 
-El profesor Alexandre Bregel (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es abergel@dcc.uchile.cl.
+El profesor Iván Sipiran (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es isipiran@dcc.uchile.cl.
+
+---
+
+## ¿Qué es eso de taller de practica?
+
+Es un curso que debes hacer antes de inscribir la práctica y realizarla donde veras una serie de capsulas de video que te ayudaran a desenvolverte de mejor manera en la práctica profesional.
 
 ---
 
@@ -26,7 +32,7 @@ Sin embargo, en el caso específico de que el proyecto de Ingeniería de Softwar
 
 ## ¿Cuantas horas exactamente debe durar la práctica?
 
-1 mes full-time (45 horas semanales) o 2 part-time.
+1 mes full-time (45 horas semanales) o 2 meses part-time.
 
 ---
 
@@ -62,7 +68,7 @@ No. Queda a criterio del estudiante. Pero la cantidad mínima de horas es 180.
 
 ## ¿Se puede hacer la práctica en el extranjero?
 
-Sip, si haces tu informe en francés puede que lo corrija Bergel :O
+Sip, si haces tu informe en francés puede que lo corrija Tanter :O
 
 ---
 
