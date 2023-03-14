@@ -6,13 +6,13 @@ Para titularte tienes que dar 2 prácticas profesionales a lo largo de la carrer
 
 ## ¿Como puedo informarme más respecto a las prácticas?
 
-El profesor Iván Sipiran (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es isipiran@dcc.uchile.cl.
+El profesor Iván Sipiran (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es isipiran@dcc.uchile.cl. Además esta el How-To en esta página. :)
 
 ---
 
 ## ¿Qué es eso de taller de practica?
 
-Es un curso que debes hacer antes de inscribir la práctica y realizarla donde veras una serie de capsulas de video que te ayudaran a desenvolverte de mejor manera en la práctica profesional.
+Antes de poder realizar la práctica tienes que dar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. En este curso tendrás que ver una serie de videos que ayudarán a tu desenvolvimiento en la práctica.
 
 ---
 
