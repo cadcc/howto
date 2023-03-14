@@ -219,3 +219,7 @@ Sip, se pueden hacer seguidas pero no se pueden preinscribir en el mismo semestr
 ## ¿Si el supervisor tiene el título y esta haciendo un doctorado en la u se puede?
 
 Sí.
+
+## Otros Recursos
+
+El profesor Iván Sipiran tiene un [repositorio de GitHub](https://github.com/ivansipiran/PracticaProfesional) donde tiene mas información sobre las practicás profesionales. 
