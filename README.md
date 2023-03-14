@@ -16,3 +16,4 @@ Agradecemos infinitamente a todos los que han colaborado con la elaboración de 
 - Eduardo Riveros (Información Titulación y Proyecto de Software)
 - Sergio Leiva (Chats del DCC)
 - Alejandra Alarcón (Burocracia Titulación)
+- Fran Zautzik (Actualización de información al 2023)
