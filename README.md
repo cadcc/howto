@@ -17,3 +17,4 @@ Agradecemos infinitamente a todos los que han colaborado con la elaboración de 
 - Sergio Leiva (Chats del DCC)
 - Alejandra Alarcón (Burocracia Titulación)
 - Fran Zautzik (Actualización de información al 2023)
+- Christopher Marín (Migración de versiones y mantenimiento)
