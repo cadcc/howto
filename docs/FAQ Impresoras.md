@@ -6,9 +6,9 @@
 
 En un computador con linux (como los del toqui) abre la terminal y conectate por ssh a anakena ([si usas windows haz click aquí](https://mediatemple.net/community/products/dv/204404604/using-ssh-in-putty-)), para eso escribe:
 
-`ssh anakena.dcc.uchile.cl`
+`ssh usuario@anakena.dcc.uchile.cl`
 
-Te va a pedir tu contraseña de tu cuenta del DCC. Una vez dentro escribe `papel` y eso es todo. También puedes revisar la cuota de papel de tus amigos escribiendo `papel <nombre_de_usuario>`.
+donde `usuario` corresponde a tu usuario del servidor Anakena. Te va a pedir tu contraseña de tu cuenta del DCC. Una vez dentro escribe `papel` y eso es todo. También puedes revisar la cuota de papel de tus amigos escribiendo `papel <nombre_de_usuario>`.
 
 ---
 
