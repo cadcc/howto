@@ -4,7 +4,7 @@ Primero que nada respira, cálmate y no grites... Ya, ahora que estas más tranq
 
 ## Taller de Práctica
 
-Antes de poder realizar la práctica tienes que dar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. En este curso tendrás que ver una serie de videos que ayudarán a tu desenvolvimiento en la práctica. 
+Antes de poder realizar la práctica tienes que dar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. Tendrás que ver una serie de videos que ayudarán a tu desenvolvimiento en la práctica. 
 
 ## Hacer un Currículum
 
@@ -21,7 +21,8 @@ Un currículum debería incluír lo siguiente:
 
 Puede que pienses que actividades como estar en scout, ser presidente de curso o participar de grupos organizados no son logros que un empleador quisiera ver en un currículum para trabajar de practicante de computación. Sin embargo, son estas cosas (en realidad es la proactividad, motivación y liderazgo que muestras al haberlas hecho) las que terminan haciendo la diferencia, en especial cuando no has trabajado formalmente antes. Sin embargo, si bien es mejor que en un curriculum sobre información a que falte, intenta no exceder las 2 planas de contenido.
 
-Aquí te dejamos el [currículum](https://www.cadcc.cl/wp-content/uploads/2017/10/Curriculum_Laborito-3.pdf) de [Laborito](https://www.cadcc.cl/tag/laborito/), la mascota de la Feria Laboral del DCC.
+<!-- Esto se pidio eliminar hasta que se disponga de tutores -->
+<!-- Aquí te dejamos el [currículum](https://www.cadcc.cl/wp-content/uploads/2017/10/Curriculum_Laborito-3.pdf) de [Laborito](https://www.cadcc.cl/tag/laborito/), la mascota de la Feria Laboral del DCC. -->
 
 ## Encontrar una Empresa/Institución
 
@@ -62,11 +63,9 @@ La descripción de la preinscripción debe ser breve y debe tener la siguiente e
 1. Datos del lugar de práctica
 1. Descripción de la práctica (problema a solucionar, ideas para una posible solución, entre otros)
 
-Según yo y muchas otras personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizarías, además de la idea general de lo que harás.
+Según varias personas, la descripción breve no es tan breve como parece, trata de incluir lenguajes y frameworks que utilizarías, además de la idea general de lo que harás.
 
-Luego de enviar la preinscripción, deberás mandar un correo a la secretaria docente (Maribel), avisando que ya hiciste este proceso. Ella dará aviso al coordinador de práctica para que revise tu postulación. Por cierto, el correo de Maribel es maribel@dcc.uchile.cl. 
-
-La respuesta a tu preinscripción será entregada en a lo más 5 días hábiles desde el momento en que la envías y das el aviso. Si luego de 5 días hábiles no sabes nada de tu práctica, te recomendamos hablar con Maribel (por correo o en su oficina) o con Sipiran.
+La respuesta a tu preinscripción puede demorarse bastante desde el momento en que la envías. De no ser aceptada entra en estado de Necesita Correcciones hasta que sea aceptada (Aceptada).
 
 Para ahorrarte malas postulaciones, te mencionamos algunas prácticas que **NO** serán aceptadas jamás:
 
@@ -92,13 +91,9 @@ Algunos consejos al momento de desarrollar tu práctica:
 
 ## El Ramo de la Práctica
 
-Supongamos ahora que terminaste la práctica, ¿Ahora que? Bueno, debes tomar el ramo de la práctica que te corresponda **a más tardar 2 semestres después de la realización de la práctica**. Es en el ramo de práctica en el que presentarás tus resultados obtenidos en la práctica profesional a través de un **informe de práctica**.
+Supongamos ahora que terminaste la práctica, ¿Ahora que? Bueno, debes tomar el ramo de la práctica que te corresponda **a más tardar en las siguientes 2 instancias de entrega después de la realización de la práctica**. Estas instancias suelen ser la semana 5 del semestre. Cabe destacar que no se puede realizar la practica antes de cumplir con los requisitos, por lo que hacer el trabajo practica en verano y luego pasar los cursos para inscribir el ramo de práctica ya no es válido.
 
-Cuando hayas tomado el ramo de práctica que te corresponda, tendrás que cumplir con 3 requisitos académicos obligatorios: 
-
-* Asistir a una charla que orientará lo que queda de tu proceso de práctica. La charla será anunciada por U-Cursos y se realizará durante la semana 1 del semestre en cuestión. **En caso de no poder asistir a esta charla, te recomendamos hablar con anticipación con el coordinador de práctica.**
-* Asistir a dos sesiones de un taller especial que te ayudará a redactar bien tu informe de práctica. Las sesiones serán en horarios en que los estudiantes en el ramo de práctica no tengan clases y se realizarán durante las semanas 2 y 3. **En caso de no poder asistir a una o dos sesiones, te recomendamos hablar con anticipación con el coordinador de prácticas.**
-* Entregar un informe de práctica **a más tardar el viernes de la semana del primer elimina** (semana 5).
+Cuando hayas tomado el ramo de práctica que te corresponda, tendrás que entregar un informe de práctica por U-Campus **a más tardar el viernes de la semana del primer elimina** (semana 5).
 
 Para entender mejor la estructura del informe de práctica, te recomendamos leer [esta sección del tutorial](https://faq.cadcc.cl/es/latest/Pr%C3%A1cticas/Informe/).
 
@@ -106,7 +101,7 @@ Para entender mejor la estructura del informe de práctica, te recomendamos leer
 
 Durante lo que queda de semestre, un profesor full time, part time o experto externo del departamento revisará tu informe de práctica y le colocará una nota según una rúbrica publicada por el departamento. Asimismo, como ya mencionamos, tu supervisor también enviará una nota con su apreciación de tu desempeño y comentarios justificando la evaluación a través de Ucampus. Ambas notas se considerarán para tu nota final de practica, en una proporción 50% informe, 50% supervisor. **Sin embargo, es necesario que ambas notas estén sobre 4 para aprobar**.
 
-Existe la posibilidad de que el profesor que revise tu informe te contacte para pedirte que le hagas correcciones, ya que para la impresión de él, el informe que entregaste no cumple las condiciones necesarias para aprobar. En ese caso, podrás entregar una nueva versión del informe, pero muy probablemente la nota máxima a la que podrás aspirar sea menor a 7. Te darán más detalles de esa situación si te llega a ocurrir.
+Existe la posibilidad de que el profesor que revise tu informe deje comentarios por U-Campus para pedirte que le hagas correcciones, ya que para la impresión de él, el informe que entregaste no cumple las condiciones necesarias para aprobar. En ese caso, podrás entregar una nueva versión del informe, pero muy probablemente la nota máxima a la que podrás aspirar sea menor a 7. Te darán más detalles de esa situación si te llega a ocurrir. Recordar que solo son dos oportunidades.
 
 En caso que tuvieses dudas acerca de tu nota de informe de práctica que no estuviesen resueltas en los comentarios del evaluador, **puedes contactar a Maribel para solicitar una apelación de tu nota**. Ella hará las gestiones para que el Coordinador de Práctica vea tu caso y tome una decisión final sobre él.
 
@@ -129,12 +124,6 @@ Si realizarás la práctica en febrero, debes hacer algunos trámites extra para
 ## ¿Se puede inscribir la práctica durante el semestre de verano?
 
 Sí, y las reglas son las mismas que al inscribir la práctica en otros semestres. Eso sí, ten en cuenta que el semestre de verano **cobra diferenciado por cantidad de créditos inscritos** y que ahora las prácticas **valen 7 créditos**, por lo que te recomendamos averiguar con la escuela el costo total de realizar la práctica en verano.
-
----
-
-## ¿Se puede inscribir el ramo en el mismo semestre que se realiza la práctica?
-
-No, la práctica se realiza antes de tomar el ramo y el ramo puede ser tomado **hasta 2 semestres después de realizada la práctica**.
 
 ---
 
@@ -188,7 +177,7 @@ Si las tareas que realizas coinciden con las de la preinscripción que hiciste y
 ---
 
 ## Mi pre-inscripción ha estado en "pendiente" por mucho tiempo ¿Qué hago?
-Mandale un mail a la Secretaria Docente, Maribel (maribel@dcc.uchile.cl) o al Coordinador de Prácticas (isipiran@dcc.uchile.cl), ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
+Mandale un mail a la Secretaria Docente, Maribel (maribel@dcc.uchile.cl) o al Coordinador de Prácticas (practicas@dcc.uchile.cl), ya que el sistema actual no le notifica cuando un alumno realiza una preinscripción.
 
 ---
 
