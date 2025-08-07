@@ -6,13 +6,13 @@ Para titularte tienes que dar 2 prácticas profesionales a lo largo de la carrer
 
 ## ¿Como puedo informarme más respecto a las prácticas?
 
-El profesor Iván Sipiran (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es isipiran@dcc.uchile.cl. Además esta el How-To en esta página. :)
+Los profesores Valentín Muñoz y Francisco Gutiérrez (Actuales coordinadores del sistema de las prácticas) harán una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, escribir a practicas@dcc.uchile.cl. Además esta el How-To en esta página. :)
 
 ---
 
 ## ¿Qué es eso de taller de practica?
 
-Antes de poder realizar la práctica tienes que dar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. En este curso tendrás que ver una serie de videos que ayudarán a tu desenvolvimiento en la práctica.
+Antes de poder realizar la práctica tienes que dar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. En este EOL (por U-Campus) tendrás que ver una serie de videos que ayudarán a tu desenvolvimiento en la práctica.
 
 ---
 
@@ -68,7 +68,7 @@ No. Queda a criterio del estudiante. Pero la cantidad mínima de horas es 180.
 
 ## ¿Se puede hacer la práctica en el extranjero?
 
-Sip, si haces tu informe en francés puede que lo corrija Tanter :O
+Sip.
 
 ---
 
