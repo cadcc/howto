@@ -205,7 +205,7 @@ Desde lo más sincero de mi corazón de entidad redactora impersonal, te recomie
 
 ## - Oye, ¿dónde puedo ver la malla?
 
-La fuente más oficial está en [la página del DCC](https://dcc.uchile.cl/pregrado/malla/).Si quieres algo más interactivo, mismo en [la página del CaDCC](https://malla.cadcc.cl) o en [la página de Eric K.](https://malla.eri.cl/dcc/) También está la opción de revisar cuántos ramos te faltan en [UCampus > Boletines > Recuento de Créditos](https://ucampus.uchile.cl/m/fcfm_bia/recuento_uds)
+La fuente más oficial está en [la página del DCC](https://dcc.uchile.cl/pregrado/malla/). Si quieres algo más interactivo, mismo en [la página del CaDCC](https://malla.cadcc.cl) o en [la página de Eric K.](https://malla.eri.cl/dcc/) También está la opción de revisar cuántos ramos te faltan en [UCampus > Boletines > Recuento de Créditos](https://ucampus.uchile.cl/m/fcfm_bia/recuento_uds)
 
 ---
 
@@ -243,7 +243,7 @@ La activación de la TUI te sirve para abrir las puertas del departamento. La cu
 
 En general, la cuenta te será necesaria solo para imprimir y para tener acceso a la red DCCAIR (que dentro del DCC funciona mejor que Eduroam o fcfm). Fuera de eso, no es estrictamente necesario que la actives.
 
-Para activar la TUI basta con tener el código. Para activar la cuenta debes haber leído el [FAQ y Normas de Uso]([https://www.dcc.uchile.cl/node/252](https://sistemas.dcc.uchile.cl/)), ya que te harán preguntas antes de la activación.
+Para activar la TUI basta con tener el código. Para activar la cuenta debes haber leído el [FAQ y Normas de Uso](https://sistemas.dcc.uchile.cl/), ya que te harán preguntas antes de la activación.
 
 ---
 
