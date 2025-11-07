@@ -16,7 +16,7 @@ donde `usuario` corresponde a tu usuario del servidor Anakena. Te va a pedir tu 
 
 Antes de imprimir, es recomendable que transformen los archivos al formato .ps. Si el archivo es un PDF, primero deben asegurarse que esté en tamaño carta (lo más fácil es imprimirlo a un archivo PDF, y seleccionar el tamaño carta). Transformarlos evita que la impresora tenga que hacerlo, lo que es un proceso lento.
 
-Luego, esde un computador del Toqui puedes escribir esto en la terminal
+Luego, desde un computador del Toqui puedes escribir esto en la terminal
 `lpr filename.ps`
 Sin embargo, el archivo se imprime con la configuración por defecto (una página por hoja).
 
