@@ -59,9 +59,7 @@ Las semanas mencionadas anteriormente **no debiesen ser trabajadas**. Sin embarg
 
 ## ¿Cuánto y cómo pagan?
 
-Supuestamente, como el trabajo es parte de un ramo, no pagan nada. Eso sí, existe un **viático** total mínimo de 20 UB (180 mil pesos aprox.) el cual es pagado en cuotas (de 4 a 5 UB al mes) por el departamento.
-
-Corre el rumor de que desde Primavera 2018 pagarán a los estudiantes que trabajan en zonas lejanas o con alto costo de alimentación una bonificación extra, para compensar por el aumento de precios de algunas zonas como Las Condes y Providencia.
+Un total de 20 UB (4UTM del mes de enero, 260 mil pesos aprox. al 2025), pagados por el departamento, en la menor cantidad de cuotas posibles a contar del segundo mes del semestre.
 
 ## ¿Qué pasa si soy auxiliar y tengo casi todas o todas mis UB ocupadas?
 
