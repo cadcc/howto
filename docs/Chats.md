@@ -1,4 +1,4 @@
-#Chats del DCC
+# Chats del DCC
 
 Dentro de nuestra comunidad hay gente con distintos intereses, por lo que hay muchos chats de [Telegram](https://telegram.org/) (académicos como no académicos) a los que puedes unirte y conversar.
 
@@ -6,7 +6,7 @@ En el canal de telegram [ChatsDCC](https://t.me/+lNkhBgz4DVdlNzQx) podrás encon
 
 ¿No hay un chat con el tema que buscas? ¡Pregunta si hay interés en el chat principal y créalo tu misme! Ojo, la mayoría de los chats tienen un captcha anti-bots, por lo que si no lo contestas puedes ser kickeado.
 
-##Chats generales
+## Chats generales
 
 [Chat principal](https://t.me/+bG_kGFRbbPIyNjYx): En este chat está prácticamente toda la comunidad del departamento. Puedes hablar de cualquier tema acá, aunque probablemente hayan tantos mensajes que no alcances a leerlos.
 
