@@ -2,7 +2,7 @@
 
 ## ¿Qué es Proyecto de Software?
 
-Proyecto de Software es el ramo terminal de la línea académica "Ingeniería de Software". Según la malla, es un ramo que se toma en el décimo semestre de la carrera, junto con el E, un ramo del Nucleo Gestión y electivos varios. Si bien pide como requisito todos los ramos obligatorios de la carrera, es posible tomarlo con una Inscripción Académica con Excepción (IAE), las cuales se habilitan al momento de tener 264 Créditos aprobados.
+Proyecto de Software es el ramo terminal de la línea académica "Ingeniería de Software". Según la malla, es un ramo que se toma en el décimo semestre de la carrera, junto con el E y electivos varios. En la malla nueva, sus requisitos son Formulación, Evaluación y Gestión de Proyectos, y Minería de Datos.
 
 El objetivo de este ramo es, según su programa de estudios, _"[...] es que el alumno enfrente una experiencia lo más cercana posible al mundo real del desarrollo de software, abordando los desafíos típicos como por ejemplo: llevar una buena relación con el cliente, planificar y adaptar el trabajo de acuerdo a las circunstancias, evaluar los riesgos asociados al proyecto y desarrollar una solución de software real. Todo esto con el apoyo metodológico de un equipo de ingenieros con experiencia comprobada en proyectos reales"_. Lo anterior se refleja en la existencia de **tutores** para cada grupo de trabajo, los cuales debiesen de apoyar constantemente el proceso de trabajo y aprendizaje de los alumnos del ramo.
 
