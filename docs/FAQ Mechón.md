@@ -123,12 +123,11 @@ El Lab. Toqui, una sala ubicada en el 2do piso del Edificio Poniente enfocada al
 
 Y el Lab. Eniac, una sala silenciosa ubicada en el 3er piso del Edificio Poniente enfocada al trabajo individual. Existe un acuerdo entre todos los estudiantes del DCC de mantener esta sala <s>silenciosa AF</s> lo más silenciosa posible. Siéntente libre de hacer valer esta regla si crees que alguien está haciendo mucho ruido. Cuenta con computadores, pantallas y espacios libres para que uses tu propio PC.
 
-Además de las anteriores, los espacios abiertos y mesas del Edificio Poniente son de uso libre y existe un pequeño lugar de estudio al sur del Toqui con computadores, mesitas y una pizarra (aka El Toqui Rural). Por lo general aquí se hacen reclamos así que no siempre estará 100% libre. (Pronto serán oficinas así que no estarán disponibles mucho tiempo :c f)
+Además de las anteriores, los espacios abiertos y mesas del Edificio Poniente (en ambos pisos) son de uso libre.
 
-El Lab. Lorenzo, frente a la Salita, también es de uso libre para estudiantes **siempre y cuando no haya clases**. Para entrar necesitarás tener tu 
-habilitada.
+El Lab. Lorenzo, frente a la Salita, también es de uso libre para estudiantes.
 
-Igualmente y si no necesitas mucha concentración puedes estudiar en la Salita o en la Ofisalita, pero no olvides que la Salita no es un lugar de estudio, si hay mucha gente prioriza ese espacio para la distensión comunitaria.
+Igualmente, y si no necesitas mucha concentración, puedes estudiar en la Salita o en la Ofisalita, pero no olvides que la Salita no es un lugar de estudio, si hay mucha gente prioriza ese espacio para la distensión comunitaria.
 
 Recuerda visitar la sección de [Lugares Importantes](https://faq.cadcc.cl/es/latest/Lugares%20Importantes/) para encontrar cada sitio.
 
@@ -141,7 +140,7 @@ Según la malla (tanto vieja como nueva), los ramos de primer semestre DCC son:
 * CC3001 Algoritmos y Estructuras de Datos (aka Algoritmos)
 * CC3101 Matemáticas Discretas para la Computación (aka Discretas)
 * CC3501 Modelación y Computación Gráfica para Ingenieros (aka Gráfica)
-* MA3403 Probabilidad y estadística
+* MA3403 Probabilidad y estadística (aka Proba, o Proba y Esta)
 
 Sin embargo, es muy común que la gente llegue con la malla un poco mezclada. La buena noticia es que, aunque los cursos obligatorios sí tienen una jerarquía de requisitos más o menos estricta, siempre puedes rellenar y flexibilizar tu malla con electivos.
 
@@ -204,6 +203,10 @@ Por último, eventualmente requerirás esos ramos (existen requisitos extraños 
 
 Desde lo más sincero de mi corazón de entidad redactora impersonal, te recomiendo fuertemente que termines lo antes posible tus ramos de Plan Común. Sé paciente y tendrás la oportunidad de olvidarte de esos ramos y tomar los que realmente quieres :3
 
+## - Oye, ¿dónde puedo ver la malla?
+
+La fuente más oficial está en [la página del DCC](https://dcc.uchile.cl/pregrado/malla/).Si quieres algo más interactivo, mismo en [la página del CaDCC](https://malla.cadcc.cl) o en [la página de Eric K.](https://malla.eri.cl/dcc/) También está la opción de revisar cuántos ramos te faltan en [UCampus > Boletines > Recuento de Créditos](https://ucampus.uchile.cl/m/fcfm_bia/recuento_uds)
+
 ---
 
 ## - ¿Cómo funcionan las prácticas en el DCC?
@@ -236,11 +239,11 @@ Hint: Ojo con mandar a imprimir archivos más grandes que tu cuota restante, pue
 
 Para ambas debes ir a hablar con Hernán de Sistemas, oficina 309, en el tercer piso del Edificio Poniente en Beauchef 851.
 
-La activación de la TUI te sirve para abrir las puertas del departamento. La cuenta DCC te sirve para ingresar a los computadores, imprimir y utilizar los servidores de alumnes. Ambas activaciones son independientes.
+La activación de la TUI te sirve para abrir las puertas del departamento. La cuenta DCC te sirve para ingresar a los computadores, imprimir y utilizar los servidores de alumnes (y tener correo @dcc.uchile.cl!). Ambas activaciones son independientes.
 
-En general, la cuenta te será necesaria solo para imprimir y para los ramos de Mateu: Programación de Software de Sistemas y Sistemas Operativos, pues lo ideal es que pruebes tu código en los servidores del DCC para asegurarte una revisión correcta. Fuera de eso, no es estrictamente necesario que la actives.
+En general, la cuenta te será necesaria solo para imprimir y para tener acceso a la red DCCAIR (que dentro del DCC funciona mejor que Eduroam o fcfm). Fuera de eso, no es estrictamente necesario que la actives.
 
-Para activar la TUI basta con tener el código. Para activar la cuenta debes haber leído el [FAQ y Normas de Uso](https://www.dcc.uchile.cl/node/252), ya que te harán preguntas antes de la activación.
+Para activar la TUI basta con tener el código. Para activar la cuenta debes haber leído el [FAQ y Normas de Uso]([https://www.dcc.uchile.cl/node/252](https://sistemas.dcc.uchile.cl/)), ya que te harán preguntas antes de la activación.
 
 ---
 
