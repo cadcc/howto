@@ -18,9 +18,8 @@ El curso tiene 3 presentaciones, dos durante el semestre (aproximadamente en sem
 
 ## ¿Cómo se eligen los proyectos?
 
-Los proyectos son elegidos por el equipo docente del ramo, liderado por la profesora **Cecilia Bastarrica**, a partir de una lista de empresas que postulan con proyectos para el ramo. Los criterios que se utilizan para la selección de los proyectos son:
+Los proyectos son elegidos por el equipo docente del ramo, liderado por la profesora **Cecilia Bastarrica**, a partir de una lista de empresas que postulan con proyectos para el ramo. Los criterios que se utilizan para la selección de los proyectos son, en resumen:
 
-* **Ubicación**: Los proyectos con mejor ubicación (cercana a metro o buses directos) son mejor puntuados en este tópico.
 * **Impacto del Proyecto**: Los proyectos que generan un mayor impacto a la sociedad (o al grupo de clientes objetivo de la empresa) son mejor puntuados en este tópico.
 * **Dificultad del Proyecto**: Los proyectos que presentan problemas más _interesantes_, cuya solución no es estandarizada ni trivial (por ejemplo, proyectos que no son sistemas de información, páginas web, entre otras cosas que ya se ven en la carrera) son mejor puntuados en este tópico.
 
