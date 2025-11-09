@@ -18,3 +18,4 @@ Agradecemos infinitamente a todos los que han colaborado con la elaboración de 
 - Alejandra Alarcón (Burocracia Titulación)
 - Fran Zautzik (Actualización de información al 2023)
 - Christopher Marín (Migración de versiones y mantenimiento)
+- Raimundo Lorca (Actualización de info sobre PSW, Trabajos Dirigidos y FAQ Mechón)
