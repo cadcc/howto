@@ -1,2 +1,4 @@
 site_name: FAQ CaDCC
 theme: readthedocs
+markdown_extensions:
+  - footnotes
