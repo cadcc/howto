@@ -1,20 +1,33 @@
-En esta parte se explica un poco el formato del informe para prácticas del semestre de otoño del 2018 en adelante y luego se responden algunas preguntas frecuentes respecto a eso.
+Última actualización: 2026-07-01
 
-**Importante: Esta información (estructura del informe) está en conversación actualmente, por lo que puede cambiar en cualquier momento. Te recomendamos revisar constantemente esta página y preguntar al coordinador de práctica para más información**.
+**Importante: Esta información (estructura del informe) está en conversación actualmente, por lo que puede cambiar en cualquier momento. Te recomendamos revisar constantemente esta página y preguntar a los coordinadores de prácticas para más información**.
+
+# Sources of truth
+
+Las fuentes de la verdad la [sección de evaluación de la web de prácticas](https://apps.dcc.uchile.cl/pregrado/portal_practicas/evaluacion) y [los coordinadores de prácticas](practicas@dcc.uchile.cl). Ante cualquier desacuerdo entre alguna de estas fuentes y lo planteado acá, predominan las anteriormente mencionadas.
+
+# Templates
+
+Conocemos al menos los siguientes _templates_ de informe:
+
+* [LaTeX por AnnBenavides](https://www.overleaf.com/latex/templates/informe-de-practica-universidad-de-chile/tszjxjhntzrh).
+* [Typst por Cristopher Marín](https://github.com/PuntitOwO/template-informe-practica-fcfm).
+* Probablemente puedas adaptar el template de informe [en LaTeX de Pablo Pizarro R.](https://template-latex.github.io/informe).
 
 # Formato
 
-La fuente puede ser culaquiera que tenga [serif](http://www.fontreactor.com/faqs/differences-between-serif-and-sans-serif) tamaño 11 e interlineado 1,5.
-
-Ejemplos de Tipos de Letras Serif:
-* Times New Roman
-* La Tipografía default de Latex
+Según la [web oficial de prácticas del departamento](https://practicas.dcc.uchile.cl), el formato requerido es el siguiente:
+* Hoja tamaño Carta.
+* Texto justificado.
+* Márgenes de 2.5cm (un poco menos de 1")
+* Fuente Times New Roman o similar (en general recomendamos alguna con serif), tamaño 11pt.
+* Interlinado de 1.5.
 
 # Estructura
 
 El informe de la práctica consta de 9 partes que mencionaremos a continuacion
 
-## Carátula (1 página)
+## Portada (1 página)
 
 Debe contener la siguiente información:
 
@@ -22,8 +35,8 @@ Debe contener la siguiente información:
 * Título de la Práctica
 * Código de la Práctica (el del ramo, CC4901 para la práctica 1 y CC5901 para la práctica 2)
 * Nombre de la industria/empresa/institución
-* Nombre del Alumno, Carrera y Especialidad
-* Mail y teléfono del Alumno
+* Nombre del estudiante, carrera y especialidad
+* Mail y teléfono del estudiante
 * Periodo en que se realizó la práctica
 * Fecha de entrega del informe
 
