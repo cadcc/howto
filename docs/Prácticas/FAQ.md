@@ -1,24 +1,28 @@
+Última actualización: 2026-07-01
+
+---
+
 ## ¿Cuantas practicas profesionales son?
 
-Para titularte tienes que dar 2 prácticas profesionales a lo largo de la carrera.
+Para titularte tienes que dar 2 prácticas profesionales a lo largo de la carrera, ambas de 180 horas como mínimo.
 
 ---
 
 ## ¿Como puedo informarme más respecto a las prácticas?
 
-El profesor Iván Sipiran (Actual coordinador del sistema de las prácticas) hará una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, su mail es isipiran@dcc.uchile.cl. Además esta el How-To en esta página. :)
+Los coordinadores de prácticas (al 2026-1, Francisco Gutierrez y Valentín Muñoz) hacen una charla sobre el tema cada semestre. Tanto si tomas o no el ramo de práctica, puedes asistir a ella. Si tienes más dudas, puedes consultar la [web de prácticas del DCC](https://practicas.dcc.uchile.cl), o si tu duda es más específica puedes enviar un correo a practicas@dcc.uchile.cl
 
 ---
 
 ## ¿Qué es eso de taller de practica?
 
-Antes de poder realizar la práctica tienes que dar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. En este curso tendrás que ver una serie de videos que ayudarán a tu desenvolvimiento en la práctica.
+En teoría, antes de poder realizar la práctica tienes que completar el Taller de Práctica Profesional correspondiente al número de práctica que te toca hacer. En la realidad, esta función la cumple un EOL con contenido bastante poco relevante a realizar una práctica, pero aún es necesario que lo completes.
 
 ---
 
 ## ¿Cual es la diferencia entre la práctica 1 y la práctica 2?
 
-La segunda por lo general requiere tareas de mayor complejidad. La mejor manera de saber si la práctica es lo suficientemente compleja es preinscribiéndola.
+La segunda por lo general requiere tareas de mayor complejidad. La mejor manera de saber si la práctica es lo suficientemente compleja es formulando el plan de práctica.
 
 ---
 
@@ -26,13 +30,13 @@ La segunda por lo general requiere tareas de mayor complejidad. La mejor manera 
 
 **Los ramos jamás podrán ser pasados como práctica**, ya que son actividades académicas y no cumplen el mismo objetivo que busca la práctica profesional.
 
-Sin embargo, en el caso específico de que el proyecto de Ingeniería de Software 1 o 2 **no sea del DCC**, exista la posibilidad de contar con un supervisor profesional afin a computación y la práctica sea continuar con el trabajo de esos ramos de la misma forma que cualquier otra práctica (presencial, part o full time), te recomendamos pasar el caso por la preinscripción para que sea evaluado.
+Sin embargo, en el caso específico de que el proyecto de Ingeniería de Software 1 o 2 **no sea del DCC**, exista la posibilidad de contar con un supervisor profesional afin a computación y la práctica sea continuar con el trabajo de esos ramos de la misma forma que cualquier otra práctica (presencial, part o full time), te recomendamos consultar con los coordinadores de práctica.
 
 ---
 
 ## ¿Cuantas horas exactamente debe durar la práctica?
 
-1 mes full-time (45 horas semanales) o 2 meses part-time.
+1 mes full-time (45 horas semanales) o 2 meses part-time (en total, un mínimo de 180 horas trabajadas durante la práctica).
 
 ---
 
