@@ -4,7 +4,7 @@
 
 # Sources of truth
 
-Las fuentes de la verdad la [sección de evaluación de la web de prácticas](https://apps.dcc.uchile.cl/pregrado/portal_practicas/evaluacion) y [los coordinadores de prácticas](practicas@dcc.uchile.cl). Ante cualquier desacuerdo entre alguna de estas fuentes y lo planteado acá, predominan las anteriormente mencionadas.
+Las fuentes de la verdad la [sección de evaluación de la web de prácticas](https://apps.dcc.uchile.cl/pregrado/portal_practicas/evaluacion) y los [coordinadores de prácticas](practicas@dcc.uchile.cl). Ante cualquier desacuerdo entre alguna de estas fuentes y lo planteado acá, predominan las anteriormente mencionadas.
 
 # Templates
 
