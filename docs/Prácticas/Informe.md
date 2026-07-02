@@ -11,7 +11,7 @@ Las fuentes de la verdad la [sección de evaluación de la web de prácticas](ht
 Conocemos al menos los siguientes _templates_ de informe:
 
 * [LaTeX por AnnBenavides](https://www.overleaf.com/latex/templates/informe-de-practica-universidad-de-chile/tszjxjhntzrh).
-* [Typst por Cristopher Marín](https://github.com/PuntitOwO/template-informe-practica-fcfm).
+* [Typst por Christopher Marín](https://github.com/PuntitOwO/template-informe-practica-fcfm).
 * Probablemente puedas adaptar el template de informe [en LaTeX de Pablo Pizarro R.](https://template-latex.github.io/informe).
 
 # Formato
